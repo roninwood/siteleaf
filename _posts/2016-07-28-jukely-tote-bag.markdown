@@ -1,10 +1,11 @@
 ---
 title: Jukely tote bag
 date: 2016-07-28 18:12:00 Z
-tags:
+categories:
 - jukely
+tags:
 - print
-- apparel
+- swag
 ---
 
 ![pat_1.jpg](/uploads/pat_1.jpg)
