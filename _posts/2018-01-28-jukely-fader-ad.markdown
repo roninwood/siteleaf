@@ -1,8 +1,9 @@
 ---
 title: Jukely Fader ad
 date: 2018-01-28 18:35:00 Z
-tags:
+categories:
 - jukely
+tags:
 - print
 - ad
 ---
