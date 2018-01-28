@@ -9,4 +9,6 @@ tags:
 - music
 ---
 
-<iframe src="https://player.vimeo.com/video/253156741" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<div class="video-responsive">
+	<iframe src="https://player.vimeo.com/video/253156741" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
