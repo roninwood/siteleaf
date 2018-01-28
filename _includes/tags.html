@@ -3,13 +3,21 @@
 <p class="mt-xs-4"><strong>Companies</strong></p>
 <ul class="list-unstyled">
     {% for category in site.categories %}
-        <li><a href="/category/">{{ category.alias }}</a></li>
+        <li>
+            <a href="{{category.url}}" class="{% if category.alias == page.alias %}strong text-accent {% endif%}">
+                {{ category.alias }}
+            </a>
+        </li>
     {% endfor %}
 </ul>
 
 <p class="mt-xs-4"><strong>Tags</strong></p>
 <ul class="list-unstyled">
     {% for tag in site.tags %}
-        <li>{{ tag.alias }}</li>
+        <li>
+            <a href="{{tag.url}}" class="{% if tag.alias == page.alias %}strong text-accent {% endif%}">
+                {{ tag.alias }}
+            </a>
+        </li>
     {% endfor %}
 </ul>
