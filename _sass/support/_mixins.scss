@@ -1,0 +1,94 @@
+
+// Breakpoints
+
+@mixin breakpoint($media) {
+
+    @if $media == xs-up {
+        @media only screen and (min-width: 0) {
+            @content;
+        }
+    }
+    
+    @else if $media == xs-only {
+        @media only screen and (min-width: 0) and (max-width: $media-sm - 1) {
+            @content;
+        }
+    }
+
+    @else if $media == sm-down {
+        @media only screen and (min-width: 0) and (max-width: $media-md - 1) {
+            @content;
+        }
+    }
+
+    @else if $media == sm-up {
+        @media only screen and (min-width: $media-sm) {
+            @content;
+        }
+    }
+
+    @else if $media == sm-only {
+        @media only screen and (min-width: $media-sm) and (max-width: $media-md - 1) {
+            @content;
+        }
+    }
+
+    @else if $media == md-down {
+        @media only screen and (min-width: 0) and (max-width: $media-lg - 1) {
+            @content;
+        }
+    }
+
+    @else if $media == md-up {
+        @media only screen and (min-width: $media-md) {
+            @content;
+        }
+    }
+
+    @else if $media == md-only {
+        @media only screen and (min-width: $media-md) and (max-width: $media-lg - 1) {
+            @content;
+        }
+    }
+
+    @else if $media == lg-down {
+        @media only screen and (min-width: 0) and (max-width: $media-xl - 1) {
+            @content;
+        }
+    }
+
+    @else if $media == lg-up {
+        @media only screen and (min-width: $media-lg) {
+            @content;
+        }
+    }
+
+    @else if $media == lg-only {
+        @media only screen and (min-width: $media-lg) and (max-width: $media-xl - 1) {
+            @content;
+        }
+    }
+
+    @else if $media == xl-down {
+        @media only screen and (min-width: 0) {
+            @content;
+        }
+    }
+
+    @else if $media == xl-up or xl-only {
+        @media only screen and (min-width: $media-xl) {
+            @content;
+        }
+    }
+}
+
+
+// Clearfix
+
+@mixin clearfix {
+    &:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+}

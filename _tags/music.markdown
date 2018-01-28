@@ -1,0 +1,4 @@
+---
+title: music
+alias: Music
+---

@@ -1,0 +1,36 @@
+---
+---
+
+// Support
+
+@import "support/variables"; // Mixins
+@import "support/mixins"; // Variables
+
+
+// Modules
+
+@import "modules/layout"; // Layout
+@import "modules/grid_column"; // Grid column
+@import "modules/colors"; // Colors
+@import "modules/typography"; // Typography
+@import "modules/spacing"; // Spacing
+@import "modules/animation"; // Animation
+
+
+
+// Resets
+
+body,
+html {
+    margin: 0;
+    padding: 0;
+}
+
+// Overrides
+video {
+  background-color: #0048fb !important;
+}
+
+* {
+    box-sizing: border-box;
+}

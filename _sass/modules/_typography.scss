@@ -1,0 +1,76 @@
+// Typography
+
+
+// Resets
+
+p,h1,h2,h3,h4,h5,h6 {
+    margin-top: $space;
+    margin-bottom: $space;
+}
+
+// Base
+
+body {
+    font-family: $font-body;
+    color: $black;
+    line-height: 1.4;
+}
+
+a {
+    color: $black;
+    text-decoration: none;
+
+    &:hover {
+        color: $accent;
+    }
+}
+
+
+// Headers
+
+h1, .h1 {
+    font-size: 1.5em;
+    font-weight: normal;
+}
+
+h2, .h2 {
+    font-size: 1em;
+    font-weight: normal;
+}
+
+.text-smaller {
+    font-size: 0.8em;
+}
+
+
+// Text alignment
+
+.text-left {
+    text-align: left;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}
+
+
+// Lists
+
+.list-unstyled {
+    list-style-type: none;
+    padding-left: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+
+// Text transform
+
+.text-uppercase {
+    text-transform: uppercase;
+}
+

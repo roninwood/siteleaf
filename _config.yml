@@ -1,6 +1,6 @@
 ---
 title: Ronin Wood
-timezone: UTC
+timezone: America/New_York
 collections:
   posts:
     title: Posts
@@ -8,7 +8,17 @@ collections:
   uploads:
     title: Uploads
     output: true
+  tags:
+    title: tags
+    output: true
+  categories:
+    title: categories
+    output: true
 defaults:
+- scope:
+    path: ''
+  values:
+    layout: default
 - scope:
     path: ''
     type: posts
@@ -17,7 +27,19 @@ defaults:
     permalink: "/posts/:title/"
 - scope:
     path: ''
-    type: pages
+    type: categories
   values:
-    layout: page
+      permalink: "/categories/:title"
+      layout: categories
+      alias: 
+- scope:
+    path: ''
+    type: tags
+  values:
+      permalink: "/tags/:title"
+      layout: tags
+      alias: 
 permalink: pretty
+date_format: "%b %d, %Y"
+sass:
+    sass_dir: _sass

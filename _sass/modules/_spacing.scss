@@ -1,0 +1,144 @@
+// Spacing
+
+
+// Margin
+
+@include breakpoint(xs-up) {
+    .m-xs-0 { margin: 0; }
+    .m-xs-1 { margin: $space; }
+    .m-xs-2 { margin: $space * 2; }
+    .m-xs-3 { margin: $space * 3; }
+    .m-xs-4 { margin: $space * 3; }
+
+    .mt-xs-0 { margin-top: 0; }
+    .mt-xs-1 { margin-top: $space; }
+    .mt-xs-2 { margin-top: $space * 2; }
+    .mt-xs-3 { margin-top: $space * 3; }
+    .mt-xs-4 { margin-top: $space * 4; }
+
+    .mr-xs-0 { margin-right: 0; }
+    .mr-xs-1 { margin-right: $space; }
+    .mr-xs-2 { margin-right: $space * 2; }
+    .mr-xs-3 { margin-right: $space * 3; }
+    .mr-xs-4 { margin-right: $space * 4; }
+
+    .mb-xs-0 { margin-bottom: 0; }
+    .mb-xs-1 { margin-bottom: $space; }
+    .mb-xs-2 { margin-bottom: $space * 2; }
+    .mb-xs-3 { margin-bottom: $space * 3; }
+    .mb-xs-4 { margin-bottom: $space * 4; }
+    
+    .ml-xs-0 { margin-left: 0 }
+    .ml-xs-1 { margin-left: $space; }
+    .ml-xs-2 { margin-left: $space * 2; }
+    .ml-xs-3 { margin-left: $space * 3; }
+    .ml-xs-4 { margin-left: $space * 4; }
+
+    .m-xs-auto { margin: auto; }
+    .mx-xs-auto { margin-left: auto; margin-right: auto;}
+    .my-xs-auto { margin-top: auto; margin-bottom: auto;}
+}
+
+@include breakpoint(md-up) {
+    .m-md-0 { margin: 0 }
+    .m-md-1 { margin: $space; }
+    .m-md-2 { margin: $space * 2; }
+    .m-md-3 { margin: $space * 3; }
+    .m-md-4 { margin: $space * 3; }
+
+    .mt-md-0 { margin-top: 0 }
+    .mt-md-1 { margin-top: $space; }
+    .mt-md-2 { margin-top: $space * 2; }
+    .mt-md-3 { margin-top: $space * 3; }
+    .mt-md-4 { margin-top: $space * 4; }
+
+    .mr-md-0 { margin-right: 0 }
+    .mr-md-1 { margin-right: $space; }
+    .mr-md-2 { margin-right: $space * 2; }
+    .mr-md-3 { margin-right: $space * 3; }
+    .mr-md-4 { margin-right: $space * 4; }
+
+    .mb-md-0 { margin-bottom: 0 }
+    .mb-md-1 { margin-bottom: $space; }
+    .mb-md-2 { margin-bottom: $space * 2; }
+    .mb-md-3 { margin-bottom: $space * 3; }
+    .mb-md-4 { margin-bottom: $space * 4; }
+    
+    .ml-md-0 { margin-left: 0 }
+    .ml-md-1 { margin-left: $space; }
+    .ml-md-2 { margin-left: $space * 2; }
+    .ml-md-3 { margin-left: $space * 3; }
+    .ml-md-4 { margin-left: $space * 4; }
+
+    .m-md-auto { margin: auto; }
+    .mx-md-auto { margin-left: auto; margin-right: auto;}
+    .my-md-auto { margin-top: auto; margin-bottom: auto;}
+}
+
+
+
+// Padding
+
+@include breakpoint(xs-up) {
+    .p-xs-0 { padding: 0 }
+    .p-xs-1 { padding: $space; }
+    .p-xs-2 { padding: $space * 2; }
+    .p-xs-3 { padding: $space * 3; }
+    .p-xs-4 { padding: $space * 4; }
+
+    .pt-xs-0 { padding-top: 0 }
+    .pt-xs-1 { padding-top: $space; }
+    .pt-xs-2 { padding-top: $space * 2; }
+    .pt-xs-3 { padding-top: $space * 3; }
+    .pt-xs-4 { padding-top: $space * 4; }
+
+    .pr-xs-0 { padding-right: 0 }
+    .pr-xs-1 { padding-right: $space; }
+    .pr-xs-2 { padding-right: $space * 2; }
+    .pr-xs-3 { padding-right: $space * 3; }
+    .pr-xs-4 { padding-right: $space * 4; }
+
+    .pb-xs-0 { padding-bottom: 0 }
+    .pb-xs-1 { padding-bottom: $space; }
+    .pb-xs-2 { padding-bottom: $space * 2; }
+    .pb-xs-3 { padding-bottom: $space * 3; }
+    .pb-xs-4 { padding-bottom: $space * 4; }
+    
+    .pl-xs-0 { padding-left: 0 }
+    .pl-xs-1 { padding-left: $space; }
+    .pl-xs-2 { padding-left: $space * 2; }
+    .pl-xs-3 { padding-left: $space * 3; }
+    .pl-xs-4 { padding-left: $space * 4; }
+}
+
+@include breakpoint(md-up) {
+    .p-md-0 { padding: 0 }
+    .p-md-1 { padding: $space; }
+    .p-md-2 { padding: $space * 2; }
+    .p-md-3 { padding: $space * 3; }
+    .p-md-4 { padding: $space * 4; }
+
+    .pt-md-0 { padding-top: 0 }
+    .pt-md-1 { padding-top: $space; }
+    .pt-md-2 { padding-top: $space * 2; }
+    .pt-md-3 { padding-top: $space * 3; }
+    .pt-md-4 { padding-top: $space * 4; }
+
+    .pr-md-0 { padding-right: 0 }
+    .pr-md-1 { padding-right: $space; }
+    .pr-md-2 { padding-right: $space * 2; }
+    .pr-md-3 { padding-right: $space * 3; }
+    .pr-md-4 { padding-right: $space * 4; }
+
+    .pb-md-0 { padding-bottom: 0 }
+    .pb-md-1 { padding-bottom: $space; }
+    .pb-md-2 { padding-bottom: $space * 2; }
+    .pb-md-3 { padding-bottom: $space * 3; }
+    .pb-md-4 { padding-bottom: $space * 4; }
+    
+    .pl-md-0 { padding-left: 0 }
+    .pl-md-1 { padding-left: $space; }
+    .pl-md-2 { padding-left: $space * 2; }
+    .pl-md-3 { padding-left: $space * 3; }
+    .pl-md-4 { padding-left: $space * 4; }
+}

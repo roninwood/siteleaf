@@ -1,0 +1,15 @@
+
+
+<p class="mt-xs-4"><strong>Companies</strong></p>
+<ul class="list-unstyled">
+    {% for category in site.categories %}
+        <li><a href="/category/">{{ category.alias }}</a></li>
+    {% endfor %}
+</ul>
+
+<p class="mt-xs-4"><strong>Tags</strong></p>
+<ul class="list-unstyled">
+    {% for tag in site.tags %}
+        <li>{{ tag.alias }}</li>
+    {% endfor %}
+</ul>

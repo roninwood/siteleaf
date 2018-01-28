@@ -1,0 +1,115 @@
+// Layout
+
+
+
+// Display
+
+.display-block {
+    display: block;
+}
+
+.display-inline {
+    display: inline;
+}
+
+.display-inline-block {
+    display: inline-block;
+}
+
+.display-none {
+    display: none;
+}
+
+
+// Max width
+
+.max-width {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.max-width-xs {
+    max-width: $media-xs;
+}
+
+.max-width-sm {
+    max-width: $media-sm;
+}
+
+.max-width-md {
+    max-width: $media-md;
+}
+
+.max-width-lg {
+    max-width: $media-lg;
+}
+
+.max-width-xl {
+    max-width: $media-xl;
+}
+
+
+// Borders
+
+.b-t {
+    border-top-style: solid;
+    border-top-width: 1px;
+}
+
+.b-l {
+    border-left-style: solid;
+    border-left-width: 1px;
+}
+
+.b-b {
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+}
+
+
+.b-r {
+    border-right-style: solid;
+    border-right-width: 1px;
+}
+
+
+// Positioning
+
+.position-relative {
+    position: relative;
+}
+
+.position-absolute {
+    position: absolute;
+}
+
+.position-fixed {
+    position: fixed;
+    top: 0;
+    z-index: 100;
+    display: block;
+}
+
+@include breakpoint(md-up) {
+    .position-fixed-md-up {
+        position: fixed;
+        top: 0;
+        z-index: 100;
+        display: block;
+    }
+}
+
+
+// Width
+
+.width-100 {
+    width: 100%;
+}
+
+
+// Images
+
+.post-body img {
+    max-width: 100%;
+    max-height: 800px;
+}
