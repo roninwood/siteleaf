@@ -1,6 +1,13 @@
 ---
 title: Jukely 10 second Interviews
 date: 2018-01-28 21:09:00 -05:00
+categories:
+- Jukely
+tags:
+- Animation
+- social
+- Music
+- video
 ---
 
 <div class="video-responsive">
