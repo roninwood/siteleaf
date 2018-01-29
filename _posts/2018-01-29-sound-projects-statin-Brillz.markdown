@@ -1,6 +1,6 @@
 ---
 title: Sound Projects Brillz
-date: 2018-01-28 20:08:00 Z
+date: 2018-01-29 15:08:00 -05:00
 categories:
 - jukely
 tags:
