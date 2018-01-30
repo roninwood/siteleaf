@@ -1,0 +1,15 @@
+---
+title: Holiday Stickers
+date: 2018-01-29 21:03:00 -05:00
+categories:
+- Book of the Month
+tags:
+- social
+- video
+- Animation
+---
+
+<div class="video-responsive">
+	<iframe src="https://player.vimeo.com/video/253260407" width="640" height="640" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+
