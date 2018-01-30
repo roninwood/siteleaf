@@ -1,8 +1,8 @@
 ---
 title: Jukely cozy
-date: 2018-01-28 18:34:00 Z
+date: 2018-01-28 13:34:00 -05:00
 categories:
-- jukely
+- Jukely
 tags:
 - print
 - swag
