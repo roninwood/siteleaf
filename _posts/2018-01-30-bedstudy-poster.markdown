@@ -1,5 +1,5 @@
 ---
-title: bedstudy Poster
+title: Bedstudy Poster
 date: 2018-01-30 13:44:00 -05:00
 categories:
 - Freelance
