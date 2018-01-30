@@ -2,9 +2,9 @@
 layout: default
 ---
 
-<div class="col-group pl-xs-0 pr-xs-0">
+<div class="grid-group">
     {% for post in site.posts %}
-        <div class="col pl-xs-1 pr-xs-1 col-xs-12 col-lg-6 mb-xs-4">
+        <div class="grid">
             {% include post.html %}
         </div>
     {% endfor %}

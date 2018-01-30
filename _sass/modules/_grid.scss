@@ -1,0 +1,28 @@
+// CSS grid
+
+
+.grid-group {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+
+.grid {
+    padding: 10px;
+}
+
+
+
+@include breakpoint(xs-up) {
+    .grid {
+        grid-column: span 3;
+    }
+}
+
+@include breakpoint(lg-up) {
+    .grid {
+        grid-column: span 2;
+    }
+}
