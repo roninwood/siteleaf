@@ -1,6 +1,6 @@
 ---
 title: Jukely cozy
-date: 2016-07-28 14:12:00 -04:00
+date: 2018-01-28 13:34:00 -05:00
 categories:
 - Jukely
 tags:
