@@ -1,6 +1,6 @@
 ---
 title: Time Spent apparel
-date: 2018-01-28 19:37:00 Z
+date: 2018-01-28 14:37:00 -05:00
 categories:
 - Time Spent
 tags:
