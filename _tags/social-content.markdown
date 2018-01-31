@@ -1,5 +1,5 @@
 ---
-title: social content
-alias: Social content
+title: social
+alias: Social
 ---
 

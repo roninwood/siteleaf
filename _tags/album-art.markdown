@@ -1,5 +1,5 @@
 ---
-title: album art
-alias: Album art
+title: album covers
+alias: Album covers
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: animation
+title: Animation
 alias: Animation
 ---
 
