@@ -9,6 +9,6 @@ tags:
 - vhs
 ---
 
-<div class="video-responsive">
+<div class="video-square">
 	<iframe src="https://player.vimeo.com/video/253260381" width="640" height="640" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>

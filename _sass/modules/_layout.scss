@@ -118,16 +118,52 @@
 
 // Videos
 
-.video-responsive{
+
+// Horizontal video
+.video-responsive {
     overflow:hidden;
     padding-bottom:56.25%;
     position:relative;
     height:0;
+    
+    iframe {
+        left:0;
+        top:0;
+        height:100%;
+        width:100%;
+        position:absolute;
+    }
 }
-.video-responsive iframe{
-    left:0;
-    top:0;
-    height:100%;
-    width:100%;
-    position:absolute;
+
+// Square videos
+.video-square {
+    overflow:hidden;
+    padding-bottom:100%;
+    position:relative;
+    height:0;
+    
+    iframe {
+        left:0;
+        top:0;
+        height:100%;
+        width:100%;
+        position:absolute;
+    }
+}
+
+
+// Vertical videos
+.video-vertical {
+    overflow:hidden;
+    padding-bottom: 156.25%;
+    position:relative;
+    height:0;
+    
+    iframe {
+        left:0;
+        top:0;
+        height:100%;
+        width:100%;
+        position:absolute;
+    }
 }
