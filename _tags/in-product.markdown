@@ -1,5 +1,5 @@
 ---
-title: In product
+title: in product
 alias: In product
 ---
 

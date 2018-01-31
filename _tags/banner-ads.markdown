@@ -1,5 +1,5 @@
 ---
-title: Banner ads
+title: banner ads
 alias: Banner ads
 ---
 
