@@ -1,6 +1,6 @@
 ---
 title: Jukely Beta
-date: 2018-01-28 20:19:00 Z
+date: 2018-01-28 15:19:00 -05:00
 categories:
 - Jukely
 tags:
