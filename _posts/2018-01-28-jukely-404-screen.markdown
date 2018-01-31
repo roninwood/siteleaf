@@ -2,12 +2,12 @@
 title: Jukely 404 Screen
 date: 2018-01-28 16:12:00 -05:00
 categories:
-- jukely
+- Jukely
 tags:
-- Animation
+- animation
 - video
 - music
-- In product
+- in product
 ---
 
 <div class="video-responsive">

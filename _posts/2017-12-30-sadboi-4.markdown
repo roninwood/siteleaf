@@ -5,7 +5,7 @@ categories:
 - Freelance
 tags:
 - posters
-- Music
+- music
 ---
 
 ![poster4.png](/uploads/poster4.png)

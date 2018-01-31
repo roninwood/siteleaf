@@ -5,7 +5,7 @@ categories:
 - Jukely
 tags:
 - events
-- Music
+- music
 - swag
 - merch
 ---

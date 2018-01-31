@@ -5,6 +5,9 @@
 	{{ post.content }}
 
 	<div class="text-left text-smaller">
+		{{post.title}}
+	</div>
+	<div class="text-left text-smaller">
 		{% for category in post.categories %}
 			<a href="/categories/{{ category | slugify }}">{{ category }}</a>
 		{% endfor %}

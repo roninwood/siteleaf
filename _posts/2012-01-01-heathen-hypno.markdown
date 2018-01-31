@@ -5,7 +5,7 @@ categories:
 - Sleep No More
 tags:
 - posters
-- Animation
+- animation
 ---
 
 ![hYPNO-111.gif](/uploads/hYPNO-111.gif)

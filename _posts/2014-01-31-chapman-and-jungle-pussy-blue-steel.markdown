@@ -5,7 +5,7 @@ categories:
 - Freelance
 tags:
 - album covers
-- Music
+- music
 ---
 
 ![blue-steel.png](/uploads/blue-steel.png)

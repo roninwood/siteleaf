@@ -2,7 +2,7 @@
 title: Time Spent billboard
 date: 2018-01-28 18:56:00 Z
 categories:
-- time spent
+- Time Spent
 tags:
 - print
 - ad

@@ -4,7 +4,7 @@ date: 2018-01-30 22:00:00 -05:00
 categories:
 - Book of the Month
 tags:
-- Animation
+- animation
 - social
 ---
 

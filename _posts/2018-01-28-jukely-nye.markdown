@@ -4,7 +4,7 @@ date: 2018-01-28 16:19:00 -05:00
 categories:
 - Jukely
 tags:
-- Animation
+- animation
 - video
 - music
 ---

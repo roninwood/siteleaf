@@ -4,7 +4,7 @@ date: 2018-01-29 21:04:00 -05:00
 categories:
 - Book of the Month
 tags:
-- Animation
+- animation
 ---
 
 <div class="video-square">

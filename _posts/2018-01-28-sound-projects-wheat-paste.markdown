@@ -2,7 +2,7 @@
 title: Sound Projects Wheat Paste
 date: 2018-01-28 20:16:00 Z
 categories:
-- jukely
+- Jukely
 tags:
 - posters
 - music

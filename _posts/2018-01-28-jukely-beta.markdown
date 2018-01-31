@@ -4,8 +4,8 @@ date: 2018-01-28 20:19:00 Z
 categories:
 - Jukely
 tags:
-- Marketing
-- Animation
+- marketing
+- animation
 ---
 
 ![jukely-beta.gif](/uploads/jukely-beta.gif)

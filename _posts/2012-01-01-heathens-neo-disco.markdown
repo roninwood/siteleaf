@@ -5,7 +5,7 @@ categories:
 - Sleep No More
 tags:
 - posters
-- Animation
+- animation
 ---
 
 ![neo_deco_greenish-208.gif](/uploads/neo_deco_greenish-208.gif)

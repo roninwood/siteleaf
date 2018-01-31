@@ -5,7 +5,7 @@ categories:
 - Jukely
 tags:
 - posters
-- Music
+- music
 ---
 
 ![martin.png](/uploads/martin.png)

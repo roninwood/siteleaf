@@ -5,7 +5,7 @@ categories:
 - Sleep No More
 tags:
 - posters
-- Animation
+- animation
 ---
 
 ![heathens_9_10-99.gif](/uploads/heathens_9_10-99.gif)

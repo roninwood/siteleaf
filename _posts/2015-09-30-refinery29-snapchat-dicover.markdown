@@ -5,7 +5,7 @@ categories:
 - Freelance
 - refinery29
 tags:
-- Animation
+- animation
 - social
 - snapchat
 ---

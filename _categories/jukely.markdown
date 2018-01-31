@@ -1,5 +1,5 @@
 ---
-title: jukely
+title: Jukely
 alias: Jukely
 ---
 

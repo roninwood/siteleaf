@@ -6,7 +6,7 @@ categories:
 tags:
 - social
 - video
-- Animation
+- animation
 ---
 
 <div class="video-square">

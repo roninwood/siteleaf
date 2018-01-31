@@ -6,7 +6,7 @@ categories:
 tags:
 - photography
 - video
-- Animation
+- animation
 ---
 
 <div class="video-square">

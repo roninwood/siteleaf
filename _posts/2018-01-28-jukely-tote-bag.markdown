@@ -2,7 +2,7 @@
 title: Jukely tote bag
 date: 2018-01-28 23:31:00 -05:00
 categories:
-- jukely
+- Jukely
 tags:
 - print
 - swag

@@ -5,7 +5,7 @@ categories:
 - Freelance
 tags:
 - posters
-- Music
+- music
 ---
 
 ![bedstudy_Bk.png](/uploads/bedstudy_Bk.png)
