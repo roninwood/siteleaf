@@ -1,6 +1,6 @@
 ---
 title: January Release Photo
-date: 2018-01-29 10:07:00 -05:00
+date: 2018-01-29 21:06:00 -05:00
 categories:
 - Book of the Month
 tags:
