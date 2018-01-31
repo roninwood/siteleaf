@@ -69,11 +69,11 @@
 @keyframes fade-in {
     from {
         opacity: .5;
-        -webkit-transform:translate(0,40px);
-        -ms-transform:translate(0,40px);
-        -moz-transform:translate(0,40px);
-        -o-transform:translate(0,40px);
-        transform:translate(0,40px);
+        -webkit-transform:translate(0,50px);
+        -ms-transform:translate(0,50px);
+        -moz-transform:translate(0,50px);
+        -o-transform:translate(0,50px);
+        transform:translate(0,50px);
     }
     to {
         opacity: 1;

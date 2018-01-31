@@ -5,7 +5,7 @@ categories:
 - Jukely
 tags:
 - Animation
-- Social
+- social
 ---
 
 <div class="video-vertical">

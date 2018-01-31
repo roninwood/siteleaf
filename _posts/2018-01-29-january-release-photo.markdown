@@ -5,7 +5,7 @@ categories:
 - Book of the Month
 tags:
 - photography
-- Social
+- social
 ---
 
 ![Jan Selections Post stack-641.jpg](/uploads/Jan%20Selections%20Post%20stack-641.jpg)

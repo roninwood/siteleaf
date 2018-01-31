@@ -5,7 +5,7 @@ categories:
 - Book of the Month
 tags:
 - photography
-- Social
+- social
 ---
 
 ![BUSTER-536.jpg](/uploads/BUSTER-536.jpg)

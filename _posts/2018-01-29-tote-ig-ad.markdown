@@ -7,7 +7,7 @@ tags:
 - photography
 - Animation
 - video
-- Social
+- social
 ---
 
 <div class="video-square">

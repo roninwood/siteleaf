@@ -1,0 +1,5 @@
+---
+title: photography
+alias: Photography
+---
+
