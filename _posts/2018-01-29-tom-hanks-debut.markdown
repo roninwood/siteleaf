@@ -5,6 +5,7 @@ categories:
 - Book of the Month
 tags:
 - video
+- animation
 ---
 
 <div class="video-vertical">
