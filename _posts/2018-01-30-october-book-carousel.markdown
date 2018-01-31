@@ -1,0 +1,14 @@
+---
+title: October Book Carousel
+date: 2018-01-30 23:19:00 -05:00
+categories:
+- Book of the Month
+tags:
+- Animation
+- social
+---
+
+<div class="video-vertical">
+	<https://player.vimeo.com/video/253552296" autoplay=1&loop=1&autopause=0" width="640" height="1138" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+
