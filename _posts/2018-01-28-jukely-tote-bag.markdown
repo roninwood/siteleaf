@@ -1,6 +1,6 @@
 ---
 title: Jukely tote bag
-date: 2018-01-28 13:34:00 -05:00
+date: 2018-01-28 23:31:00 -05:00
 categories:
 - jukely
 tags:
