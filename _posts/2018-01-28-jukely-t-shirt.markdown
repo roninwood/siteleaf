@@ -1,6 +1,6 @@
 ---
 title: Jukely t-shirt
-date: 2018-01-28 19:53:00 Z
+date: 2018-01-28 23:30:00 -05:00
 categories:
 - jukely
 tags:
