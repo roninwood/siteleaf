@@ -8,7 +8,7 @@ tags:
 ---
 
 <div class="video-vertical">
-	<iframe src="https://player.vimeo.com/video/253260478?autoplay=1&loop=1&autopause=0" width="640" height="800" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+	<iframe src="https://player.vimeo.com/video/253260478?&background=1&loop=1&autopause=0" width="640" height="800" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
 
