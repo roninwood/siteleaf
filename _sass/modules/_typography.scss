@@ -71,6 +71,12 @@ h2, .h2 {
     margin-bottom: 0;
 }
 
+@include breakpoint(sm-down) {
+    .list-inline-sm-down li {
+        display: inline-block;
+        margin-right: 10px;
+    }
+}
 
 // Text transform
 

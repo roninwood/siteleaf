@@ -1,7 +1,7 @@
 
 
-<p class="mt-xs-4"><strong>Companies</strong></p>
-<ul class="list-unstyled">
+<p class="mt-xs-2 mt-md-4"><strong>Companies</strong></p>
+<ul class="list-unstyled list-inline-sm-down">
     {% for category in site.categories %}
         <li>
             <a href="{{category.url}}" class="{% if category.alias == page.alias %}strong text-accent {% endif%}">
@@ -11,8 +11,8 @@
     {% endfor %}
 </ul>
 
-<p class="mt-xs-4"><strong>Tags</strong></p>
-<ul class="list-unstyled">
+<p class="mt-xs-2 mt-md-4"><strong>Tags</strong></p>
+<ul class="list-unstyled list-inline-sm-down">
     {% for tag in site.tags %}
         <li>
             <a href="{{tag.url}}" class="{% if tag.alias == page.alias %}strong text-accent {% endif%}">

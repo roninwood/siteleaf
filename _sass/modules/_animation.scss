@@ -66,13 +66,32 @@
     }
 }
 
+@keyframes fade-in {
+    from {
+        opacity: .5;
+        -webkit-transform:translate(0,40px);
+        -ms-transform:translate(0,40px);
+        -moz-transform:translate(0,40px);
+        -o-transform:translate(0,40px);
+        transform:translate(0,40px);
+    }
+    to {
+        opacity: 1;
+        -webkit-transform:translate(0,0);
+        -ms-transform:translate(0,0);
+        -moz-transform:translate(0,0);
+        -o-transform:translate(0,0);
+        transform:translate(0,0);
+    }
+}
+
 
 .animated {
-    -webkit-animation-duration: 0.3s;
-    -ms-animation-duration: 0.3s;
-    -moz-animation-duration: 0.3s;
-    -o-animation-duration: 0.3s;
-    animation-duration: 0.3s;
+    -webkit-animation-duration: 0.7s;
+    -ms-animation-duration: 0.7s;
+    -moz-animation-duration: 0.7s;
+    -o-animation-duration: 0.7s;
+    animation-duration: 0.7s;
     -webkit-animation-fill-mode: both;
     -ms-animation-fill-mode: both;
     -moz-animation-fill-mode: both;
@@ -99,6 +118,14 @@
     -moz-animation-name: rotate;
     -o-animation-name: rotate;
     animation-name: rotate;
+}
+
+.animated-fade-in {
+    -webkit-animation-name: fade-in;
+    -ms-animation-name: fade-in;
+    -moz-animation-name: fade-in;
+    -o-animation-name: fade-in;
+    animation-name: fade-in;
 }
 
 .transition-stretch {
