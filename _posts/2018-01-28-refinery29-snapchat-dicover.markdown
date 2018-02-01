@@ -1,6 +1,6 @@
 ---
 title: Refinery29 Snapchat Dicover
-date: 2015-09-30 16:11:00 -04:00
+date: 2018-01-28 23:48:00 -05:00
 categories:
 - Freelance
 - refinery29
