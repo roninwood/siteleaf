@@ -3,7 +3,6 @@ title: Refinery29 Snapchat Dicover
 date: 2018-01-28 23:48:00 -05:00
 categories:
 - Freelance
-- Refinery29
 tags:
 - animation
 - social
