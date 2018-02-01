@@ -85,6 +85,11 @@
     }
 }
 
+@keyframes blink {
+    from {color: red;}
+    to {color: blue;}
+}
+
 
 .animated {
     -webkit-animation-duration: 0.7s;
@@ -126,6 +131,24 @@
     -moz-animation-name: fade-in;
     -o-animation-name: fade-in;
     animation-name: fade-in;
+}
+
+.animated-blink {
+    -webkit-animation-name: blink;
+    -ms-animation-name: blink;
+    -moz-animation-name: blink;
+    -o-animation-name: blink;
+    animation-name: blink;
+    -webkit-animation-duration: 1s;
+    -ms-animation-duration: 1s;
+    -moz-animation-duration: 1s;
+    -o-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-fill-mode: both;
+    -ms-animation-fill-mode: both;
+    -moz-animation-fill-mode: both;
+    -o-animation-fill-mode: both;
+    animation-fill-mode: both;
 }
 
 .transition-stretch {
