@@ -1,5 +1,5 @@
 ---
-title: February Release
+title: February FB/IG Ad.
 date: 2018-01-29 21:05:00 -05:00
 categories:
 - Book of the Month

@@ -1,5 +1,5 @@
 ---
-title: Silent Barn
+title: Silent Barn Poster
 date: 2018-01-30 22:57:00 -05:00
 categories:
 - Freelance
