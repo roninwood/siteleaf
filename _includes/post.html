@@ -4,17 +4,17 @@
 	
 	{{ post.content }}
 
-	<div class="text-left text-smaller">
+	<div class="mt-xs-1 text-left">
 		{{post.title}}
 	</div>
 	<div class="text-left text-smaller">
 		{% for category in post.categories %}
-			<a href="/categories/{{ category | slugify }}">{{ category }}</a>
+			<a href="/categories/{{ category | slugify }}" class="text-grey">{{ category }}</a>
 		{% endfor %}
 	</div>
 	<div class="text-left text-smaller">
 		{% for tag in post.tags %}
-			<a href="/tags/{{ tag | slugify }}">{{ tag }}</a>
+			<a href="/tags/{{ tag | slugify }}" class="text-grey mr-xs-1">{{ tag }}</a>
 		{% endfor %}
 	</div>
 
