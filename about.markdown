@@ -1,7 +1,7 @@
 ---
-layout: default
 title: About
 date: 2018-01-31 19:18:00 -05:00
+layout: default
 ---
 
 Hi! 
