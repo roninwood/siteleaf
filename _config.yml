@@ -29,14 +29,14 @@ defaults:
     path: ''
     type: categories
   values:
-    permalink: "/categories/:title"
+    permalink: "/categories/:title/"
     layout: categories
     alias: 
 - scope:
     path: ''
     type: tags
   values:
-    permalink: "/tags/:title"
+    permalink: "/tags/:title/"
     layout: tags
     alias: 
 permalink: pretty
