@@ -8,4 +8,4 @@ tags:
 - music
 ---
 
-![alt.jpg](/uploads/alt.jpg)
+![alt-213fb9.jpg](/uploads/alt-213fb9.jpg)
