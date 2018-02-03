@@ -8,4 +8,4 @@ tags:
 - animation
 ---
 
-![Debut_Hanks.png](/uploads/Debut_Hanks.png)
+![Debut_Hanks.jpg](/uploads/Debut_Hanks.jpg)
