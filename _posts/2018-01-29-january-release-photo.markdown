@@ -8,4 +8,4 @@ tags:
 - social
 ---
 
-![Jan Selections Post stack-641.jpg](/uploads/Jan%20Selections%20Post%20stack-641.jpg)
+![Jan-Selections-Post-stack-641.jpg](/uploads/Jan-Selections-Post-stack-641.jpg)
