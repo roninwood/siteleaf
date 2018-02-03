@@ -10,4 +10,6 @@ My name is Ronin and welcome to my homepage. On this site you will find the majo
 
 Ronin
 
+![2018-02-02 13_28_39.733.jpg](/uploads/2018-02-02%2013_28_39.733.jpg)
+
 [PS I love making mixtapes and playlist. ](https://open.spotify.com/user/roninwood?si=a7fA3iPoT66MQub8sgIyKw)
