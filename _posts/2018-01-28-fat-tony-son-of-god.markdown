@@ -8,4 +8,4 @@ tags:
 - album covers
 ---
 
-![Fat_tony_son_of_god_ronin_wood.jpg](/uploads/Fat_tony_son_of_god_ronin_wood.jpg)
+![Fat_tony_son_of_god_ronin_wood-12fbe6.jpg](/uploads/Fat_tony_son_of_god_ronin_wood-12fbe6.jpg)
