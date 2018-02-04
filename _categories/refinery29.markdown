@@ -1,5 +1,5 @@
 ---
-title: refinery29
+title: Refinery29
 alias: Refinery29
 ---
 
