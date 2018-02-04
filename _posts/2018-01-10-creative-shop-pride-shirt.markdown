@@ -7,3 +7,4 @@ tags:
 - swag
 ---
 
+![CS.jpg](/uploads/CS.jpg)
