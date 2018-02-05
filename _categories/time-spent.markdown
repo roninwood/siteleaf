@@ -1,5 +1,5 @@
 ---
-title: time spent
-alias: TIMESPENT
+title: Time Spent
+alias: Time Spent
 ---
 
