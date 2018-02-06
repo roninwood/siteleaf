@@ -4,7 +4,7 @@ date: 2018-01-31 19:18:00 -05:00
 layout: default
 ---
 
-[Resume](/uploads/Ronin_Wood_Resume.pdf)
+[**Résumé**](/uploads/Ronin_Wood_Resume.pdf)
 
 Hi! 
 
