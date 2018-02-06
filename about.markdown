@@ -12,6 +12,6 @@ My name is Ronin and welcome to my homepage.<br> On this site you will find the 
 
 Ronin
 
-[PS I love making mixtapes and playlist. ](https://open.spotify.com/user/roninwood?si=a7fA3iPoT66MQub8sgIyKw)
+[PS I love making mixtapes and playlists. ](https://open.spotify.com/user/roninwood?si=a7fA3iPoT66MQub8sgIyKw)
 
 ![beach-61332a.jpg](/uploads/beach-61332a.jpg)
