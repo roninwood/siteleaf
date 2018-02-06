@@ -6,7 +6,6 @@ categories:
 tags:
 - animation
 - video
-- vhs
 ---
 
 <div class="video-square">
