@@ -5,6 +5,7 @@ categories:
 - Freelance
 tags:
 - album covers
+- music
 ---
 
 ![dj_ryan.gif](/uploads/dj_ryan.gif)
