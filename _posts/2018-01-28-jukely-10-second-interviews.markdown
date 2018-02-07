@@ -4,10 +4,10 @@ date: 2018-01-28 21:09:00 -05:00
 categories:
 - Jukely
 tags:
-- Animation
 - social
-- Music
 - video
+- animation
+- music
 ---
 
 <div class="video-square">
