@@ -6,7 +6,7 @@ categories:
 tags:
 - posters
 - music
-- Marketing
+- print
 ---
 
 ![msmr-billing.jpg](/uploads/msmr-billing.jpg)
