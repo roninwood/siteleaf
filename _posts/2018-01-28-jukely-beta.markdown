@@ -4,7 +4,6 @@ date: 2018-01-28 23:25:00 -05:00
 categories:
 - Jukely
 tags:
-- marketing
 - animation
 ---
 
