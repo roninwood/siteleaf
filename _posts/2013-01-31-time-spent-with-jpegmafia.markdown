@@ -8,6 +8,6 @@ tags:
 - animation
 ---
 
-<div class="video-responsive">
+<div class="video-standard">
 <iframe src="https://player.vimeo.com/video/254167115" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
