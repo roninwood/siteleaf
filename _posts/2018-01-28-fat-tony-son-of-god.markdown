@@ -1,5 +1,5 @@
 ---
-title: Fat Tony - Son of God
+title: Fat Tony - Son of God (Photo Nathanael Turner)
 date: 2018-01-28 23:48:00 -05:00
 categories:
 - Freelance
