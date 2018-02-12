@@ -1,5 +1,0 @@
----
-title: ad
-alias: Ads
----
-
