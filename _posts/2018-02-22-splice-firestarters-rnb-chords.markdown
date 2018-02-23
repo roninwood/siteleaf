@@ -1,5 +1,7 @@
 ---
-title: "Splice Firestarters  RnB Chords -  \n(C.D. Chris Muccioli)"
+title: |-
+  Splice Firestarters  RnB Chords
+  (C.D. Chris Muccioli)
 date: 2018-02-22 22:47:00 -05:00
 categories:
 - Freelance
