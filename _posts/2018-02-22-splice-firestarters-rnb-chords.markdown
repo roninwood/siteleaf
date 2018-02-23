@@ -1,5 +1,5 @@
 ---
-title: Splice Firestarters - RnB Chords
+title: "Splice Firestarters  RnB Chords -  \nCreative Direction Chris Muccioli"
 date: 2018-02-22 22:47:00 -05:00
 categories:
 - Freelance
@@ -8,5 +8,4 @@ tags:
 - social
 ---
 
-![FireStarters_randB_1.jpg](/uploads/FireStarters_randB_1.jpg)
-Creative Direction Chris Muccioli
+![FireStarters_randB_1-35c182.jpg](/uploads/FireStarters_randB_1-35c182.jpg)
