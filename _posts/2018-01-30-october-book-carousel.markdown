@@ -9,5 +9,5 @@ tags:
 ---
 
 <div class="video-vertical">
-	<iframe src="https://player.vimeo.com/video/253552296?autoplay=1&loop=1&autopause=0" width="640" height="1138" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+	<iframe src="https://player.vimeo.com/video/253552296?autoplay=1&loop=1&autopause=0&autopause=0" width="640" height="1138" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
