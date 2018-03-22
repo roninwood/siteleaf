@@ -1,0 +1,10 @@
+---
+title: Art Print
+date: 2017-01-31 14:05:00 -05:00
+categories:
+- Personal
+tags:
+- posters
+---
+
+![Print_2.jpg](/uploads/Print_2.jpg)
