@@ -8,4 +8,4 @@ tags:
 - posters
 ---
 
-![Ghost_2_edit_nodate-166.gif](/uploads/Ghost_2_edit_nodate-166.gif)
+![Ghost_2_edit_nodate-166-1e8069.gif](/uploads/Ghost_2_edit_nodate-166-1e8069.gif)
