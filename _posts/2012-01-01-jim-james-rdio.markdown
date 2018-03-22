@@ -8,4 +8,4 @@ tags:
 - album covers
 ---
 
-![Jim_james_rdio.jpg](/uploads/Jim_james_rdio.jpg)
+![Jim_James_rdio-8b252e.jpg](/uploads/Jim_James_rdio-8b252e.jpg)
