@@ -1,6 +1,6 @@
 ---
 title: |-
-  Splice Firestarters  RnB Chords
+  Splice Firestarters
   (C.D. Chris Muccioli)
 date: 2018-03-23 16:03:00 -04:00
 categories:
@@ -10,4 +10,4 @@ tags:
 - music
 ---
 
-[RONIN_FIRESTARTERS_STORY_MOCK.psd](/uploads/RONIN_FIRESTARTERS_STORY_MOCK.psd)
+![RONIN_FIRESTARTERS_STORY_MOCK.gif](/uploads/RONIN_FIRESTARTERS_STORY_MOCK.gif)
