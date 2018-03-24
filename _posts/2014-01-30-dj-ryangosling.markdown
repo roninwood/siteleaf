@@ -8,4 +8,4 @@ tags:
 - music
 ---
 
-![dj_ryan.gif](/uploads/dj_ryan.gif)
+![dj_ryan-b0f8b2.gif](/uploads/dj_ryan-b0f8b2.gif)
