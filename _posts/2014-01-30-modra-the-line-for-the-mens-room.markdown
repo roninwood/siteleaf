@@ -8,3 +8,4 @@ tags:
 - album covers
 ---
 
+![e8eb9613835925.56278d2160630.jpg](/uploads/e8eb9613835925.56278d2160630.jpg)
