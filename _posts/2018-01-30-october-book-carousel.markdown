@@ -8,4 +8,6 @@ tags:
 - social
 ---
 
-<iframe src="https://player.vimeo.com/video/253552296" width="640" height="1138" frameborder="0" allowfullscreen></iframe>
+<div class="video-vertical">
+	<iframe src="https://player.vimeo.com/video/253552296?&loop=1" width="640" height="1136" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
