@@ -2,7 +2,7 @@
 title: |-
   Splice Firestarters
   (C.D. Chris Muccioli)
-date: 2018-03-23 16:03:00 -04:00
+date: 2018-03-14 16:03:00 -04:00
 categories:
 - Freelance
 tags:
