@@ -8,4 +8,4 @@ tags:
 - print
 ---
 
-![Postcards_2.jpg](/uploads/Postcards_2.jpg)
+![Postcards.jpg](/uploads/Postcards.jpg)
