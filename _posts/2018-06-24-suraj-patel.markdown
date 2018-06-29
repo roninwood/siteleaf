@@ -1,6 +1,6 @@
 ---
 title: Suraj Patel - Vote Share Image
-date: 2018-06-28 14:32:00 -04:00
+date: 2018-06-24 14:32:00 -04:00
 categories:
 - Suraj Patel for NY
 tags:
