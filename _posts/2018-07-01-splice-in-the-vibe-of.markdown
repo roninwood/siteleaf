@@ -1,6 +1,6 @@
 ---
 title: Splice - In the Vibe of ___
-date: 2018-06-01 23:08:00 -04:00
+date: 2018-07-01 23:08:00 -04:00
 categories:
 - Freelance
 tags:
