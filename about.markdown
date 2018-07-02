@@ -20,7 +20,9 @@ Ronin
 [PS I love making mixtapes and playlists. ](https://open.spotify.com/user/roninwood?si=a7fA3iPoT66MQub8sgIyKw)
 
 **Press**
-
+<br>
 [Baltimore Sun](http://www.baltimoresun.com/business/bs-bz-ripleys-plans-20111026-story.html)
+<br>
+[Pitchfork](https://pitchfork.com/news/54448-future-islands-frontman-samuel-t-herring-is-also-a-rapper-watch-him-in-action/)
 <br>
 ![beach-61332a.jpg](/uploads/beach-61332a.jpg)
