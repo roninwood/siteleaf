@@ -25,4 +25,6 @@ Ronin
 <br>
 [Pitchfork](https://pitchfork.com/news/54448-future-islands-frontman-samuel-t-herring-is-also-a-rapper-watch-him-in-action/)
 <br>
+[Spin](https://www.spin.com/2014/03/future-islands-sam-herring-rap-hemlock-ernst/)
+<br>
 ![beach-61332a.jpg](/uploads/beach-61332a.jpg)
