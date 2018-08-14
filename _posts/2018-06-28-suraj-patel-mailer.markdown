@@ -7,4 +7,4 @@ tags:
 - print
 ---
 
-![Artboard-7-copy-2-squashed.png](/uploads/Artboard-7-copy-2-squashed.png)
+![mailer.jpg](/uploads/mailer.jpg)
