@@ -7,4 +7,4 @@ tags:
 - print
 ---
 
-![mailer.jpg](/uploads/mailer.jpg)
+![mailer-f861bf.jpg](/uploads/mailer-f861bf.jpg)
