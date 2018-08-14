@@ -8,4 +8,4 @@ tags:
 - print
 ---
 
-![suraj.jpg](/uploads/suraj.jpg)
+![patel_cart.jpg](/uploads/patel_cart.jpg)

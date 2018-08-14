@@ -9,4 +9,4 @@ tags:
 - posters
 ---
 
-![war_on_drugs.png](/uploads/war_on_drugs.png)
+![war_on_drugs-851089.jpg](/uploads/war_on_drugs-851089.jpg)
