@@ -7,4 +7,4 @@ tags:
 - swag
 ---
 
-![suraj_merch.png](/uploads/suraj_merch.png)
+![suraj_merch.jpg](/uploads/suraj_merch.jpg)
