@@ -7,4 +7,4 @@ tags:
 - swag
 ---
 
-![new-blood-tee-photo-d7890c.jpg](/uploads/new-blood-tee-photo-d7890c.jpg)
+![New_blood_web.jpg](/uploads/New_blood_web.jpg)
