@@ -1,6 +1,11 @@
 ---
 title: Sadboi 14
 date: 2018-10-01 22:19:00 -04:00
+categories:
+- Freelance
+tags:
+- posters
+- music
 ---
 
 ![14.jpg](/uploads/14.jpg)
