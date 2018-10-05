@@ -4,7 +4,7 @@ date: 2018-01-31 19:18:00 -05:00
 layout: default
 ---
 
-[**Résumé**](/uploads/Ronin_Wood_Resume.pdf)
+**[Résumé](/uploads/Ronin_Wood_Resume.pdf)**
 
 **Ronin Iftahk Wood**
 
@@ -12,30 +12,34 @@ layout: default
 
 Graphic designer, art director, VHS enthusiast, merch man, playlist curator. Dabbling in animation, photography, and video. I help brands that I believe in connect with their audiences. Free swag doesn’t have to suck.
 
-Alum of Maryland Institute College of Art’s Graphic Design program. Young Thug super fan. Passionate about memes. Always online. 
+Alum of Maryland Institute College of Art’s Graphic Design program. Young Thug super fan. Passionate about memes. Always online.
 
 **Previous employment**
-- Suraj Patel for Congress
-- Book of the Month 
-- Facebook
-- Jukely
-- The McKittrick Hotel, Home of Sleep No More
+
+* Suraj Patel for Congress
+
+* Book of the Month
+
+* Facebook
+
+* Jukely
+
+* The McKittrick Hotel, Home of Sleep No More
 
 **Clients**
-
 Refinery29,  Prime Corner Baltimore, Splice, Jim James, Preservation Hall Jazz band, Panic! at the Disco, DK the Punisher, Fat Tony, Butch Dawson
 
 **[Mixtapes](https://open.spotify.com/user/roninwood?si=mbPYsoDuT6KScYXPDfFMaA)**
 
 **Contact**
 
-roninwood@gmail.com
-[Twitter](https://twitter.com/RoninWood) 
-[WorkingNotWorking](https://workingnotworking.com/34933-ronin)
-[Linkedin ](https://www.linkedin.com/in/roninwood/)
+* roninwood@gmail.com
 
+* [Twitter](https://twitter.com/RoninWood)
 
+* [WorkingNotWorking](https://workingnotworking.com/34933-ronin)
 
+* [Linkedin ](https://www.linkedin.com/in/roninwood/)
 
 **Press**
 <br>
