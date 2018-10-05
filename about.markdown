@@ -26,7 +26,7 @@ Refinery29,  Prime Corner Baltimore, Splice, Jim James, Preservation Hall Jazz b
 
 **[Mixtapes](https://open.spotify.com/user/roninwood?si=mbPYsoDuT6KScYXPDfFMaA)**
 
-**Contact **
+**Contact**
 roninwood@gmail.com
 [Twitter](https://twitter.com/RoninWood) 
 [WorkingNotWorking](https://workingnotworking.com/34933-ronin)
