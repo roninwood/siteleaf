@@ -29,12 +29,14 @@ Refinery29,  Prime Corner Baltimore, Splice, Jim James, Preservation Hall Jazz b
 **[Mixtapes](https://open.spotify.com/user/roninwood?si=mbPYsoDuT6KScYXPDfFMaA)**
 
 **Contact**
+
 roninwood@gmail.com
 [Twitter](https://twitter.com/RoninWood)
 [WorkingNotWorking](https://workingnotworking.com/34933-ronin)
 [Linkedin](https://www.linkedin.com/in/roninwood/)
 
 **Press**
+
 <br>
 [Baltimore Sun](http://www.baltimoresun.com/business/bs-bz-ripleys-plans-20111026-story.html)
 <br>
@@ -43,5 +45,6 @@ roninwood@gmail.com
 [Spin](https://www.spin.com/2014/03/future-islands-sam-herring-rap-hemlock-ernst/)
 <br>
 [Sidney Morning Herald](https://www.smh.com.au/entertainment/art-and-design/graffiti-artist-banksy-unveils-nyc-art-20131004-2uzbn.html)
-<br>
+
+
 ![beach-61332a.jpg](/uploads/beach-61332a.jpg)
