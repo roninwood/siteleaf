@@ -14,12 +14,12 @@ Graphic designer, art director, VHS enthusiast, merch man, playlist curator. Dab
 
 Alum of Maryland Institute College of Art’s Graphic Design program. Young Thug super fan. Passionate about memes. Always online. 
 
-**Previous employment **
+**Previous employment**
 - Suraj Patel for Congress
 - Book of the Month 
 - Facebook
 - Jukely
-- The McKittrick Hotel - Home of Sleep No More
+- The McKittrick Hotel, Home of Sleep No More
 
 **Clients**
 
