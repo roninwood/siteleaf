@@ -26,7 +26,7 @@ Alum of Maryland Institute College of Art’s Graphic Design program. Young Thug
 
 Refinery29,  Prime Corner Baltimore, Splice, Jim James, Preservation Hall Jazz band, Panic! at the Disco, DK the Punisher, Fat Tony, Butch Dawson
 
-**[Mixtapes](https://open.spotify.com/user/roninwood?si=mbPYsoDuT6KScYXPDfFMaA)**
+
 
 **Contact**
 
@@ -34,6 +34,10 @@ roninwood@gmail.com
 [Twitter](https://twitter.com/RoninWood)
 [WorkingNotWorking](https://workingnotworking.com/34933-ronin)
 [Linkedin](https://www.linkedin.com/in/roninwood/)
+
+
+**[Mixtapes](https://open.spotify.com/user/roninwood?si=mbPYsoDuT6KScYXPDfFMaA)**
+
 
 **Press**
 
