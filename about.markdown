@@ -15,18 +15,15 @@ Graphic designer, art director, VHS enthusiast, merch man, playlist curator. Dab
 Alum of Maryland Institute College of Art’s Graphic Design program. Young Thug super fan. Passionate about memes. Always online.
 
 **Previous employment**
-
 * Suraj Patel for Congress
-
 * Book of the Month
-
 * Facebook
-
 * Jukely
-
 * The McKittrick Hotel, Home of Sleep No More
 
+
 **Clients**
+
 Refinery29,  Prime Corner Baltimore, Splice, Jim James, Preservation Hall Jazz band, Panic! at the Disco, DK the Punisher, Fat Tony, Butch Dawson
 
 **[Mixtapes](https://open.spotify.com/user/roninwood?si=mbPYsoDuT6KScYXPDfFMaA)**
