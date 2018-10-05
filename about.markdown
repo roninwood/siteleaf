@@ -21,12 +21,14 @@ Alum of Maryland Institute College of Art’s Graphic Design program. Young Thug
 - Jukely
 - The McKittrick Hotel - Home of Sleep No More
 
-**Clients** 
+**Clients**
+
 Refinery29,  Prime Corner Baltimore, Splice, Jim James, Preservation Hall Jazz band, Panic! at the Disco, DK the Punisher, Fat Tony, Butch Dawson
 
 **[Mixtapes](https://open.spotify.com/user/roninwood?si=mbPYsoDuT6KScYXPDfFMaA)**
 
 **Contact**
+
 roninwood@gmail.com
 [Twitter](https://twitter.com/RoninWood) 
 [WorkingNotWorking](https://workingnotworking.com/34933-ronin)
