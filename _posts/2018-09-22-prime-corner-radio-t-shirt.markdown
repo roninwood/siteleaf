@@ -5,6 +5,7 @@ categories:
 - Freelance
 tags:
 - swag
+- music
 ---
 
 ![Prime.jpg](/uploads/Prime.jpg)
