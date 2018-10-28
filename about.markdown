@@ -40,6 +40,7 @@ roninwood@gmail.com
 
 
 **Press**
+<br>
 [TYPE magazine](https://www.typemag.org/post/fonts-and-leading-on-the-campaign-trail)
 <br>
 [Citylab](https://www.citylab.com/design/2018/10/can-great-campaign-poster-win-election/572107/)
