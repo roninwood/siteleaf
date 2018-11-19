@@ -6,7 +6,7 @@ layout: default
 
 
 # Ronin Iftahk Wood
-Brooklyn-based human originally from southern VA<br>
+Brooklyn-based human originally from southern VA<br><br>
 
 **[Mixtapes](https://roninwood.com/playlists)**
 
