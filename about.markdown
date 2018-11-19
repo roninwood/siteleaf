@@ -6,13 +6,14 @@ layout: default
 
 
 # Ronin Iftahk Wood
+**Brooklyn-based human originally from southern VA**<br>
 
 **[Mixtapes](https://roninwood.com/playlists)**
 
 **[Résumé](/uploads/Ronin_Wood_Resume.pdf)**
 <br>
 
-**Brooklyn-based human originally from southern VA**
+
 
 Graphic designer, art director, VHS enthusiast, merch man, playlist curator. Dabbling in animation, photography, and video. I help brands that I believe in connect with their audiences. Free swag doesn’t have to suck.
 
