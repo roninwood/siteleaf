@@ -4,11 +4,13 @@ date: 2018-01-31 19:18:00 -05:00
 layout: default
 ---
 
+
+****Ronin Iftahk Wood****
+**[Mixtapes](https://roninwood.com/playlists**
 **[Résumé](/uploads/Ronin_Wood_Resume.pdf)**
 
-**Ronin Iftahk Wood**
 
-**Brooklyn-based human originally from southern VA (home of Clipse)**
+**Brooklyn-based human originally from southern VA**
 
 Graphic designer, art director, VHS enthusiast, merch man, playlist curator. Dabbling in animation, photography, and video. I help brands that I believe in connect with their audiences. Free swag doesn’t have to suck.
 
@@ -36,7 +38,6 @@ roninwood@gmail.com
 [Linkedin](https://www.linkedin.com/in/roninwood/)
 
 
-**[Mixtapes](https://open.spotify.com/user/roninwood?si=mbPYsoDuT6KScYXPDfFMaA)**
 
 
 **Press**
