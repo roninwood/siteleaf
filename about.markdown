@@ -10,7 +10,7 @@ layout: default
 **[Mixtapes](https://roninwood.com/playlists)**
 
 **[Résumé](/uploads/Ronin_Wood_Resume.pdf)**
-
+<br>
 
 **Brooklyn-based human originally from southern VA**
 
