@@ -119,6 +119,8 @@
 
 // Column offset
 
+
+// navigation
 @include breakpoint(md-up) {
     .col-offset-md-4 { margin-left: percentage(4/12); }
 }
@@ -129,4 +131,10 @@
 
 @include breakpoint(xl-up) {
     .col-offset-xl-2 { margin-left: percentage(2/12); }
+}
+
+
+// mixtapes, just at xs
+@include breakpoint(xs-only) {
+    .col-offset-xs-1 { margin-left: percentage(1/12); }
 }

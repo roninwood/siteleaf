@@ -44,31 +44,36 @@
     .m-md-1 { margin: $space; }
     .m-md-2 { margin: $space * 2; }
     .m-md-3 { margin: $space * 3; }
-    .m-md-4 { margin: $space * 3; }
+    .m-md-4 { margin: $space * 4; }
+    .m-md-6 { margin: $space * 6; }
 
     .mt-md-0 { margin-top: 0 }
     .mt-md-1 { margin-top: $space; }
     .mt-md-2 { margin-top: $space * 2; }
     .mt-md-3 { margin-top: $space * 3; }
     .mt-md-4 { margin-top: $space * 4; }
+    .mt-md-6 { margin-top: $space * 6; }
 
     .mr-md-0 { margin-right: 0 }
     .mr-md-1 { margin-right: $space; }
     .mr-md-2 { margin-right: $space * 2; }
     .mr-md-3 { margin-right: $space * 3; }
     .mr-md-4 { margin-right: $space * 4; }
+    .mr-md-6 { margin-right: $space * 6; }
 
     .mb-md-0 { margin-bottom: 0 }
     .mb-md-1 { margin-bottom: $space; }
     .mb-md-2 { margin-bottom: $space * 2; }
     .mb-md-3 { margin-bottom: $space * 3; }
     .mb-md-4 { margin-bottom: $space * 4; }
+    .mb-md-6 { margin-bottom: $space * 6; }
     
     .ml-md-0 { margin-left: 0 }
     .ml-md-1 { margin-left: $space; }
     .ml-md-2 { margin-left: $space * 2; }
     .ml-md-3 { margin-left: $space * 3; }
     .ml-md-4 { margin-left: $space * 4; }
+    .ml-md-6 { margin-left: $space * 6; }
 
     .m-md-auto { margin: auto; }
     .mx-md-auto { margin-left: auto; margin-right: auto;}

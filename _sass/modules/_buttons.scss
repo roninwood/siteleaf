@@ -1,0 +1,37 @@
+// Buttons
+
+.btn {
+    display: inline-block;
+    font-family: $font-body;
+    font-weight: bold;
+    padding: 16px 36px;
+    text-decoration: none;
+}
+
+
+// Black button
+
+.btn-black {
+    background-color: $black;
+    border-radius: 6px;
+    color: $white;
+}
+
+.btn-black:hover {
+    background-color: lighten($black, 5%);
+    color: $white;
+}
+
+
+// Spotify button
+
+.btn-spotify {
+    background-color: $green-spotify;
+    border-radius: 30px;
+    color: $white;
+}
+
+.btn-spotify:hover {
+    background-color: lighten($green-spotify, 5%);
+    color: $white;
+}
