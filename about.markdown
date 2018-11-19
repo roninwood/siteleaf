@@ -14,7 +14,7 @@ Alum of Maryland Institute College of Art’s Graphic Design program. Young Thug
 **[Mixtapes](https://roninwood.com/playlists)**
 
 **[Résumé](/uploads/Ronin_Wood_Resume.pdf)**
-<br>
+<br><br>
 
 
 
