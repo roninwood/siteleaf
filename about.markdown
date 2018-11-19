@@ -6,7 +6,9 @@ layout: default
 
 
 # Ronin Iftahk Wood
+
 **[Mixtapes](https://roninwood.com/playlists)**
+
 **[Résumé](/uploads/Ronin_Wood_Resume.pdf)**
 
 
