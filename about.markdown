@@ -32,7 +32,7 @@ Alum of Maryland Institute College of Art’s Graphic Design program. Young Thug
 **Clients**
 
 Refinery29,  Prime Corner Baltimore, Splice, Jim James, Preservation Hall Jazz band, Panic! at the Disco, DK the Punisher, Fat Tony, Butch Dawson
-
+<br>
 
 **Contact**
 
