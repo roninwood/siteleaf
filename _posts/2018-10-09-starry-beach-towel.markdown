@@ -1,7 +1,6 @@
 ---
 title: Starry Beach Towel
 date: 2018-10-09 21:24:00 -04:00
-published: false
 tags:
 - swag
 ---

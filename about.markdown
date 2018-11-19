@@ -40,7 +40,11 @@ roninwood@gmail.com
 
 
 **Press**
-
+<br>
+[TYPE magazine](https://www.typemag.org/post/fonts-and-leading-on-the-campaign-trail)
+<br>
+[Citylab](https://www.citylab.com/design/2018/10/can-great-campaign-poster-win-election/572107/)
+<br>
 [Baltimore Sun](http://www.baltimoresun.com/business/bs-bz-ripleys-plans-20111026-story.html)
 <br>
 [Pitchfork](https://pitchfork.com/news/54448-future-islands-frontman-samuel-t-herring-is-also-a-rapper-watch-him-in-action/)
