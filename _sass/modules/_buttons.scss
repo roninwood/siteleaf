@@ -1,11 +1,14 @@
 // Buttons
 
 .btn {
+    border: 0;
     display: inline-block;
     font-family: $font-body;
+    font-size: 16px;
     font-weight: bold;
     padding: 16px 36px;
     text-decoration: none;
+    -webkit-appearance: none;
 }
 
 
@@ -34,4 +37,19 @@
 .btn-spotify:hover {
     background-color: lighten($green-spotify, 5%);
     color: $white;
+}
+
+
+
+// Input
+
+.input {
+    border: 1px solid $black;
+    border-radius: 6px;
+    display: inline-block;
+    font-family: $font-body;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 16px;
+    -webkit-appearance: none;
 }
