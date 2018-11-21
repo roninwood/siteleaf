@@ -50,6 +50,8 @@ Refinery29,  Prime Corner Baltimore, Splice, Jim James, Preservation Hall Jazz b
 <br>
 [Citylab](https://www.citylab.com/design/2018/10/can-great-campaign-poster-win-election/572107/)
 <br>
+[Washington Post](https://www.washingtonpost.com/graphics/2018/politics/political-logos/?utm_term=.4b5af2a132af)
+<br>
 [Baltimore Sun](http://www.baltimoresun.com/business/bs-bz-ripleys-plans-20111026-story.html)
 <br>
 [Pitchfork](https://pitchfork.com/news/54448-future-islands-frontman-samuel-t-herring-is-also-a-rapper-watch-him-in-action/)
