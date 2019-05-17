@@ -5,6 +5,7 @@ categories:
 - Starry
 tags:
 - social
+- photography
 ---
 
 ![alex.png](/uploads/alex.png)
