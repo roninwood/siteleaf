@@ -1,6 +1,6 @@
 ---
 title: Starry goes hollywood
-date: 2019-05-16 22:59:00 -04:00
+date: 2018-11-20 22:59:00 -05:00
 categories:
 - Starry
 tags:
