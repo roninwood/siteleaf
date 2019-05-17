@@ -7,4 +7,4 @@ tags:
 - social
 ---
 
-![cyber_monday.gif](/uploads/cyber_monday.gif)
+![cyber_monday_ig.gif](/uploads/cyber_monday_ig.gif)
