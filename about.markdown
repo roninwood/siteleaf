@@ -36,7 +36,7 @@ Refinery29,  Prime Corner Baltimore, Splice, Jim James, Preservation Hall Jazz b
 
 **Contact**
 
-[roninwood@gmail.com](mailto:roninwood@gmail.com)<br>
+[Hi@roninwood.com](mailto:Hi@roninwood.com)<br>
 [Twitter](https://twitter.com/RoninWood)<br>
 [WorkingNotWorking](https://workingnotworking.com/34933-ronin)<br>
 [Linkedin](https://www.linkedin.com/in/roninwood/)<br>
