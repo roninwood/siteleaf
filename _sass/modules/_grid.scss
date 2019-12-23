@@ -17,6 +17,12 @@
 
 @include breakpoint(xs-up) {
     .grid {
+        grid-column: span 6;
+    }
+}
+
+@include breakpoint(sm-up) {
+    .grid {
         grid-column: span 3;
     }
 }
