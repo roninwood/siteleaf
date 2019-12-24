@@ -9,14 +9,14 @@ layout: default
 
 Brooklyn-based GraphiC Designer originally from southern. VA<br>Designer at Starry.<br>
 
-**Contact**
+**Contact**<br>
 [Email](mailto:Hi@roninwood.com)<br>
 [Twitter](https://twitter.com/RoninWood)<br>
 [WorkingNotWorking](https://workingnotworking.com/34933-ronin)<br>
 [Linkedin](https://www.linkedin.com/in/roninwood/)<br>
 
 
-**Previous employment**
+**Previous employment**<br>
 * Suraj Patel for Congress
 * Book of the Month
 * Facebook
@@ -24,12 +24,12 @@ Brooklyn-based GraphiC Designer originally from southern. VA<br>Designer at Star
 * The McKittrick Hotel, Home of Sleep No More
 
 
-**Some Clients**
+**Some Clients**<br>
 Refinery29,  Prime Corner Baltimore, Splice, Jim James, Preservation Hall Jazz band, Panic! at the Disco, DK the Punisher, Fat Tony, Butch Dawson
 <br>
 
 
-**Press & Mentions**
+**Press & Mentions**<br>
 [TYPE magazine](https://www.typemag.org/post/fonts-and-leading-on-the-campaign-trail)
 <br>
 [Citylab](https://www.citylab.com/design/2018/10/can-great-campaign-poster-win-election/572107/)
