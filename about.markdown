@@ -7,7 +7,7 @@ layout: default
 
 # **Ronin Iftahk Wood**
 
-Brooklyn-based GraphiC Designer originally from southern. VA<br>Designer at Starry.<br>
+Brooklyn-based Graphic Designer originally from southern. VA<br>Designer at Starry.<br>
 
 **Contact**<br>
 [Email](mailto:Hi@roninwood.com)<br>
