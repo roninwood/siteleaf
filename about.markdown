@@ -7,7 +7,7 @@ layout: default
 
 # Ronin Iftahk Wood
 Brooklyn-based human originally from southern VA<br><br>
-Graphic designer, art director, VHS enthusiast, merch man, playlist curator. Dabbling in animation, photography, and video. I help brands that I believe in connect with their audiences. Free swag doesn’t have to suck.
+Graphic designer, art director, VHS enthusiast, merch man, playlist curator. Dabbling in animation, photography, and video. 
 
 Alum of Maryland Institute College of Art’s Graphic Design program. Young Thug super fan. Passionate about memes. Always online.
 
