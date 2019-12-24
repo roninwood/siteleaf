@@ -7,7 +7,7 @@ layout: default
 
 # Ronin Iftahk Wood
 
-Brooklyn-based GraphiC Designer originally from southern VA<br>Designer at Starry<br>
+Brooklyn-based GraphiC Designer originally from southern. VA<br>Designer at Starry.<br>
 
 **Contact**
 
@@ -33,7 +33,7 @@ Refinery29,  Prime Corner Baltimore, Splice, Jim James, Preservation Hall Jazz b
 <br>
 
 
-**Press**
+**Press & Mentions**
 <br>
 [TYPE magazine](https://www.typemag.org/post/fonts-and-leading-on-the-campaign-trail)
 <br>
