@@ -10,7 +10,6 @@ layout: default
 Brooklyn-based GraphiC Designer originally from southern. VA<br>Designer at Starry.<br>
 
 **Contact**
-
 [Email](mailto:Hi@roninwood.com)<br>
 [Twitter](https://twitter.com/RoninWood)<br>
 [WorkingNotWorking](https://workingnotworking.com/34933-ronin)<br>
@@ -26,13 +25,11 @@ Brooklyn-based GraphiC Designer originally from southern. VA<br>Designer at Star
 
 
 **Some Clients**
-
 Refinery29,  Prime Corner Baltimore, Splice, Jim James, Preservation Hall Jazz band, Panic! at the Disco, DK the Punisher, Fat Tony, Butch Dawson
 <br>
 
 
 **Press & Mentions**
-<br>
 [TYPE magazine](https://www.typemag.org/post/fonts-and-leading-on-the-campaign-trail)
 <br>
 [Citylab](https://www.citylab.com/design/2018/10/can-great-campaign-poster-win-election/572107/)
