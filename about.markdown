@@ -32,15 +32,6 @@ Brooklyn-based GraphiC Designer originally from southern VA<br>Designer at Starr
 Refinery29,  Prime Corner Baltimore, Splice, Jim James, Preservation Hall Jazz band, Panic! at the Disco, DK the Punisher, Fat Tony, Butch Dawson
 <br>
 
-**Contact**
-
-[Hi@roninwood.com](mailto:Hi@roninwood.com)<br>
-[Twitter](https://twitter.com/RoninWood)<br>
-[WorkingNotWorking](https://workingnotworking.com/34933-ronin)<br>
-[Linkedin](https://www.linkedin.com/in/roninwood/)<br>
-
-
-
 
 **Press**
 <br>
