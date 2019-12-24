@@ -17,8 +17,6 @@ Brooklyn-based GraphiC Designer originally from southern. VA<br>Designer at Star
 [Linkedin](https://www.linkedin.com/in/roninwood/)<br>
 
 
-**[Mixtapes](https://roninwood.com/playlists)**
-
 **Previous employment**
 * Suraj Patel for Congress
 * Book of the Month
