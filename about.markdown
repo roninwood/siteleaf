@@ -17,11 +17,11 @@ Brooklyn-based GraphiC Designer originally from southern. VA<br>Designer at Star
 
 
 **Previous employment**
-* Suraj Patel for Congress
-* Book of the Month
-* Facebook
-* Jukely
-* The McKittrick Hotel, Home of Sleep No More
+Suraj Patel for Congress<br>
+Book of the Month<br>
+Facebook<br>
+Jukely<br>
+The McKittrick Hotel, Home of Sleep No More<br>
 
 
 **Some Clients**<br>
