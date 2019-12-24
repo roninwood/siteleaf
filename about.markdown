@@ -7,6 +7,8 @@ layout: default
 
 # Ronin Iftahk Wood
 
+Brooklyn-based GraphiC Designer originally from southern VA<br>Designer at Starry<br>
+
 **Contact**
 
 [Hi@roninwood.com](mailto:Hi@roninwood.com)<br>
@@ -14,17 +16,8 @@ layout: default
 [WorkingNotWorking](https://workingnotworking.com/34933-ronin)<br>
 [Linkedin](https://www.linkedin.com/in/roninwood/)<br>
 
-Brooklyn-based GraphiC Designer originally from southern VA<br>Designer at Starry<br>
-
-Alum of Maryland Institute College of Art’s Graphic Design program. Young Thug super fan. Passionate about memes. Always online.
 
 **[Mixtapes](https://roninwood.com/playlists)**
-
-
-
-
-
-
 
 **Previous employment**
 * Suraj Patel for Congress
