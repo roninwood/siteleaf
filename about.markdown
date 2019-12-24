@@ -5,7 +5,7 @@ layout: default
 ---
 
 
-# Ronin Iftahk Wood
+# **Ronin Iftahk Wood**
 
 Brooklyn-based GraphiC Designer originally from southern. VA<br>Designer at Starry.<br>
 
@@ -16,7 +16,7 @@ Brooklyn-based GraphiC Designer originally from southern. VA<br>Designer at Star
 [Linkedin](https://www.linkedin.com/in/roninwood/)<br>
 
 
-**Previous employment**
+**Previous employment**<br>
 Suraj Patel for Congress<br>
 Book of the Month<br>
 Facebook<br>
