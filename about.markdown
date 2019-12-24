@@ -6,15 +6,20 @@ layout: default
 
 
 # Ronin Iftahk Wood
-Brooklyn-based human originally from southern VA<br><br>
-Graphic designer, art director, VHS enthusiast, merch man, playlist curator. Dabbling in animation, photography, and video. 
+
+**Contact**
+
+[Hi@roninwood.com](mailto:Hi@roninwood.com)<br>
+[Twitter](https://twitter.com/RoninWood)<br>
+[WorkingNotWorking](https://workingnotworking.com/34933-ronin)<br>
+[Linkedin](https://www.linkedin.com/in/roninwood/)<br>
+
+Brooklyn-based GraphiC Designer originally from southern VA<br>Designer at Starry<br>
 
 Alum of Maryland Institute College of Art’s Graphic Design program. Young Thug super fan. Passionate about memes. Always online.
 
 **[Mixtapes](https://roninwood.com/playlists)**
 
-**[Résumé](/uploads/Ronin_Wood_Resume.pdf)**
-<br><br>
 
 
 
@@ -29,7 +34,7 @@ Alum of Maryland Institute College of Art’s Graphic Design program. Young Thug
 * The McKittrick Hotel, Home of Sleep No More
 
 
-**Clients**
+**Some Clients**
 
 Refinery29,  Prime Corner Baltimore, Splice, Jim James, Preservation Hall Jazz band, Panic! at the Disco, DK the Punisher, Fat Tony, Butch Dawson
 <br>
