@@ -11,8 +11,8 @@
     {% endfor %}
 </ul>
 
-<p class="mt-xs-2 mt-md-4"><strong>Tags</strong></p>
-<ul class="list-unstyled list-inline-sm-down">
+<p class="mt-xs-2 mt-md-4 display-xs-none display-sm-block"><strong>Tags</strong></p>
+<ul class="list-unstyled list-inline-sm-down display-xs-none display-sm-block">
     {% for tag in site.tags %}
         <li>
             <a href="{{tag.url}}" class="{% if tag.alias == page.alias %}strong text-accent {% endif%}">

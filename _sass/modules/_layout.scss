@@ -8,6 +8,7 @@
     display: block;
 }
 
+
 .display-inline {
     display: inline;
 }
@@ -22,6 +23,33 @@
 
 .overflow-hidden {
     overflow: hidden;
+}
+
+
+// Responsive display
+
+@include breakpoint(xs-up) {
+    .display-xs-none {
+        display: none;
+    }
+}
+
+@include breakpoint(xs-up) {
+    .display-xs-block {
+        display: block;
+    }
+}
+
+@include breakpoint(sm-up) {
+    .display-sm-none {
+        display: none;
+    }
+}
+
+@include breakpoint(sm-up) {
+    .display-sm-block {
+        display: block;
+    }
 }
 
 
