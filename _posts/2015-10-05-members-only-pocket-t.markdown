@@ -7,4 +7,4 @@ tags:
 - swag
 ---
 
-![MO_pocket-bcc5c5.jpg](/uploads/MO_pocket-bcc5c5.jpg)
+![MO_pocket-ef8178.jpg](/uploads/MO_pocket-ef8178.jpg)
