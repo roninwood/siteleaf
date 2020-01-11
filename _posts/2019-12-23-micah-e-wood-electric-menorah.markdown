@@ -5,6 +5,7 @@ categories:
 - Freelance
 tags:
 - album covers
+- music
 ---
 
 ![Eletric_menorah.jpg](/uploads/Eletric_menorah.jpg)
