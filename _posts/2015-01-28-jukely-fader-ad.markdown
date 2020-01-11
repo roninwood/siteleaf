@@ -1,6 +1,6 @@
 ---
 title: Jukely Fader Magazine Print Ad
-date: 2015-01-28 23:30:00 -05:00
+date: 2016-01-28 23:30:00 -05:00
 categories:
 - Jukely
 tags:
