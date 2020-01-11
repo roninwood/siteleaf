@@ -1,6 +1,6 @@
 ---
 title: Jukely Step & Repeat and Tote
-date: 2018-10-05 23:40:00 -05:00
+date: 2018-10-06 00:40:00 -04:00
 categories:
 - Jukely
 tags:
