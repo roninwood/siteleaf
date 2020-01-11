@@ -7,4 +7,4 @@ tags:
 - swag
 ---
 
-![mo_tote.jpg](/uploads/mo_tote.jpg)
+![mo_tote-b81849.jpg](/uploads/mo_tote-b81849.jpg)
