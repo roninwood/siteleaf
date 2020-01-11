@@ -1,6 +1,6 @@
 ---
-title: Jukely Step & Repeat and Tote
-date: 2018-10-06 00:40:00 -04:00
+title: Members Only - Step & Repeat and Tote
+date: 2015-10-06 00:40:00 -04:00
 categories:
 - Jukely
 tags:
