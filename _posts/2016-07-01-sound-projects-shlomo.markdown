@@ -1,6 +1,6 @@
 ---
-title: Sound Projects Shlomo
-date: 2016-01-28 23:25:00 -05:00
+title: Sound Projects - Shlomo
+date: 2016-07-01 23:25:00 -04:00
 categories:
 - Jukely
 tags:

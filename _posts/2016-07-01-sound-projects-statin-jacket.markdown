@@ -1,6 +1,6 @@
 ---
-title: Sound Projects Statin Jacket
-date: 2016-01-28 22:00:00 -05:00
+title: Sound Projects - Statin Jackets
+date: 2016-07-01 22:00:00 -04:00
 categories:
 - Jukely
 tags:
