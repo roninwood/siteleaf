@@ -10,6 +10,4 @@ tags:
 - in product
 ---
 
-<div class="video-square">
-	<iframe src="https://player.vimeo.com/video/253151811?&background=1&loop=1" width="640" height="640" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</div>
+<iframe src="https://player.vimeo.com/video/253151811" width="640" height="640" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
