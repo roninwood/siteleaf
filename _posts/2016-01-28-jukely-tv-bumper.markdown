@@ -9,3 +9,4 @@ tags:
 - music
 ---
 
+![Jukely_tv.gif](/uploads/Jukely_tv.gif)
