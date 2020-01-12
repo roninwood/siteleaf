@@ -5,6 +5,7 @@ categories:
 - Jukely
 tags:
 - ads
+- Marketing
 ---
 
 ![Fader_banner2.jpg](/uploads/Fader_banner2.jpg)
