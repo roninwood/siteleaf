@@ -10,5 +10,5 @@ tags:
 ---
 
 <div class="video-square">
-	<iframe src="https://player.vimeo.com/video/253260407?&background=1&loop=1&autopause=0" width="640" height="640" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+	<iframe src="https://player.vimeo.com/video/253260407?&background=1&loop=1&autopause=1" width="640" height="640" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
