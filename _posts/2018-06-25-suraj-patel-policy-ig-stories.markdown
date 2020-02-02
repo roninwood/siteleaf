@@ -9,4 +9,7 @@ tags:
 - video
 ---
 
-<iframe src="https://player.vimeo.com/video/276957274" width="640" height="1140" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<div class="video-vertical">
+	<iframe src="https://player.vimeo.com/video/276957274?&loop=1" width="640" height="1136" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+
