@@ -8,4 +8,4 @@ tags:
 - ads
 ---
 
-![fader_site.png](/uploads/fader_site.png)
+![Fader_banner1.jpg](/uploads/Fader_banner1.jpg)
