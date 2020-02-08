@@ -2,13 +2,13 @@
 title: Refinery29 Snapchat Dicover
 date: 2018-01-28 23:48:00 -05:00
 categories:
-- Refinery29
+  - Refinery29
 tags:
-- animation
-- social
-- snapchat
+  - animation
+  - social
+  - snapchat
 ---
 
 <div class="video-vertical">
-	<iframe src="https://player.vimeo.com/video/253505192?&loop=1" width="640" height="1136" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+	<iframe src="https://player.vimeo.com/video/253505192?&loop=1" width="640" height="1136" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen allow="autoplay" background="1"></iframe>
 </div>

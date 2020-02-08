@@ -1,6 +1,6 @@
 ---
 title: Jukely Snapchat Geo Filter
-date: 2016-01-28 16:21:00 -05:00
+date: 2015-01-28 16:21:00 -05:00
 categories:
   - Jukely
 tags:
