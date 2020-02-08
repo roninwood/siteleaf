@@ -2,10 +2,10 @@
 title: Jukely Snapchat Geo Filter
 date: 2015-01-28 16:21:00 -05:00
 categories:
-  - Jukely
+- Jukely
 tags:
-  - animation
-  - social
+- animation
+- social
 ---
 
 <div class="video-vertical">

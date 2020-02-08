@@ -2,11 +2,11 @@
 title: Jukely NYE
 date: 2016-01-28 16:19:00 -05:00
 categories:
-  - Jukely
+- Jukely
 tags:
-  - animation
-  - video
-  - music
+- animation
+- video
+- music
 ---
 
 <div class="video-widescreen">

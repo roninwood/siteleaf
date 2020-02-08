@@ -2,9 +2,9 @@
 title: Stephen King
 date: 2018-01-29 21:04:00 -05:00
 categories:
-  - Book of the Month
+- Book of the Month
 tags:
-  - animation
+- animation
 ---
 
 <div class="video-square">
