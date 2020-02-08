@@ -1,97 +1,111 @@
 <!DOCTYPE html>
 <html>
+  {% include head.html %}
 
-    {% include head.html %}
+  <body>
+    <div class="width-100 col-group mt-xs-2 mt-md-4 mb-xs-2 mb-md-4">
+      <div
+        class="position-fixed-md-up col col-md-4 col-lg-3 col-xl-2 p-xs-1 p-sm-2 p-md-4"
+      >
+        <a href="/" class="display-block mb-xs-1"
+          ><img
+            src="/assets/img/ronin-90.png"
+            alt="Ronin Iftahk Wood"
+            style="width: 100%; max-width: 100px;"
+        /></a>
+        <p class="mb-xs-1">Designer & art&nbsp;director</p>
 
-    <body>
+        <p class="text-smaller mb-xs-2 mb-md-4">
+          Designer at <a href="https://starry.com">Starry</a>,<br />
+          <a
+            class="animated-blink animated-loop"
+            href="mailto:hi@roninwood.com?subject=Ronin I think your work is very very good"
+            >Send me an email today!</a
+          >
+        </p>
 
-        <div class="width-100 col-group mt-xs-2 mt-md-4 mb-xs-2 mb-md-4">
+        {% include tags.html %}
 
-            <div class="position-fixed-md-up col col-md-4 col-lg-3 col-xl-2 p-xs-1 p-sm-2 p-md-4">
-                <a href="/" class="display-block mb-xs-1"><img src="/assets/img/ronin-90.png" alt="Ronin Iftahk Wood" style="width: 100%; max-width: 100px;"></a>
-                <p class="mb-xs-1">Designer & art&nbsp;director</p>
+        <p class="strong mt-xs-2 mt-md-4 mb-xs-1">
+          <a href="/playlists">Playlists</a>
+        </p>
+        <p class="strong mt-xs-1 mb-xs-2 mb-md-4"><a href="/about">About</a></p>
 
-                <p class="text-smaller mb-xs-2 mb-md-4">Designer at <a href="https://starry.com">Starry</a>,<br> <a class="animated-blink animated-loop" href="mailto:hi@roninwood.com?subject=Ronin I think your work is very very good">Send me an email today!</a></p>
+        <p class="mb-xs-4">&copy; 2018</p>
+      </div>
 
-                {% include tags.html %}
-
-                <p class="strong mt-xs-2 mt-md-4 mb-xs-1"><a href="/playlists">Playlists</a></p>
-                <p class="strong mt-xs-1 mb-xs-2 mb-md-4"><a href="/about">About</a></p>
-                
-                <p class="mb-xs-4">&copy; 2018</p>
-            </div>
-
-            <div class="col col-md-8 col-offset-md-4 col-lg-9 col-offset-lg-3 col-xl-10 col-offset-xl-2">
-
-                {{ content }}
-            
-            </div>
-        </div>
-        <!-- Chatra {literal} -->
-<script>
-    (function(d, w, c) {
-        w.ChatraID = 'C84a9oSEELd6EBC6M';
-        var s = d.createElement('script');
-        w[c] = w[c] || function() {
+      <div
+        class="col col-md-8 col-offset-md-4 col-lg-9 col-offset-lg-3 col-xl-10 col-offset-xl-2"
+      >
+        {{ content }}
+      </div>
+    </div>
+    <!-- Chatra {literal} -->
+    <script>
+      (function(d, w, c) {
+        w.ChatraID = "C84a9oSEELd6EBC6M";
+        var s = d.createElement("script");
+        w[c] =
+          w[c] ||
+          function() {
             (w[c].q = w[c].q || []).push(arguments);
-        };
+          };
         s.async = true;
-        s.src = 'https://call.chatra.io/chatra.js';
+        s.src = "https://call.chatra.io/chatra.js";
         if (d.head) d.head.appendChild(s);
-    })(document, window, 'Chatra');
-</script>
-<!-- /Chatra {/literal} -->
+      })(document, window, "Chatra");
+    </script>
+    <!-- /Chatra {/literal} -->
 
-<script src="https://getinsights.io/static/js/insights.js"></script>
- <script src="https://player.vimeo.com/api/player.js"></script>
- <script src="https://code.jquery.com/jquery-3.3.1.min.js" 
-        integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" 
-        crossorigin="anonymous">
-</script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.inview/1.0.0/jquery.inview.min.js"></script>
- <script>
-    var players = []
-$('[class*="video"]').each(function() {
-    const iframe = $(this).find("iframe").get(0);
-    if(iframe.src.includes('vimeo')) {
-  players.push({
-      player: new Vimeo.Player($(this).find("iframe").get(0)),
-      top: $(this).position().top,
-      status: "paused",
-      element: $(this)
-  })
-}
-  // console.log(players, players.length)
-});
-var viewportHeight = $(window).height();
+    <script src="https://getinsights.io/static/js/insights.js"></script>
+    <script src="https://player.vimeo.com/api/player.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script src="https://rawgit.com/protonet/jquery.inview/master/jquery.inview.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.15/lodash.min.js"></script>
+    <script>
+      $("frame").attr("allow", "autoplay;");
+      _u = _.noConflict();
 
-$(window).on('scroll', function() {
-    // console.log("i'm scrolling")
-    var scrollPos = $(window).scrollTop();
-    for(var i=0; i<players.length;i++) {
-        console.log( $(players[i]))
-        var elementFromTop = players[i].top - scrollPos;
-        console.log('distance of iframe from top of viewport', elementFromTop, 'viewport height', viewportHeight, players[i].top)
-          if ($(window).scrollTop() > players[i].top - 200) {
-            status = "play"
-          } else {
-            status = "pause"
-          }
-          console.log(players[i].element.inView('both'))
-        // var status = (elementFromTop > 0 && elementFromTop < players[i].top + viewportHeight -300) ? "play" : "pause";      
-      if(players[i].status != status) {
-          players[i].status = status;
-          players[i].player[status]();
-          console.log(i, status);      
-      }
-    }
-});
- </script>
-<script>
-insights.init('Viob5DKsACO2rGjn');
-insights.trackPages();
-</script>
-
-    </body>
-
+      var players = [];
+      $('[class*="video"]').each(function(i, item) {
+        const iframe = $(this)
+          .find("iframe")
+          .get(0);
+        if (iframe.src.includes("vimeo")) {
+          players.push({
+            player: new Vimeo.Player(
+              $(this)
+                .find("iframe")
+                .get(0)
+            ),
+            top: $(this).position().top,
+            status: "paused",
+            element: $(this)
+          });
+          $(this).on(
+            "inview",
+            _u.debounce((_, isInView) => {
+              const player = new Vimeo.Player(
+                $(this)
+                  .find("iframe")
+                  .get(0)
+              );
+              player.ready().then(function() {
+                player.setVolume(0);
+              });
+              if (isInView) {
+                player.play();
+              } else {
+                player.pause();
+              }
+            }, 1000)
+          );
+        }
+      });
+    </script>
+    <script>
+      insights.init("Viob5DKsACO2rGjn");
+      insights.trackPages();
+    </script>
+  </body>
 </html>
