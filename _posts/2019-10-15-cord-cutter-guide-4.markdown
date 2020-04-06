@@ -7,4 +7,4 @@ tags:
 - social
 ---
 
-[Cord_cutter_1](/uploads/Cord_cutter_1)
+[Cord_cutter_1-a81d43](/uploads/Cord_cutter_1-a81d43)
