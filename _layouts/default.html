@@ -42,12 +42,12 @@
     </div>
     <!-- Chatra {literal} -->
     <script>
-      (function(d, w, c) {
+      (function (d, w, c) {
         w.ChatraID = "C84a9oSEELd6EBC6M";
         var s = d.createElement("script");
         w[c] =
           w[c] ||
-          function() {
+          function () {
             (w[c].q = w[c].q || []).push(arguments);
           };
         s.async = true;
@@ -62,35 +62,49 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
     <script src="https://rawgit.com/protonet/jquery.inview/master/jquery.inview.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.15/lodash.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vanilla-lazyload@15.2.0/dist/lazyload.min.js"></script>
+    <script
+      type="text/javascript"
+      src="//cdnjs.cloudflare.com/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.min.js"
+    ></script>
+    <script>
+      var lazyLoadInstance = new LazyLoad({
+        elements_selector: ".lazyload",
+      });
+    </script>
+    <script>
+      $(".video-square").Lazy({
+        // your configuration goes here
+        scrollDirection: "vertical",
+        effect: "fadeIn",
+        visibleOnly: true,
+        afterLoad: function (element) {
+          console.log("loaded");
+        },
+        onError: function (element) {
+          console.log("error loading " + element.data("src"));
+        },
+      });
+    </script>
     <script>
       $("frame").attr("allow", "autoplay;");
       _u = _.noConflict();
 
       var players = [];
-      $('[class*="video"]').each(function(i, item) {
-        const iframe = $(this)
-          .find("iframe")
-          .get(0);
+      $('[class*="video"]').each(function (i, item) {
+        const iframe = $(this).find("iframe").get(0);
         if (iframe.src.includes("vimeo")) {
           players.push({
-            player: new Vimeo.Player(
-              $(this)
-                .find("iframe")
-                .get(0)
-            ),
+            player: new Vimeo.Player($(this).find("iframe").get(0)),
             top: $(this).position().top,
             status: "paused",
-            element: $(this)
+            element: $(this),
           });
           $(this).on(
             "inview",
             _u.debounce((_, isInView) => {
-              const player = new Vimeo.Player(
-                $(this)
-                  .find("iframe")
-                  .get(0)
-              );
-              player.ready().then(function() {
+              const player = new Vimeo.Player($(this).find("iframe").get(0));
+              player.ready().then(function () {
                 player.setVolume(0);
               });
               if (isInView) {

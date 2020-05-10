@@ -15,32 +15,34 @@ collections:
     title: tags
     output: true
 defaults:
-- scope:
-    path: ''
-  values:
-    layout: default
-- scope:
-    path: ''
-    type: posts
-  values:
-    layout: post
-    permalink: "/posts/:title/"
-- scope:
-    path: ''
-    type: categories
-  values:
-    permalink: "/categories/:title/"
-    layout: categories
-    alias: 
-- scope:
-    path: ''
-    type: tags
-  values:
-    permalink: "/tags/:title/"
-    layout: tags
-    alias: 
+  - scope:
+      path: ""
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      permalink: "/posts/:title/"
+  - scope:
+      path: ""
+      type: categories
+    values:
+      permalink: "/categories/:title/"
+      layout: categories
+      alias:
+  - scope:
+      path: ""
+      type: tags
+    values:
+      permalink: "/tags/:title/"
+      layout: tags
+      alias:
 permalink: pretty
 date_format: "%b %d, %Y"
 sass:
   sass_dir: _sass
 description: Ronin Wood is a designer and art director.
+plugins:
+  - nokogiri
