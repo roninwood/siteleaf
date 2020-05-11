@@ -7,5 +7,4 @@ _sass/.DS_Store
 assets/.DS_Store
 assets/img/.DS_Store
 .jekyll-cache/
-Gemfile
 Gemfile.lock
