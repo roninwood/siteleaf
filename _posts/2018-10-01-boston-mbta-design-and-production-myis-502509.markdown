@@ -2,7 +2,7 @@
 title: Boston MBTA - Design & Production - MYIS
 date: 2018-10-01 14:20:00 -04:00
 categories:
-- stary
+- Starry
 tags:
 - print
 - Marketing
