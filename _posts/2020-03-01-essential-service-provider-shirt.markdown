@@ -8,4 +8,4 @@ tags:
 - swag
 ---
 
-![essential_shirt_selfie.jpg](/uploads/essential_shirt_selfie.jpg)
+![essential_shirt_selfie-92fc24.jpg](/uploads/essential_shirt_selfie-92fc24.jpg)
