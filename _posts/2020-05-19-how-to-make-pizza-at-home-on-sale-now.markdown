@@ -1,6 +1,10 @@
 ---
 title: How To Make Pizza At Home by Mike Edmonds & Ronin Wood - on sale now!
-date: 2020-05-05 23:14:00 -04:00
+date: 2020-05-19 23:14:00 -04:00
+categories:
+- Personal
+tags:
+- print
 ---
 
 [![IMG_9377-c54f24.JPG](/uploads/IMG_9377-c54f24.JPG)](http://makepizzabook.com)
