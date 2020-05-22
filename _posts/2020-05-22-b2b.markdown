@@ -1,0 +1,8 @@
+---
+title: B2B
+date: 2020-05-22 13:03:00 -04:00
+---
+
+<div class="video-widescreen"><iframe src="https://player.vimeo.com/video/421626558" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div>
+
+
