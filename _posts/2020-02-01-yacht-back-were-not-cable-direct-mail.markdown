@@ -7,4 +7,4 @@ tags:
 - print
 ---
 
-![Yacht_Print_1_232.jpg](/uploads/Yacht_Print_1_232.jpg)
+![Yacht_Print_1_232-bf9f60.jpg](/uploads/Yacht_Print_1_232-bf9f60.jpg)
