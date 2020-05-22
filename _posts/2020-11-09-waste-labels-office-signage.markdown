@@ -1,0 +1,10 @@
+---
+title: Waste Labels - Office Signage
+date: 2020-11-09 14:33:00 -05:00
+categories:
+- Starry
+tags:
+- print
+---
+
+![Artboard 1.jpg](/uploads/Artboard%201.jpg)
