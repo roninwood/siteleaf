@@ -1,10 +1,11 @@
 ---
-title: Jukely Fader Display Ads
+title: Jukely Fader Display Ad
 date: 2016-01-28 23:29:00 -05:00
 categories:
 - Jukely
 tags:
 - Marketing
+- ads
 ---
 
 ![fader_site.png](/uploads/fader_site.png)
