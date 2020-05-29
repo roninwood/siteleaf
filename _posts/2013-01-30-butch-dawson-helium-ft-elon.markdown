@@ -2,11 +2,11 @@
 title: Helium (Co-direction Brian Agamie)
 date: 2013-01-30 16:04:00 -05:00
 categories:
-  - Freelance
+- Freelance
 tags:
-  - music video
-  - music
-  - video
+- music video
+- music
+- video
 ---
 
 <div class="video-standard">

@@ -2,9 +2,9 @@
 title: Time Spent Installation
 date: 2013-01-31 14:37:00 -05:00
 categories:
-  - Time Spent
+- Time Spent
 tags:
-  - music
+- music
 ---
 
 <div class="video-widescreen">

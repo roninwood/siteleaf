@@ -2,11 +2,11 @@
 title: January Solo Animation
 date: 2018-01-29 10:14:00 -05:00
 categories:
-  - Book of the Month
+- Book of the Month
 tags:
-  - photography
-  - video
-  - animation
+- photography
+- video
+- animation
 ---
 
 <div class="video-square">
