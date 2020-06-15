@@ -1,6 +1,6 @@
 ---
 title: Wifi Name Generator
-date: 2020-06-15 13:37:00 -04:00
+date: 2019-10-01 13:37:00 -04:00
 categories:
 - Starry
 tags:
