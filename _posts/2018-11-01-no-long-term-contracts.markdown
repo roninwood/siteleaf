@@ -1,12 +1,13 @@
 ---
 title: No long-term contracts
-date: 2020-06-15 13:31:00 -04:00
+date: 2018-11-01 13:31:00 -04:00
 categories:
 - Starry
 tags:
 - animation
-- photography
 - video
+- social
+- photography
 ---
 
 <div class="video-square">
