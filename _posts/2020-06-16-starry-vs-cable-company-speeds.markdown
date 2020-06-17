@@ -1,5 +1,5 @@
 ---
-title: Starry vs Cable company Speeds
+title: Starry VS Cable Companies - Speeds
 date: 2020-06-16 16:50:00 -04:00
 categories:
 - Starry
