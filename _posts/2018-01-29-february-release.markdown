@@ -2,10 +2,10 @@
 title: February FB/IG Ad.
 date: 2018-01-29 21:05:00 -05:00
 categories:
-  - Book of the Month
+- Book of the Month
 tags:
-  - animation
-  - video
+- animation
+- video
 ---
 
 <div class="video-square">

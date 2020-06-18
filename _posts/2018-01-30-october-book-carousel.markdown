@@ -2,10 +2,10 @@
 title: October Book Carousel
 date: 2018-01-30 22:00:00 -05:00
 categories:
-  - Book of the Month
+- Book of the Month
 tags:
-  - animation
-  - social
+- animation
+- social
 ---
 
 <div class="video-vertical">

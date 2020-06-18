@@ -2,9 +2,9 @@
 title: Abdu Ali Projection
 date: 2014-01-30 16:08:00 -05:00
 categories:
-  - Freelance
+- Freelance
 tags:
-  - animation
+- animation
 ---
 
 <div class="video-widescreen">
