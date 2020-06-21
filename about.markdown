@@ -10,7 +10,7 @@ layout: default
 Brooklyn-based Graphic Designer originally from southern. VA<br>Designer at Starry.<br>
 
 **Contact**<br>
-[Email](mailto:Hi@roninwood.com)<br>
+[Email](mailto:ronin@hey.com)<br>
 [Twitter](https://twitter.com/RoninWood)<br>
 [WorkingNotWorking](https://workingnotworking.com/34933-ronin)<br>
 [Linkedin](https://www.linkedin.com/in/roninwood/)<br>
