@@ -1,5 +1,5 @@
 ---
-title: '"I Voted" Zoom Backgrounds - Jabari Brisport'
+title: Jabari Brisport- "I Voted" Zoom Backgrounds
 date: 2020-06-21 15:44:00 -04:00
 categories:
 - Freelance
