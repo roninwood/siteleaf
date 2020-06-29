@@ -5,6 +5,7 @@ categories:
 - Starry
 tags:
 - print
+- posters
 ---
 
 ![bus_shelter.jpg](/uploads/bus_shelter.jpg)
