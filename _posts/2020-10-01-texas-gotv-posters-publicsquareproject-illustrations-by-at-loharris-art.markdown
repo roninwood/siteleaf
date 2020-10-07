@@ -7,4 +7,4 @@ tags:
 - posters
 ---
 
-![hotgirl.jpg](/uploads/hotgirl.jpg)[hotgirl](/uploads/hotgirl)
+![hotgirl.jpg](/uploads/hotgirl.jpg)
