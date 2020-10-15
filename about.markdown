@@ -7,7 +7,7 @@ layout: default
 
 # **Ronin Wood**
 
-Senior Graphic Designer at [Starry](starry.com). Based in Brooklyn, originally from southern Virginia.<br>
+Senior Graphic Designer at [Starry](http://starry.com). Based in Brooklyn, originally from southern Virginia.<br>
 
 **Contact**<br>
 [Email](mailto:ronin@hey.com)<br>
