@@ -11,7 +11,7 @@ Brooklyn-based Graphic Designer originally from southern. VA<br>Designer at Star
 
 **Contact**<br>
 [Email](mailto:ronin@hey.com)<br>
-[Twitter](https://twitter.com/RoninWood)<br>
+[Resume](/uploads/Ronin_Wood_Resume_2020.pdf)<br>
 [WorkingNotWorking](https://workingnotworking.com/34933-ronin)<br>
 [Linkedin](https://www.linkedin.com/in/roninwood/)<br>
 
