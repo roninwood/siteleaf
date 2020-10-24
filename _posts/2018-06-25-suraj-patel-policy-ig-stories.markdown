@@ -7,6 +7,7 @@ tags:
 - social
 - animation
 - video
+- politics
 ---
 
 <div class="video-vertical">

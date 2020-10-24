@@ -5,6 +5,7 @@ categories:
 - Freelance
 tags:
 - social
+- politics
 ---
 
 ![Zoom.gif](/uploads/Zoom.gif)

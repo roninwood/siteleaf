@@ -6,6 +6,7 @@ categories:
 tags:
 - ads
 - print
+- politics
 ---
 
 ![patel_cart.jpg](/uploads/patel_cart.jpg)

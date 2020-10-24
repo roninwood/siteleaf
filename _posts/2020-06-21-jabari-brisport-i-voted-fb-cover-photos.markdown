@@ -6,6 +6,7 @@ categories:
 - Freelance
 tags:
 - social
+- politics
 ---
 
 ![cover_photos.gif](/uploads/cover_photos.gif)

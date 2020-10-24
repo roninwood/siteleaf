@@ -6,6 +6,7 @@ categories:
 tags:
 - Marketing
 - print
+- politics
 ---
 
 ![Postcards.jpg](/uploads/Postcards.jpg)

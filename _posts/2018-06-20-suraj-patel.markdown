@@ -5,6 +5,7 @@ categories:
 - Suraj Patel for NY
 tags:
 - social
+- politics
 ---
 
 ![Vote_IG.jpg](/uploads/Vote_IG.jpg)

@@ -5,6 +5,7 @@ categories:
 - Suraj Patel for NY
 tags:
 - print
+- politics
 ---
 
 ![mailer-f861bf.jpg](/uploads/mailer-f861bf.jpg)

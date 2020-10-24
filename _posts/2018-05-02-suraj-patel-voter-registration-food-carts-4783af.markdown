@@ -6,6 +6,7 @@ categories:
 tags:
 - print
 - Marketing
+- politics
 ---
 
 ![patel.jpg](/uploads/patel.jpg)

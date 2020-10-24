@@ -5,6 +5,7 @@ categories:
 - Freelance
 tags:
 - print
+- politics
 ---
 
 ![Phara_.jpg](/uploads/Phara_.jpg)

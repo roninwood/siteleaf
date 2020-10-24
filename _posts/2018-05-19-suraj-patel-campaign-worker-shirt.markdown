@@ -5,6 +5,7 @@ categories:
 - Suraj Patel for NY
 tags:
 - swag
+- politics
 ---
 
 ![worker_web.jpg](/uploads/worker_web.jpg)

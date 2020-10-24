@@ -5,6 +5,7 @@ categories:
 - Freelance
 tags:
 - posters
+- politics
 ---
 
 ![rich.jpg](/uploads/rich.jpg)

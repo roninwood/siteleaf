@@ -6,6 +6,7 @@ categories:
 tags:
 - social
 - animation
+- politics
 ---
 
 ![stickers.gif](/uploads/stickers.gif)

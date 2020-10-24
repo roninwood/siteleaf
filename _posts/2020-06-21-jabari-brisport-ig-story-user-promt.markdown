@@ -5,6 +5,7 @@ categories:
 - Freelance
 tags:
 - social
+- politics
 ---
 
 ![promt.jpg](/uploads/promt.jpg)

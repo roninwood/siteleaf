@@ -6,6 +6,7 @@ categories:
 tags:
 - Marketing
 - print
+- politics
 ---
 
 ![suraj_windows.jpg](/uploads/suraj_windows.jpg)

@@ -5,6 +5,7 @@ categories:
 - Freelance
 tags:
 - print
+- politics
 ---
 
 ![Mailer_2.jpg](/uploads/Mailer_2.jpg)

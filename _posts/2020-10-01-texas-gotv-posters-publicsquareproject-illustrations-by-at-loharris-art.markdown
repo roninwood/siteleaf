@@ -5,6 +5,7 @@ categories:
 - Freelance
 tags:
 - posters
+- politics
 ---
 
 ![hotgirl.jpg](/uploads/hotgirl.jpg)

@@ -5,6 +5,7 @@ categories:
 - Freelance
 tags:
 - social
+- politics
 ---
 
 ![Victory_IG.png](/uploads/Victory_IG.png)
