@@ -1,5 +1,4 @@
 ---
 title: email
-date: 2020-05-19 11:27:00 -04:00
+alias: Email
 ---
-
