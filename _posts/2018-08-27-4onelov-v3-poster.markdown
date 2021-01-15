@@ -5,6 +5,7 @@ categories:
 - Freelance
 tags:
 - posters
+- music
 ---
 
 ![4onelov.jpg](/uploads/4onelov.jpg)

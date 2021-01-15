@@ -6,6 +6,7 @@ categories:
 tags:
 - print
 - music
+- swag
 ---
 
 ![SP_Passes.jpg](/uploads/SP_Passes.jpg)

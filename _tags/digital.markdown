@@ -1,0 +1,5 @@
+---
+title: digital
+alias: Digital
+---
+

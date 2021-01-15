@@ -5,6 +5,7 @@ categories:
 - Jukely
 tags:
 - posters
+- music
 ---
 
 ![mo_thedrums.jpg](/uploads/mo_thedrums.jpg)

@@ -6,6 +6,7 @@ categories:
 tags:
 - animation
 - video
+- music
 ---
 
 ![time-spent-nyc.gif](/uploads/time-spent-nyc.gif)

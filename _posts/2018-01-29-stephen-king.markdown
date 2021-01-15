@@ -5,6 +5,7 @@ categories:
 - Book of the Month
 tags:
 - animation
+- social
 ---
 
 <div class="video-square">

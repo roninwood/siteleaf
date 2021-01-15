@@ -5,6 +5,7 @@ categories:
 - Starry
 tags:
 - print
+- poster
 - swag
 ---
 

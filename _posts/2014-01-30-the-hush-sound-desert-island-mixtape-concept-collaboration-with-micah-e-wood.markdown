@@ -6,6 +6,7 @@ categories:
 - Freelance
 tags:
 - album covers
+- music
 ---
 
 ![d7649713835925.56278d9e5c4f5.jpg](/uploads/d7649713835925.56278d9e5c4f5.jpg)

@@ -6,6 +6,7 @@ categories:
 tags:
 - video
 - animation
+- music
 ---
 
 <div class="video-standard">

@@ -5,7 +5,6 @@ categories:
 - Starry
 tags:
 - print
-- Marketing
 ---
 
 ![Starry_MYIS_Symphony_46x60_20181010.jpg](/uploads/Starry_MYIS_Symphony_46x60_20181010.jpg)

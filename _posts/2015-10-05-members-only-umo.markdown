@@ -5,6 +5,7 @@ categories:
 - Jukely
 tags:
 - posters
+- music
 ---
 
 ![mo_umo.jpg](/uploads/mo_umo.jpg)

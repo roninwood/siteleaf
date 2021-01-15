@@ -5,6 +5,7 @@ categories:
 - Jukely
 tags:
 - swag
+- music
 ---
 
 ![MO_pocket-ef8178.jpg](/uploads/MO_pocket-ef8178.jpg)

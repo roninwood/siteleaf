@@ -6,6 +6,7 @@ categories:
 tags:
 - posters
 - politics
+- print
 ---
 
 ![rich.jpg](/uploads/rich.jpg)

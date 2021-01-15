@@ -5,6 +5,7 @@ categories:
 - Freelance
 tags:
 - animation
+- music
 ---
 
 <div class="video-widescreen">

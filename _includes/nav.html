@@ -1,0 +1,21 @@
+<nav>
+	<ul class="list-unstyled list-inline text-body">
+		{% unless page.layout == 'index' %}
+		  <li class="mr-xs-2">
+		  	<a href="/" class="link-black">Ronin Wood</a> -
+		  </li>
+		 {% endunless %}
+	  <li class="mr-xs-2">
+	  	<a href="mailto:ronin@hey.com?subject=Ronin I think your work is very very good" class="link-black">Email</a>
+	  </li>
+	  <li class="mr-xs-2">
+	  	<a href="/about" class="link-black {% if page.url contains '/about/' %}link-selected{% endif%}">About</a>
+	  </li>
+	  <li class="mr-xs-2">
+	  	<a href="http://roninwood.com/uploads/Ronin_Wood_Resume_2020.pdf" class="link-black" target="_blank">Resume</a>
+	  </li>
+	  <li>
+	  	<a href="/playlists" class="link-black {% if page.url contains '/playlists/' %}link-selected{% endif%}" target="_blank">Playlists</a>
+	  </li>
+	</ul>
+</nav>

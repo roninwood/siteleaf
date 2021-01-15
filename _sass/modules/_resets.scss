@@ -1,0 +1,31 @@
+//////////////////////////
+
+// Resets
+
+//////////////////////////
+
+body,
+html {
+  margin: 0;
+  padding: 0;
+}
+
+video { background-color: #0048fb !important; }
+
+* {
+	box-sizing: border-box;
+	scroll-behavior: smooth;
+}
+
+
+p, h1, h2, h3, h4, h5, h6, ol, ul, li {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+body {
+	font-family: $font-body;
+	font-weight: normal;
+	color: $black;
+	line-height: 1.4;
+}

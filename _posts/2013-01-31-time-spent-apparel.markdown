@@ -5,6 +5,7 @@ categories:
 - Time Spent
 tags:
 - swag
+- music
 ---
 
 ![merch.png](/uploads/merch.png)

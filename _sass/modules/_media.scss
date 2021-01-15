@@ -1,0 +1,99 @@
+//////////////////////////
+
+// Media
+
+//////////////////////////
+
+
+// Images
+
+.post-body img {
+  max-width: 100%;
+  max-height: 600px;
+  display: block;
+}
+
+@include breakpoint(md-down) {
+  .max-width-md-down-100 {
+    max-width: 100%;
+  }
+}
+
+
+//////////////////////////
+
+// Videos
+
+
+// 16:9 video
+.video-widescreen {
+  overflow:hidden;
+  padding-bottom:56.25%;
+  position:relative;
+  height:0;
+  margin-top: $space;
+  margin-bottom: $space;
+  
+  iframe {
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+  }
+}
+
+// 4:3 video
+.video-standard {
+  overflow:hidden;
+  padding-bottom: 75%;
+  position:relative;
+  height:0;
+  margin-top: $space;
+  margin-bottom: $space;
+  
+  iframe {
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+  }
+}
+
+// Square videos
+.video-square {
+  overflow:hidden;
+  padding-bottom:100%;
+  position:relative;
+  height:0;
+  margin-top: $space;
+  margin-bottom: $space;
+  
+  iframe {
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+  }
+}
+
+
+// Vertical videos
+.video-vertical {
+  overflow:hidden;
+  padding-bottom: 178%;
+  position:relative;
+  height:0;
+  margin-top: $space;
+  margin-bottom: $space;
+  
+  iframe {
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+  }
+}

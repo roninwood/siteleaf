@@ -5,7 +5,6 @@ categories:
 - Starry
 tags:
 - print
-- Marketing
 ---
 
 ![Trolly_Edited.jpg](/uploads/Trolly_Edited.jpg)

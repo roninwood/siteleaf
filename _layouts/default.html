@@ -3,58 +3,18 @@
   {% include head.html %}
 
   <body>
-    <div class="width-100 col-group mt-xs-2 mt-md-4 mb-xs-2 mb-md-4">
-      <div
-        class="position-fixed-md-up col col-md-4 col-lg-3 col-xl-2 p-xs-1 p-sm-2 p-md-4"
-      >
-        <a href="/" class="display-block mb-xs-2"
-          ><img
-            src="/assets/img/ronin-90.png"
-            alt="Ronin Iftahk Wood"
-            style="width: 100%; max-width: 100px;"
-        /></a>
-        <p class="mb-xs-1">Senior Graphic Designer at <a href="https://starry.com">Starry</a></p>
-
-        <p class="text-smaller mb-xs-2 mb-md-4">
-          <a
-            class="animated-blink animated-loop"
-            href="mailto:ronin@hey.com?subject=Ronin I think your work is very very good"
-            >Send me an email today!</a
-          >
-        </p>
-
-        {% include tags.html %}
-
-        <p class="strong mt-xs-2 mt-md-4 mb-xs-1">
-          <a href="/playlists">Playlists</a>
-        </p>
-        <p class="strong mt-xs-1 mb-xs-2 mb-md-4"><a href="/about">About</a></p>
-
-        <p class="mb-xs-4">&copy; 2018</p>
-      </div>
-
-      <div
-        class="col col-md-8 col-offset-md-4 col-lg-9 col-offset-lg-3 col-xl-10 col-offset-xl-2"
-      >
-        {{ content }}
-      </div>
+    <div class="max-width-xl ml-xs-auto mr-xs-auto mt-xs-4 mt-md-6 mb-xs-4 mb-md-6 pl-xs-3 pr-xs-3 pl-md-6 pr-md-6">
+      {{ content }}
     </div>
-    <!-- Chatra {literal} -->
-    <script>
-      (function (d, w, c) {
-        w.ChatraID = "C84a9oSEELd6EBC6M";
-        var s = d.createElement("script");
-        w[c] =
-          w[c] ||
-          function () {
-            (w[c].q = w[c].q || []).push(arguments);
-          };
-        s.async = true;
-        s.src = "https://call.chatra.io/chatra.js";
-        if (d.head) d.head.appendChild(s);
-      })(document, window, "Chatra");
-    </script>
-    <!-- /Chatra {/literal} -->
+
+    <footer class="display-flex flex-direction-column flex-direction-md-row flex-justify-content-md-space-between text-body text-grey max-width-xl ml-xs-auto mr-xs-auto mt-xs-6 mb-xs-4 pl-xs-3 pr-xs-3 pl-md-6 pr-md-6">
+      <div>
+        &copy; {{ "today" | date: "%Y" }} Ronin Wood - <a href="mailto:ronin@hey.com?subject=Ronin I think your work is very very good" class="link-grey">Send me an email</a>!
+      </div>
+      <div class="mt-xs-3 mt-md-0">
+        <a href="#" class="link-grey">Back to top</a>
+      </div>
+    </footer>
 
     <script src="https://getinsights.io/static/js/insights.js"></script>
     <script src="https://player.vimeo.com/api/player.js"></script>

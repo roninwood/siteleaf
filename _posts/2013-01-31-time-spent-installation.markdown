@@ -5,6 +5,9 @@ categories:
 - Time Spent
 tags:
 - music
+- print
+- video
+- swag
 ---
 
 <div class="video-widescreen">

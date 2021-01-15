@@ -6,6 +6,7 @@ categories:
 tags:
 - music
 - swag
+- print
 ---
 
 ![lady_a.jpg](/uploads/lady_a.jpg)

@@ -5,6 +5,7 @@ categories:
 - Jukely
 tags:
 - animation
+- music
 ---
 
 ![jukely-beta.gif](/uploads/jukely-beta.gif)

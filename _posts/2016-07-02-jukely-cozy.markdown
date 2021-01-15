@@ -5,6 +5,7 @@ categories:
 - Jukely
 tags:
 - swag
+- music
 ---
 
 ![pat_3.jpg](/uploads/pat_3.jpg)

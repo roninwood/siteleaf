@@ -5,7 +5,6 @@ categories:
 - Starry
 tags:
 - print
-- Marketing
 ---
 
 ![Comped.jpg](/uploads/Comped.jpg)

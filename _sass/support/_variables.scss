@@ -13,12 +13,11 @@ $media-xl: 1200px;
 // Colors
 
 $black: #181818;
-$accent: #0000ff;
 $white: #ffffff;
-$grey: #a3a3a3;
+$grey: #767676;
 $yellow: #d89000;
 $red: red;
-$blue: blue;
+$blue: #0000ff;
 
 $green-spotify: #28C906;
 
@@ -30,4 +29,5 @@ $space: 12px;
 
 // Typography
 
-$font-body: "Courier New", "Courier", monospace;
+$font-body: "Archivo", Helvetica, Arial, sans-serif;
+$font-mono: "Courier New", "Courier", monospace;

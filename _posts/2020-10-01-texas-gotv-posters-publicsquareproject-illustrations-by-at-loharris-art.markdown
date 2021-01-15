@@ -6,6 +6,7 @@ categories:
 tags:
 - posters
 - politics
+- print
 ---
 
 ![hotgirl.jpg](/uploads/hotgirl.jpg)

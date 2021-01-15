@@ -1,85 +1,108 @@
+//////////////////////////
+
 // Typography
 
+//////////////////////////
 
-// Resets
 
-p,h1,h2,h3,h4,h5,h6 {
-    margin-top: $space;
-    margin-bottom: $space;
+// Type styles
+
+.text-display {
+	font-family: $font-body;
+	font-size: 28px;
+	font-weight: bold;
+	line-height: 1.2;
+
+	@include breakpoint(md-up) {
+		font-size: 36px;
+	}
 }
 
-// Base
+.text-body {
+	font-family: $font-body;
+	font-size: 16px;
+	font-weight: normal;
+	line-height: 1.2;
 
-body {
-    font-family: $font-body;
-    color: $black;
-    line-height: 1.4;
+	@include breakpoint(md-up) {
+		font-size: 18px;
+	}
 }
 
-a {
-    color: $black;
+.text-accent {
+	font-family: $font-body;
+	font-size: 12px;
+	font-weight: normal;
+	line-height: 1.2;
 
-    &:hover {
-        color: $accent;
-    }
-}
-
-
-// Headers
-
-h1, .h1 {
-    font-size: 1.5em;
-    font-weight: normal;
-}
-
-h2, .h2 {
-    font-size: 1em;
-    font-weight: normal;
-}
-
-.text-smaller {
-    font-size: 0.8em;
-}
-
-.strong {
-    font-weight: bold;
+	@include breakpoint(md-up) {
+		font-size: 14px;
+	}
 }
 
 
-// Text alignment
+//////////////////////////
 
-.text-left {
-    text-align: left;
+
+// Utilities
+
+.text-strong { font-weight: bold; }
+.text-uppercase { text-transform: uppercase; }
+
+.text-line-height-loose { line-height: 1.5; }
+
+.text-left { text-align: left; }
+.text-center { text-align: center; }
+.text-right { text-align: right; }
+
+
+//////////////////////////
+
+
+// CMS text
+
+.text-cms {
+
+	h1 {
+		font-family: $font-body;
+		font-size: 28px;
+		font-weight: bold;
+		line-height: 1.2;
+
+		@include breakpoint(md-up) {
+			font-size: 36px;
+		}
+	}
+
+	h2, h3, h4, h5, h6 {
+		font-family: $font-body;
+		font-size: 16px;
+		line-height: 1.2;
+
+		@include breakpoint(md-up) {
+			font-size: 18px;
+		}
+	}
+
+	h1, h2, h3, h4, h5, h6 {
+		margin-bottom: $space * 1;
+	}
+
+	ol, ul, p {
+		margin-bottom: $space * 2;
+	}
+
+	ul, ol {
+		list-style-type: none;
+	  padding-left: 0;
+	}
+
+	a {
+		color: $black;
+		text-decoration: underline;
+
+		&:hover {
+				color: $blue;
+		}
+	}
 }
-
-.text-center {
-    text-align: center;
-}
-
-.text-right {
-    text-align: right;
-}
-
-
-// Lists
-
-.list-unstyled {
-    list-style-type: none;
-    padding-left: 0;
-    margin-top: 0;
-    margin-bottom: 0;
-}
-
-@include breakpoint(sm-down) {
-    .list-inline-sm-down li {
-        display: inline-block;
-        margin-right: 10px;
-    }
-}
-
-// Text transform
-
-.text-uppercase {
-    text-transform: uppercase;
-}
-

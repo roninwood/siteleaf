@@ -1,24 +1,29 @@
-
-
-<p class="mt-xs-2 mt-md-4"><strong>View by company</strong></p>
-<ul class="list-unstyled list-inline-sm-down">
-    <li><a href="/categories/starry" class="{% if page.alias == 'Starry' %} strong text-accent {% endif%}">Starry</a></li>
-    <li><a href="/categories/suraj-patel-for-ny" class="{% if page.alias == 'Suraj Patel for Congress' %}strong text-accent {% endif%}">Suraj Patel for Congress</a></li>
-    <li><a href="/categories/jukely" class="{% if page.alias == 'Jukely' %}strong text-accent {% endif%}">Jukely</a></li>
-    <li><a href="/categories/book-of-the-month" class="{% if page.alias == 'Book of the Month' %}strong text-accent {% endif%}">Book of the Month</a></li>
-    <li><a href="/categories/sleep-no-more" class="{% if page.alias == 'Sleep No More' %}strong text-accent {% endif%}">Sleep No More</a></li>
-    <li><a href="/categories/time-spent" class="{% if page.alias == 'Time Spent' %}strong text-accent {% endif%}">Time Spent</a></li>
-    <li><a href="/categories/personal" class="{% if page.alias == 'Personal' %}strong text-accent {% endif%}">Personal</a></li>
-    <li><a href="/categories/freelance" class="{% if page.alias == 'Freelance' %}strong text-accent {% endif%}">Freelance</a></li>
-</ul>
-
-<p class="mt-xs-2 mt-md-4 display-xs-none display-sm-block"><strong>View by tag</strong></p>
-<ul class="list-unstyled list-inline-sm-down display-xs-none display-sm-block">
-    {% for tag in site.tags %}
-        <li>
-            <a href="{{tag.url}}" class="{% if tag.alias == page.alias %}strong text-accent {% endif%}">
-                {{ tag.alias }}
-            </a>
-        </li>
-    {% endfor %}
-</ul>
+<div class="b-t pt-xs-3 mb-xs-2">
+    <ul class="list-unstyled list-inline text-body">
+        <li class="mr-xs-1"><h2 class="text-body text-strong">Sort by company -</h2></li>
+        <li class="mr-xs-1"><a href="/categories/starry" class="link-black {% if page.alias == 'Starry' %}link-selected{% endif%}">Starry</a>, </li>
+        <li class="mr-xs-1"><a href="/categories/suraj-patel-for-ny" class="link-black {% if page.alias == 'Suraj Patel for Congress' %}link-selected{% endif%}">Suraj Patel for Congress</a>, </li>
+        <li class="mr-xs-1"><a href="/categories/jukely" class="link-black {% if page.alias == 'Jukely' %}link-selected{% endif%}">Jukely</a>, </li>
+        <li class="mr-xs-1"><a href="/categories/book-of-the-month" class="link-black {% if page.alias == 'Book of the Month' %}link-selected{% endif%}">Book of the Month</a>, </li>
+        <li class="mr-xs-1"><a href="/categories/sleep-no-more" class="link-black {% if page.alias == 'Sleep No More' %}link-selected{% endif%}">Sleep No More</a>, </li>
+        <li class="mr-xs-1"><a href="/categories/time-spent" class="link-black {% if page.alias == 'Time Spent' %}link-selected{% endif%}">Time Spent</a>, </li>
+        <li class="mr-xs-1"><a href="/categories/personal" class="link-black {% if page.alias == 'Personal' %}link-selected{% endif%}">Personal</a>, </li>
+        <li><a href="/categories/freelance" class="link-black {% if page.alias == 'Freelance' %}link-selected{% endif%}">Freelance</a></li>
+    </ul>
+</div>
+<div class="b-b pb-xs-3">
+    <ul class="list-unstyled list-inline text-body">
+        <li class="mr-xs-1"><h2 class="text-body text-strong">Sort by tag -</h2></li>
+        <li class="mr-xs-1"><a href="/tags/politics" class="link-black {% if page.alias == 'Politics' %}link-selected{% endif%}">Politics</a>, </li>
+        <li class="mr-xs-1"><a href="/tags/print" class="link-black {% if page.alias == 'Print' %}link-selected {% endif%}">Print</a>, </li>
+        <li class="mr-xs-1"><a href="/tags/swag" class="link-black {% if page.alias == 'Swag' %}link-selected{% endif%}">Swag</a>, </li>
+        <li class="mr-xs-1"><a href="/tags/social" class="link-black {% if page.alias == 'Social' %}link-selected{% endif%}">Social</a>, </li>
+        <li class="mr-xs-1"><a href="/tags/animation" class="link-black {% if page.alias == 'Animation' %}link-selected{% endif%}">Animation</a>, </li>
+        <li class="mr-xs-1"><a href="/tags/posters" class="link-black {% if page.alias == 'Posters' %}link-selected{% endif%}">Posters</a>, </li>
+        <li class="mr-xs-1"><a href="/tags/digital" class="link-black {% if page.alias == 'Digital' %}link-selected{% endif%}">Digital</a>, </li>
+        <li class="mr-xs-1"><a href="/tags/music" class="link-black {% if page.alias == 'Music' %}link-selected{% endif%}">Music</a>, </li>
+        <li class="mr-xs-1"><a href="/tags/photography" class="link-black {% if page.alias == 'Photography' %}link-selected{% endif%}">Photography</a>, </li>
+        <li class="mr-xs-1"><a href="/tags/video" class="link-black {% if page.alias == 'Video' %}link-selected{% endif%}">Video</a>, </li>
+        <li class="mr-xs-1"><a href="/tags/album-covers" class="link-black {% if page.alias == 'Album covers' %}link-selected{% endif%}">Album covers</a></li>
+    </ul>
+</div>

@@ -1,62 +1,32 @@
+//////////////////////////
+
 // Colors
+
+//////////////////////////
 
 
 // Text
 
-.text-black {
-    color: $black;
-}
+.text-black { color: $black; }
+.text-white { color: $white; }
+.text-grey { color: $grey; }
+.text-red { color: $red; }
+.text-blue { color: $blue; }
 
-.text-accent {
-    color: $accent;
-}
 
-.text-white {
-    color: $white;
-}
-
-.text-grey {
-    color: $grey;
-}
-
-.text-red {
-    color: $red;
-}
-
-.text-blue {
-    color: $blue;
-}
+//////////////////////////
 
 
 // Background
 
-.bg-black {
-    background-color: $black;
-}
+.bg-black { background-color: $black; }
+.bg-white { background-color: $white; }
+.bg-grey { background-color: $grey; }
 
-.bg-accent {
-    background-color: $accent;
-}
-
-.bg-white {
-    background-color: $white;
-}
-
-.bg-grey {
-    background-color: $grey;
-}
+//////////////////////////
 
 
 // Borders
 
-.b-black {
-    border-color: $black;
-}
-
-.b-accent {
-    border-color: $accent;
-}
-
-.b-grey {
-    border-color: $grey;
-}
+.b-black { border-color: $black; }
+.b-grey { border-color: $grey; }

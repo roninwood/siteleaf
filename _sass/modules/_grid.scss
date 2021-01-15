@@ -1,34 +1,28 @@
-// CSS grid
+//////////////////////////
+
+// Grids
+
+//////////////////////////
 
 
-.grid-group {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
-    padding-left: 10px;
-    padding-right: 10px;
+// Grid for displaying work
+
+.block-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+  column-gap: $space * 2;
 }
 
+.block-grid__item {
+  @include breakpoint(xs-up) {
+    grid-column: span 6;
+  }
 
-.grid {
-    padding: 10px;
-}
+  @include breakpoint(sm-up) {
+    grid-column: span 3;
+  }
 
-
-
-@include breakpoint(xs-up) {
-    .grid {
-        grid-column: span 6;
-    }
-}
-
-@include breakpoint(sm-up) {
-    .grid {
-        grid-column: span 3;
-    }
-}
-
-@include breakpoint(lg-up) {
-    .grid {
-        grid-column: span 2;
-    }
+  @include breakpoint(md-up) {
+    grid-column: span 2;
+  }
 }

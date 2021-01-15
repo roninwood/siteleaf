@@ -4,7 +4,8 @@ date: 2018-01-29 09:55:00 -05:00
 categories:
 - Freelance
 tags:
-- music video
+- music
+- video
 - animation
 ---
 

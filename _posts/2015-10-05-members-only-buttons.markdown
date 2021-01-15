@@ -5,6 +5,7 @@ categories:
 - Jukely
 tags:
 - swag
+- music
 ---
 
 ![MO_pins.jpg](/uploads/MO_pins.jpg)

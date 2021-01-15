@@ -7,7 +7,7 @@ tags:
 - animation
 - video
 - music
-- in product
+- digital
 ---
 
 <div class="video-square">

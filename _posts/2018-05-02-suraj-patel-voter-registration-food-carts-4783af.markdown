@@ -5,7 +5,6 @@ categories:
 - Suraj Patel for NY
 tags:
 - print
-- Marketing
 - politics
 ---
 

@@ -2,10 +2,22 @@
 layout: default
 ---
 
-<div class="grid-group">
-    {% for post in site.posts %}
-        <div class="grid">
-            {% include post.html %}
-        </div>
-    {% endfor %}
+<div class="mb-xs-4">
+	<p class="text-display text-cms">{{ content }}</p>
+</div>
+
+<div class="mb-xs-4">
+	{% include nav.html %}
+</div>
+
+{% include tags.html %}
+
+<div class="mt-xs-4 mt-md-6 mb-xs-4 mb-md-6">
+	<div class="block-grid">
+	    {% for post in site.posts %}
+	        <div class="block-grid__item">
+	            {% include post.html %}
+	        </div>
+	    {% endfor %}
+	</div>
 </div>

@@ -1,0 +1,36 @@
+//////////////////////////
+
+// Links
+
+//////////////////////////
+
+
+.link-black {
+	color: $black;
+	text-decoration: underline;
+
+	&:hover {
+		color: $blue;
+	}
+}
+
+.link-grey {
+	color: $grey;
+	text-decoration: underline;
+
+	&:hover {
+		color: $black;
+	}
+}
+
+.link-selected {
+	background-color: $blue;
+	color: $white;
+	padding: 2px;
+	text-decoration: none;
+
+	&:hover {
+		color: $white;
+		text-decoration: underline;
+	}
+}

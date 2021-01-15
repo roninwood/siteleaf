@@ -6,6 +6,7 @@ categories:
 tags:
 - animation
 - social
+- music
 ---
 
 <div class="video-vertical">

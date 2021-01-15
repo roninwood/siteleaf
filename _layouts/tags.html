@@ -2,16 +2,23 @@
 layout: default
 ---
 
-<h1 class="text-center">{{page.alias}}</h1>
 
-<div class="grid-group">
-	{% for post in site.posts %}
-	    {% for tag in post.tags %}
-			{% if tag == page.title %}
-		        <div class="grid">
-		            {% include post.html post=post %}
-		        </div>
-		    {% endif %}
+<div class="mb-xs-4">
+	{% include nav.html %}
+</div>
+
+{% include tags.html %}
+
+<div class="mt-xs-4 mt-md-6 mb-xs-4 mb-md-6">
+	<div class="block-grid">
+		{% for post in site.posts %}
+		    {% for tag in post.tags %}
+				{% if tag == page.title %}
+			        <div class="block-grid__item">
+			            {% include post.html post=post %}
+			        </div>
+			    {% endif %}
+			{% endfor %}
 		{% endfor %}
-	{% endfor %}
+	</div>
 </div>

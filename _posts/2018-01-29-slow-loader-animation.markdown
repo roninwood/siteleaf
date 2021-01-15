@@ -5,7 +5,7 @@ categories:
 - Book of the Month
 tags:
 - animation
-- in product
+- digital
 ---
 
 ![Loader_Navy.gif](/uploads/Loader_Navy.gif)
