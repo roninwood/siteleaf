@@ -1,6 +1,5 @@
 ---
-title: |-
-  Splice Firestarters Branding
+title: Splice Firestarters Branding
 date: 2018-03-14 16:03:00 -04:00
 categories:
 - Freelance
