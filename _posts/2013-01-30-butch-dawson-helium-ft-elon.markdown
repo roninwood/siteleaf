@@ -8,6 +8,5 @@ tags:
 - video
 ---
 
-<div class="video-standard">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zvxWiLzZdGU?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen allow="autoplay" background="1"></iframe>
-</div>
+<div class="video-widescreen"><iframe src="https://player.vimeo.com/video/501246929" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div>
+
