@@ -3,9 +3,9 @@ title: About
 layout: about
 assets:
 - path: "/uploads/Ronin_Photo_by_micah_e_wood.jpg"
-  alt: Ronin wearing a Clairo t-shirt and black jacket with a green tote bag in front of bushes.
+  alt: Ronin wearing a Clairo t-shirt and black jacket with a green tote bag in front
+    of bushes.
 ---
-
 
 # About
 
