@@ -7,4 +7,4 @@ tags:
 - swag
 ---
 
-![keeping_shirt_.jpg](/uploads/keeping_shirt_.jpg)
+![keeping_shirt_-dc361d.jpg](/uploads/keeping_shirt_-dc361d.jpg)
