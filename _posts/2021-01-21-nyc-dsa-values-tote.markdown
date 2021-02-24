@@ -9,4 +9,4 @@ tags:
 - swag
 ---
 
-![DSA_tote-19f603.jpg](/uploads/DSA_tote-19f603.jpg)
+![DSA_tote-19f603-squashed.jpg](/uploads/DSA_tote-19f603-squashed.jpg)
