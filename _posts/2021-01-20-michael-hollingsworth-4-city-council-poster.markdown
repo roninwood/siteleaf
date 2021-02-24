@@ -8,4 +8,4 @@ tags:
 - politics
 ---
 
-![Mike4bk_poster-squashed.jpg](/uploads/Mike4bk_poster-squashed.jpg)![Mike4bk_poster.jpg](/uploads/Mike4bk_poster.jpg)
+![Mike4bk_poster-squashed.jpg](/uploads/Mike4bk_poster-squashed.jpg)
