@@ -8,4 +8,4 @@ tags:
 - politics
 ---
 
-![Victory_IG.png](/uploads/Victory_IG.png)
+![web_Victory_IG.jpg](/uploads/web_Victory_IG.jpg)
