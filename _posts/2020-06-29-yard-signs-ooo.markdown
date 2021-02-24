@@ -7,4 +7,4 @@ tags:
 - print
 ---
 
-![yard_mock1.jpg](/uploads/yard_mock1.jpg)
+![yard_mock1-squashed.jpg](/uploads/yard_mock1-squashed.jpg)
