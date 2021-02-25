@@ -1,6 +1,7 @@
 ---
 title: Essential Service Provider - Van Magnet
 date: 2020-03-01 15:47:00 -05:00
+published: false
 categories:
 - Starry
 tags:
