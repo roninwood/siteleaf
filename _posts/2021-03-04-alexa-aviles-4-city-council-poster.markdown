@@ -5,6 +5,7 @@ categories:
 - Freelance
 tags:
 - posters
+- politics
 ---
 
 ![Alexa_squashed.jpg](/uploads/Alexa_squashed.jpg)
