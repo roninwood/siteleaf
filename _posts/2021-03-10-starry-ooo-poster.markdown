@@ -5,6 +5,7 @@ categories:
 - Starry
 tags:
 - posters
+- print
 ---
 
 ![poster.jpg](/uploads/poster.jpg)
