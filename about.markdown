@@ -26,11 +26,13 @@ Lead Designer, Marketing and Brand at [Celtra](http://celtra.com). Based in Broo
 - [Sidney Morning Herald](https://www.smh.com.au/entertainment/art-and-design/graffiti-artist-banksy-unveils-nyc-art-20131004-2uzbn.html)
 - [Baltimore Sun](http://www.baltimoresun.com/business/bs-bz-ripleys-plans-20111026-story.html)
 
-Headshot by [Micah E. Wood](http://micahewood.com). Website built by [Jessica Harllee](http://jessicaharllee.com) and powered by [Siteleaf](http://siteleaf.com).
-
 ## Friends 
 - [Jackson Lynch](https://jacksonthats.me)
 - [Heda Hokschirr](https://www.hedahokschirr.com)
 - [Mike Rich](https://mikerich.nyc)
 - [Dhiya Choudary](http://dhiyachoudary.com)
 - [Tessa Law](https://www.tessalaw.com)
+- [Jessica Harllee](https://www.jessicaharllee.com)
+- [Micah E. Wood](https://www.micahewood.com)
+
+Headshot by [Micah E. Wood](http://micahewood.com). Website built by [Jessica Harllee](http://jessicaharllee.com) and powered by [Siteleaf](http://siteleaf.com).
