@@ -30,6 +30,7 @@ Headshot by [Micah E. Wood](http://micahewood.com). Website built by [Jessica Ha
 
 ## Friends 
 - [Jackson Lynch](https://jacksonthats.me)
-- [Resume](/uploads/Ronin_Wood_Resume_2020.pdf)
-- [WorkingNotWorking](https://workingnotworking.com/34933-ronin)
-- [Linkedin](https://www.linkedin.com/in/roninwood/)
+- [Heda Hokschirr](https://www.hedahokschirr.com)
+- [Mike Rich](https://mikerich.nyc)
+- [Dhiya Choudary](http://dhiyachoudary.com)
+- [Tessa Law](https://www.tessalaw.com)
