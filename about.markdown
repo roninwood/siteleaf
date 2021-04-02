@@ -27,3 +27,9 @@ Lead Designer, Marketing and Brand at [Celtra](http://celtra.com). Based in Broo
 - [Baltimore Sun](http://www.baltimoresun.com/business/bs-bz-ripleys-plans-20111026-story.html)
 
 Headshot by [Micah E. Wood](http://micahewood.com). Website built by [Jessica Harllee](http://jessicaharllee.com) and powered by [Siteleaf](http://siteleaf.com).
+
+## Friends 
+- [Jackson Lynch](https://jacksonthats.me)
+- [Resume](/uploads/Ronin_Wood_Resume_2020.pdf)
+- [WorkingNotWorking](https://workingnotworking.com/34933-ronin)
+- [Linkedin](https://www.linkedin.com/in/roninwood/)
