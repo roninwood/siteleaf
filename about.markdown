@@ -31,8 +31,11 @@ Lead Designer, Marketing and Brand at [Celtra](http://celtra.com). Based in Broo
 - [Heda Hokschirr](https://www.hedahokschirr.com)
 - [Mike Rich](https://mikerich.nyc)
 - [Dhiya Choudary](http://dhiyachoudary.com)
+- [Gabe Kelley](https://www.gabekelley.com)
 - [Tessa Law](https://www.tessalaw.com)
+- [Kyle Turman](http://turman.co)
+- [Chase Bratton](https://www.linkedin.com/in/chasebratton/)
 - [Jessica Harllee](https://www.jessicaharllee.com)
-- [Micah E. Wood](https://www.micahewood.com)
+- [Joe Deleeuw](https://www.linkedin.com/in/joe-deleeuw-18917060/)
 
 Headshot by [Micah E. Wood](http://micahewood.com). Website built by [Jessica Harllee](http://jessicaharllee.com) and powered by [Siteleaf](http://siteleaf.com).
