@@ -1,7 +1,7 @@
 ---
 title: Starry
 alias: Starry
-years: 2018 - present
+years: 2018 - 2021
 role: Senior Graphic Designer
 description: Works across every medium, including organic and paid social, print,
   email marketing, motion graphics, display ads, apparel, and out of home. I’ve helped
