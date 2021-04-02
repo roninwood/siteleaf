@@ -27,7 +27,7 @@ Lead Designer, Marketing and Brand at [Celtra](http://celtra.com). Based in Broo
 - [Baltimore Sun](http://www.baltimoresun.com/business/bs-bz-ripleys-plans-20111026-story.html)
 
 ## Friends 2 Hire
-- [Jackson Lynch, Product Design](https://jacksonthats.me)
+- [Jackson Lynch](https://jacksonthats.me), Product Design
 - [Heda Hokschirr, Graphic Design](https://www.hedahokschirr.com)
 - [Mike Rich, Graphic Design](https://mikerich.nyc)
 - [Dhiya Choudary, Creative Direction](http://dhiyachoudary.com)
