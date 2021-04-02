@@ -41,5 +41,8 @@ Lead Designer, Marketing and Brand at [Celtra](http://celtra.com). Based in Broo
 - [Micah E Wood, Photo & Design](http://micahewood.com)
 - [Joe Deleeuw, Software Engineer](https://www.linkedin.com/in/joe-deleeuw-18917060/)
 - [Emily Long, Graphic Design](http://emily-long.net)
+- [Cap Watkins, Graphic Design](http://emily-long.net)
+- [Kim Bost, Graphic Design](http://emily-long.net)
+- [Christopher Chester,](https://christopherjchester.com) Product & Graphic Design
 
 Headshot by [Micah E. Wood](http://micahewood.com). Website built by [Jessica Harllee](http://jessicaharllee.com) and powered by [Siteleaf](http://siteleaf.com).
