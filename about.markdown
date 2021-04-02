@@ -27,22 +27,22 @@ Lead Designer, Marketing and Brand at [Celtra](http://celtra.com). Based in Broo
 - [Baltimore Sun](http://www.baltimoresun.com/business/bs-bz-ripleys-plans-20111026-story.html)
 
 ## Friends 2 Hire
-- [Jackson Lynch](https://jacksonthats.me), Product Design
-- [Heda Hokschirr](https://www.hedahokschirr.com), Graphic Design
-- [Mike Rich](https://mikerich.nyc), Graphic Design
-- [Dhiya Choudary](http://dhiyachoudary.com), Creative Direction
-- [Gabe Kelley](https://www.gabekelley.com), Product Design
-- [Tessa Law](https://www.tessalaw.com), Graphic Design
-- [Kyle Turman](http://turman.co), Product Design
-- [Chase Bratton](https://www.linkedin.com/in/chasebratton/), Product Design
-- [Jessica Harllee](https://www.jessicaharllee.com), Product Design
-- [Erin Nolan](https://www.madebyeno.com), Product Design
-- [Mike Edmonds](http://edmonds.photo), Photo
-- [Micah E Wood](http://micahewood.com), Photo & Design
-- [Joe Deleeuw](https://www.linkedin.com/in/joe-deleeuw-18917060/), Software Engineer
-- [Emily Long](http://emily-long.net), Graphic Design
 - [Cap Watkins](http://emily-long.net), Graphic Design
-- [Kim Bost](http://emily-long.net), Graphic Design
+- [Chase Bratton](https://www.linkedin.com/in/chasebratton/), Product Design
 - [Christopher Chester,](https://christopherjchester.com) Product & Graphic Design
+- [Dhiya Choudary](http://dhiyachoudary.com), Creative Direction
+- [Emily Long](http://emily-long.net), Graphic Design
+- [Erin Nolan](https://www.madebyeno.com), Product Design
+- [Gabe Kelley](https://www.gabekelley.com), Product Design
+- [Heda Hokschirr](https://www.hedahokschirr.com), Graphic Design
+- [Jackson Lynch](https://jacksonthats.me), Product Design
+- [Jessica Harllee](https://www.jessicaharllee.com), Product Design
+- [Joe Deleeuw](https://www.linkedin.com/in/joe-deleeuw-18917060/), Software Engineer
+- [Kim Bost](http://emily-long.net), Graphic Design
+- [Kyle Turman](http://turman.co), Product Design
+- [Micah E Wood](http://micahewood.com), Photo & Design
+- [Mike Edmonds](http://edmonds.photo), Photo
+- [Mike Rich](https://mikerich.nyc), Graphic Design
+- [Tessa Law](https://www.tessalaw.com), Graphic Design
 
 Headshot by [Micah E. Wood](http://micahewood.com). Website built by [Jessica Harllee](http://jessicaharllee.com) and powered by [Siteleaf](http://siteleaf.com).
