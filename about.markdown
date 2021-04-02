@@ -26,7 +26,7 @@ Lead Designer, Marketing and Brand at [Celtra](http://celtra.com). Based in Broo
 - [Sidney Morning Herald](https://www.smh.com.au/entertainment/art-and-design/graffiti-artist-banksy-unveils-nyc-art-20131004-2uzbn.html)
 - [Baltimore Sun](http://www.baltimoresun.com/business/bs-bz-ripleys-plans-20111026-story.html)
 
-## Friends 
+## Friends 2 Hire
 - [Jackson Lynch, Product Design](https://jacksonthats.me)
 - [Heda Hokschirr, Graphic Design](https://www.hedahokschirr.com)
 - [Mike Rich, Graphic Design](https://mikerich.nyc)
