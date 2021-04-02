@@ -28,21 +28,21 @@ Lead Designer, Marketing and Brand at [Celtra](http://celtra.com). Based in Broo
 
 ## Friends 2 Hire
 - [Jackson Lynch](https://jacksonthats.me), Product Design
-- [Heda Hokschirr, Graphic Design](https://www.hedahokschirr.com)
-- [Mike Rich, Graphic Design](https://mikerich.nyc)
-- [Dhiya Choudary, Creative Direction](http://dhiyachoudary.com)
-- [Gabe Kelley, Product Design](https://www.gabekelley.com)
-- [Tessa Law, Graphic Design](https://www.tessalaw.com)
-- [Kyle Turman, Product Design](http://turman.co)
-- [Chase Bratton, Product Design](https://www.linkedin.com/in/chasebratton/)
-- [Jessica Harllee, Product Design](https://www.jessicaharllee.com)
-- [Erin Nolan, Product Design](https://www.madebyeno.com)
-- [Mike Edmonds, Photo](http://edmonds.photo)
-- [Micah E Wood, Photo & Design](http://micahewood.com)
-- [Joe Deleeuw, Software Engineer](https://www.linkedin.com/in/joe-deleeuw-18917060/)
-- [Emily Long, Graphic Design](http://emily-long.net)
-- [Cap Watkins, Graphic Design](http://emily-long.net)
-- [Kim Bost, Graphic Design](http://emily-long.net)
+- [Heda Hokschirr](https://www.hedahokschirr.com), Graphic Design
+- [Mike Rich](https://mikerich.nyc), Graphic Design
+- [Dhiya Choudary](http://dhiyachoudary.com), Creative Direction
+- [Gabe Kelley](https://www.gabekelley.com), Product Design
+- [Tessa Law](https://www.tessalaw.com), Graphic Design
+- [Kyle Turman](http://turman.co), Product Design
+- [Chase Bratton](https://www.linkedin.com/in/chasebratton/), Product Design
+- [Jessica Harllee](https://www.jessicaharllee.com), Product Design
+- [Erin Nolan](https://www.madebyeno.com), Product Design
+- [Mike Edmonds](http://edmonds.photo), Photo
+- [Micah E Wood](http://micahewood.com), Photo & Design
+- [Joe Deleeuw](https://www.linkedin.com/in/joe-deleeuw-18917060/), Software Engineer
+- [Emily Long](http://emily-long.net), Graphic Design
+- [Cap Watkins](http://emily-long.net), Graphic Design
+- [Kim Bost](http://emily-long.net), Graphic Design
 - [Christopher Chester,](https://christopherjchester.com) Product & Graphic Design
 
 Headshot by [Micah E. Wood](http://micahewood.com). Website built by [Jessica Harllee](http://jessicaharllee.com) and powered by [Siteleaf](http://siteleaf.com).
