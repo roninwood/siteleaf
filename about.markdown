@@ -9,10 +9,10 @@ layout: about
 
 # About
 
-Senior Graphic Designer at [Starry](http://starry.com). Based in Brooklyn, originally from southern Virginia. Big fan of pizza. Big fan of making pizza at home. [Big fan of these songs](https://open.spotify.com/playlist/4m1O4IBKp8SEb8S4qoMzcp?si=DDXByu0vTAq_Q6n-6ilIiw).
+Lead Designer, Marketing and Brand at [Celtra](http://celtra.com). Based in Brooklyn, originally from southern Virginia. Big fan of pizza. Big fan of making pizza at home. [Big fan of these songs](https://open.spotify.com/playlist/4m1O4IBKp8SEb8S4qoMzcp?si=DDXByu0vTAq_Q6n-6ilIiw).
 
 ## Contact
-- [Email](mailto:ronin@hey.com)
+- [Email](mailto:hi@roninwood.com)
 - [Resume](/uploads/Ronin_Wood_Resume_2020.pdf)
 - [WorkingNotWorking](https://workingnotworking.com/34933-ronin)
 - [Linkedin](https://www.linkedin.com/in/roninwood/)
