@@ -8,4 +8,4 @@ tags:
 - print
 ---
 
-![back-squashed.jpg](/uploads/back-squashed.jpg)
+![back.jpg](/uploads/back.jpg)
