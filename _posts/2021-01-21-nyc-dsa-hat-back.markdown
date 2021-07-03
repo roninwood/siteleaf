@@ -1,7 +1,6 @@
 ---
-title: NYC-DSA Hat back
+title: NYC-DSA Hat - back
 date: 2021-01-21 18:28:00 -05:00
-published: false
 categories:
 - Freelance
 tags:
