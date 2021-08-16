@@ -9,4 +9,4 @@ tags:
 - print
 ---
 
-![hotgirl-squashed.jpg](/uploads/hotgirl-squashed.jpg)
+[hotgirl.webp](/uploads/hotgirl.webp)
