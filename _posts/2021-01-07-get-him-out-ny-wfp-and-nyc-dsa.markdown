@@ -9,4 +9,4 @@ tags:
 - politics
 ---
 
-![Get_Him_Out_IG@2x-100-23b57f.jpg](/uploads/Get_Him_Out_IG@2x-100-23b57f.jpg)
+[Get_Him_Out_IG@2x-100-23b57f.webp](/uploads/Get_Him_Out_IG@2x-100-23b57f.webp)
