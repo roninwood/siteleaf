@@ -1,5 +1,5 @@
 ---
-title: Starry goes hollywood
+title: Starry Social - Starry goes hollywood
 date: 2018-11-20 22:59:00 -05:00
 categories:
 - Starry
