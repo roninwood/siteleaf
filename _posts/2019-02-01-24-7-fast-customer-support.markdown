@@ -1,5 +1,5 @@
 ---
-title: 24-7 Fast customer support
+title: Starry Social - 24-7 fast customer support
 date: 2019-02-01 13:44:00 -05:00
 categories:
 - Starry
