@@ -1,5 +1,5 @@
 ---
-title: It looks like...
+title: Starry Social - It looks like...
 date: 2019-04-01 23:41:00 -04:00
 categories:
 - Starry
