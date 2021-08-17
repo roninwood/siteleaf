@@ -1,5 +1,5 @@
 ---
-title: Wifi Name Generator
+title: Starry Social - Wifi Name Generator
 date: 2019-10-01 13:37:00 -04:00
 categories:
 - Starry
