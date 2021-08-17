@@ -1,5 +1,5 @@
 ---
-title: Black History Month 3c
+title: Starry Social - Black History Month 3c
 date: 2019-02-01 08:12:00 -05:00
 categories:
 - Starry
