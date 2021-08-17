@@ -8,4 +8,4 @@ tags:
 - politics
 ---
 
-![suraj_merch.jpg](/uploads/suraj_merch.jpg)
+[suraj_merch.webp](/uploads/suraj_merch.webp)
