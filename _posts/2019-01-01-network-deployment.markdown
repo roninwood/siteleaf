@@ -1,5 +1,5 @@
 ---
-title: Network Deployment
+title: Starry Social - Network Deployment
 date: 2019-01-01 13:46:00 -05:00
 categories:
 - Starry
