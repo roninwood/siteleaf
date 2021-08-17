@@ -9,4 +9,4 @@ tags:
 - print
 ---
 
-[hotgirl.webp](/uploads/hotgirl.webp)
+![hotgirl-ee3972.jpg](/uploads/hotgirl-ee3972.jpg)
