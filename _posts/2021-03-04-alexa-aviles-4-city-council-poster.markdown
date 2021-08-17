@@ -8,4 +8,4 @@ tags:
 - politics
 ---
 
-![Alexa_squashed.jpg](/uploads/Alexa_squashed.jpg)
+![Alexa_squashed-2-1.jpg](/uploads/Alexa_squashed-2-1.jpg)
