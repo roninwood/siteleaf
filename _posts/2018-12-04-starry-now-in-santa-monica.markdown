@@ -1,5 +1,5 @@
 ---
-title: Starry Social - Starry now in Santa Monica
+title: Starry Social - Now in Santa Monica
 date: 2018-12-04 11:46:00 -05:00
 categories:
 - Starry
