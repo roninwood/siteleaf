@@ -8,4 +8,4 @@ tags:
 - politics
 ---
 
-[fake_white.webp](/uploads/fake_white.webp)
+[fake_white-893ccd.webp](/uploads/fake_white-893ccd.webp)
