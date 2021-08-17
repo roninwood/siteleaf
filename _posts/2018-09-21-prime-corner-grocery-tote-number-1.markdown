@@ -7,4 +7,4 @@ tags:
 - swag
 ---
 
-[smile.webp](/uploads/smile.webp)
+![smile-6c567d.jpg](/uploads/smile-6c567d.jpg)
