@@ -8,4 +8,4 @@ tags:
 - album covers
 ---
 
-[6thsense-01.webp](/uploads/6thsense-01.webp)
+![6thsense-01-53a43f.jpg](/uploads/6thsense-01-53a43f.jpg)
