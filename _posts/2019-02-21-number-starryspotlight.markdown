@@ -1,5 +1,5 @@
 ---
-title: "#StarrySpotlight"
+title: 'Starry Social - #StarrySpotlight'
 date: 2019-02-21 11:54:00 -05:00
 categories:
 - Starry
