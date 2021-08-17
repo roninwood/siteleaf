@@ -8,4 +8,4 @@ tags:
 - politics
 ---
 
-[mailer_attack.webp](/uploads/mailer_attack.webp)
+![mailer_attack-554781.jpg](/uploads/mailer_attack-554781.jpg)
