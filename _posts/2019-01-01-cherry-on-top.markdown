@@ -8,4 +8,4 @@ tags:
 - photography
 ---
 
-![cherry.jpg](/uploads/cherry.jpg)
+[cherry.webp](/uploads/cherry.webp)
