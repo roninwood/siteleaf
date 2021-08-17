@@ -8,4 +8,4 @@ tags:
 - print
 ---
 
-![poster.jpg](/uploads/poster.jpg)
+![poster-2.jpg](/uploads/poster-2.jpg)
