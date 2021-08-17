@@ -1,5 +1,5 @@
 ---
-title: Black History Month 1
+title: Starry Social - Black History Month 1
 date: 2019-02-01 15:16:00 -05:00
 categories:
 - Starry
