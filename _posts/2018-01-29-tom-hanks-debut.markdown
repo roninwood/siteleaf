@@ -9,4 +9,4 @@ tags:
 - social
 ---
 
-![Debut_Hanks.jpg](/uploads/Debut_Hanks.jpg)
+[Debut_Hanks.webp](/uploads/Debut_Hanks.webp)

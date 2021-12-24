@@ -1,5 +1,5 @@
 ---
-title: Digital Divide 1
+title: Starry Social - Digital Divide 1
 date: 2019-02-05 11:43:00 -05:00
 categories:
 - Starry

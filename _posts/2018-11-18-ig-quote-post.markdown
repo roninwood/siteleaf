@@ -1,5 +1,5 @@
 ---
-title: IG Quote Post
+title: Starry Social - Quote Post
 date: 2018-11-18 22:35:00 -05:00
 categories:
 - Starry

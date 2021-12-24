@@ -9,4 +9,4 @@ tags:
 - print
 ---
 
-![hotgirl-squashed.jpg](/uploads/hotgirl-squashed.jpg)
+![hotgirl-ee3972.jpg](/uploads/hotgirl-ee3972.jpg)

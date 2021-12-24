@@ -7,4 +7,4 @@ tags:
 - print
 ---
 
-![sidewalk-squashed.jpg](/uploads/sidewalk-squashed.jpg)
+![ChalkSpray.jpg](/uploads/ChalkSpray.jpg)

@@ -8,4 +8,4 @@ tags:
 - politics
 ---
 
-![thankyou_newblood (1).png](/uploads/thankyou_newblood%20(1).png)
+![thankyou_newblood (1).jpg](/uploads/thankyou_newblood%20(1).jpg)

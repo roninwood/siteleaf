@@ -1,5 +1,5 @@
 ---
-title: Cable Company Tinder
+title: Starry Social - Cable Company Tinder
 date: 2019-04-18 13:41:00 -04:00
 categories:
 - Starry

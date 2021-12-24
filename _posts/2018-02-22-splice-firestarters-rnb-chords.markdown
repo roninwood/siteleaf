@@ -9,4 +9,4 @@ tags:
 - music
 ---
 
-![FireStarters_randB_1-c849a1.jpg](/uploads/FireStarters_randB_1-c849a1.jpg)
+![FireStarters_randB_1-b38f33.jpg](/uploads/FireStarters_randB_1-b38f33.jpg)

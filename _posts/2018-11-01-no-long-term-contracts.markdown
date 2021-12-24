@@ -1,5 +1,5 @@
 ---
-title: No long-term contracts
+title: Starry Social - No long-term contracts
 date: 2018-11-01 13:31:00 -04:00
 categories:
 - Starry

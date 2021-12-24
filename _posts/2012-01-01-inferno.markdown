@@ -7,4 +7,4 @@ tags:
 - posters
 ---
 
-![Inferno-203.png](/uploads/Inferno-203.png)
+![Inferno-203.jpg](/uploads/Inferno-203.jpg)

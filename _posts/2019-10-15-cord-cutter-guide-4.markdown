@@ -1,5 +1,5 @@
 ---
-title: Cord Cutter Guide 4
+title: Starry Social - Cord Cutter Guide 4
 date: 2019-10-15 14:50:00 -04:00
 categories:
 - Starry

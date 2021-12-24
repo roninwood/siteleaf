@@ -1,5 +1,5 @@
 ---
-title: Starry in LA
+title: Starry Social - Starry in LA
 date: 2019-03-01 13:42:00 -05:00
 categories:
 - Starry

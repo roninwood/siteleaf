@@ -8,4 +8,4 @@ tags:
 - politics
 ---
 
-![Attack_r copy-1.jpg](/uploads/Attack_r%20copy-1.jpg)
+![mailer_attack-554781.jpg](/uploads/mailer_attack-554781.jpg)
