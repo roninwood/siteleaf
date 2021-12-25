@@ -1,5 +1,5 @@
 ---
-title: Celtra Diwali Post
+title: Celtra - Diwali Post
 date: 2021-11-04 12:09:00 -04:00
 categories:
 - Celtra
