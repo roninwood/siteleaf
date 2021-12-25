@@ -1,6 +1,11 @@
 ---
 title: Celtra - Brand-Side Social Podcast Template
 date: 2021-12-25 12:14:00 -05:00
+categories:
+- Celtra
+tags:
+- animation
+- social
 ---
 
 <div class="video-square">
