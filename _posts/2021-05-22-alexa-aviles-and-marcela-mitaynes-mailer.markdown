@@ -8,4 +8,4 @@ tags:
 - print
 ---
 
-![High_colorized_blue3.jpg](/uploads/High_colorized_blue3.jpg)![E2rcV7XXEAEr5xU.jpeg](/uploads/E2rcV7XXEAEr5xU.jpeg)
+![E2rcV7XXEAEr5xU.jpeg](/uploads/E2rcV7XXEAEr5xU.jpeg)
