@@ -8,4 +8,4 @@ tags:
 - politics
 ---
 
-![Artboard 1 copy 2@3x-100.jpg](/uploads/Artboard%201%20copy%202@3x-100.jpg)
+![Artboard 1 copy 2@3x-100-882566.jpg](/uploads/Artboard%201%20copy%202@3x-100-882566.jpg)
