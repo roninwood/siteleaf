@@ -2,12 +2,11 @@
 title: Suraj Patel - Policy IG Stories
 date: 2018-06-25 16:32:00 -04:00
 categories:
-- Suraj Patel for NY
+- Politics
 tags:
 - social
 - animation
 - video
-- politics
 ---
 
 <div class="video-vertical">

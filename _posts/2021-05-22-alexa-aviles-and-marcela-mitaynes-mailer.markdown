@@ -2,9 +2,8 @@
 title: Alexa Avilés & Marcela Mitaynes mailer
 date: 2021-05-22 14:37:00 -04:00
 categories:
-- Freelance
+- Politics
 tags:
-- politics
 - print
 ---
 

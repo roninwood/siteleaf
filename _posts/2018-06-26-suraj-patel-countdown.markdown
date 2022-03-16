@@ -2,10 +2,9 @@
 title: Suraj Patel - Countdown
 date: 2018-06-26 14:22:00 -04:00
 categories:
-- Suraj Patel for NY
+- Politics
 tags:
 - social
-- politics
 ---
 
 ![Count_down.gif](/uploads/Count_down.gif)

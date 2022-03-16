@@ -2,10 +2,9 @@
 title: Suraj Patel - NYC Bodega Tote
 date: 2018-05-23 22:48:00 -04:00
 categories:
-- Suraj Patel for NY
+- Politics
 tags:
 - swag
-- politics
 ---
 
 ![thankyou_newblood (1).jpg](/uploads/thankyou_newblood%20(1).jpg)

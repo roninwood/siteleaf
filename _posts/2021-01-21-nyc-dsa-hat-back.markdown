@@ -2,10 +2,9 @@
 title: NYC-DSA Hat - back
 date: 2021-01-21 18:28:00 -05:00
 categories:
-- Freelance
+- Politics
 tags:
 - swag
-- politics
 ---
 
 ![164494995_1363503824042548_5842023342831950815_n-baae14.jpg](/uploads/164494995_1363503824042548_5842023342831950815_n-baae14.jpg)

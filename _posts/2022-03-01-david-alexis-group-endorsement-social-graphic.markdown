@@ -2,9 +2,8 @@
 title: David Alexis - Group Endorsement Social Graphic
 date: 2022-03-01 17:30:00 -05:00
 categories:
-- Freelance
+- Politics
 tags:
-- politics
 - social
 ---
 
