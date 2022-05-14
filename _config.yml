@@ -46,3 +46,4 @@ sass:
 description: Ronin Wood is a designer and art director.
 plugins:
 - nokogiri
+- jekyll-loading-lazy
