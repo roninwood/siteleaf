@@ -8,3 +8,4 @@ tags:
 type: casestudy
 ---
 
+![FW_Classic_Jewel_Case_Mockup.jpg](/uploads/FW_Classic_Jewel_Case_Mockup.jpg)
