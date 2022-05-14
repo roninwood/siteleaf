@@ -1,5 +1,5 @@
 ---
-title: Starry Social - #StarrySpotlight 4
+title: Starry Social -
 date: 2019-04-09 11:51:00 -04:00
 categories:
 - Starry
