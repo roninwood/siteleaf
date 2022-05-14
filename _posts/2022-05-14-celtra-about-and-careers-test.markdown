@@ -8,7 +8,7 @@ tags:
 - web
 type: casestudy
 color: FFFF54
-thumbnail: "/uploads/Celtra-about.jpg"
+thumbnail: "/uploads/Celtra_about.png"
 ---
 
 ## Role ##
