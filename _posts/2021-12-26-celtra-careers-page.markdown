@@ -5,6 +5,7 @@ categories:
 - Celtra
 tags:
 - digital
+- web
 ---
 
 <div class="video-square">

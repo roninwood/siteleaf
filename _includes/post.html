@@ -1,19 +1,49 @@
 {% assign post = include.post %}
 
-<div class="post-body mb-xs-4">
-	
-	{{ post.content }}
+{% if post.type == "casestudy" %}
 
-	<div class="text-body mt-xs-2 mb-xs-1">
-		{{post.title}}
+	<div class="post-body mb-xs-4" style="background-color: #{{post.color}};">
+		
+		<a href="{{post.url}}" class="display-block"><img src="{{post.thumbnail}}" loading="lazy" class="width-100 display-block" alt=""></a>
+		
+		<div class="p-xs-2">
+			<div class="text-body mb-xs-1">
+				{{post.title}}
+			</div>
+			<ul class="list-unstyled list-inline text-accent">
+				{% for category in post.categories %}
+					<li class="mr-xs-2 mb-xs-1"><a href="/categories/{{ category | slugify }}" class="link-grey">{{ category }}</a></li>
+				{% endfor %}
+				{% for tag in post.tags %}
+					<li class="mr-xs-2 mb-xs-1"><a href="/tags/{{ tag | slugify }}" class="link-grey">{{ tag }}</a></li>
+				{% endfor %}
+			</ul>
+		</div>
+
+		<div class="text-center p-xs-2 pb-xs-3">
+			<a href="{{post.url}}" class="btn btn-black btn-pill">View case study</a>
+		</div>
+
 	</div>
-	<ul class="list-unstyled list-inline text-accent">
-		{% for category in post.categories %}
-			<li class="mr-xs-2 mb-xs-1"><a href="/categories/{{ category | slugify }}" class="link-grey">{{ category }}</a></li>
-		{% endfor %}
-		{% for tag in post.tags %}
-			<li class="mr-xs-2 mb-xs-1"><a href="/tags/{{ tag | slugify }}" class="link-grey">{{ tag }}</a></li>
-		{% endfor %}
-	</ul>
 
-</div>
+{% else %}
+
+	<div class="post-body mb-xs-4">
+		
+		{{ post.content }}
+
+		<div class="text-body mt-xs-2 mb-xs-1">
+			{{post.title}}
+		</div>
+		<ul class="list-unstyled list-inline text-accent">
+			{% for category in post.categories %}
+				<li class="mr-xs-2 mb-xs-1"><a href="/categories/{{ category | slugify }}" class="link-grey">{{ category }}</a></li>
+			{% endfor %}
+			{% for tag in post.tags %}
+				<li class="mr-xs-2 mb-xs-1"><a href="/tags/{{ tag | slugify }}" class="link-grey">{{ tag }}</a></li>
+			{% endfor %}
+		</ul>
+
+	</div>
+
+{% endif %}

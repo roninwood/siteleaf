@@ -6,6 +6,7 @@
 
 .btn {
   border: 0;
+  border-radius: 6px;
   display: inline-block;
   font-family: $font-body;
   font-size: 16px;
@@ -15,12 +16,15 @@
   -webkit-appearance: none;
 }
 
+.btn-pill {
+  border-radius: 30px;
+}
+
 
 // Black button
 
 .btn-black {
   background-color: $black;
-  border-radius: 6px;
   color: $white;
   
   &:hover {
@@ -34,7 +38,6 @@
 
 .btn-spotify {
   background-color: $green-spotify;
-  border-radius: 30px;
   color: $white;
   
   &:hover {

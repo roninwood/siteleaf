@@ -5,6 +5,7 @@ categories:
 - Celtra
 tags:
 - digital
+- web
 ---
 
 ![Podcast-module.jpg](/uploads/Podcast-module.jpg)

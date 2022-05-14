@@ -2,4 +2,28 @@
 layout: default
 ---
 
-{% include post.html post=page %}
+
+<div class="mb-xs-4">
+	{% include nav.html %}
+</div>
+
+{% include tags.html %}
+
+
+<div class="mt-xs-4">
+	<ul class="list-unstyled list-inline text-accent mb-xs-2">
+		{% for category in page.categories %}
+			<li class="mr-xs-2 mb-xs-1"><a href="/categories/{{ category | slugify }}" class="link-grey">{{ category }}</a></li>
+		{% endfor %}
+		{% for tag in page.tags %}
+			<li class="mr-xs-2 mb-xs-1"><a href="/tags/{{ tag | slugify }}" class="link-grey">{{ tag }}</a></li>
+		{% endfor %}
+	</ul>
+	<h1 class="text-display mb-xs-2">{{ page.title }}</h1>
+</div>
+
+<div class="mt-xs-4 mt-md-6 mb-xs-4 mb-md-6">
+	<div class="text-body text-line-height-loose text-cms mt-xs-4 mt-md-6 mb-xs-4 mr-md-6 pr-md-4">
+		{{ content }}
+	</div>
+</div>
