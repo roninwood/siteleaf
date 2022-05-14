@@ -8,7 +8,7 @@ tags:
 - web
 type: casestudy
 color: FFFF54
-thumbnail: "/uploads/celtra-test-thumbnail.png"
+thumbnail: "/uploads/Celtra-about.jpg"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mattis molestie a iaculis at erat pellentesque adipiscing commodo. Convallis aenean et tortor at risus viverra adipiscing at in. Magna fermentum iaculis eu non diam phasellus vestibulum lorem sed. Laoreet non curabitur gravida arcu. Nec sagittis aliquam malesuada bibendum. Adipiscing elit pellentesque habitant morbi tristique senectus et. Congue eu consequat ac felis donec et odio. Dictum varius duis at consectetur lorem donec massa sapien. Sed euismod nisi porta lorem mollis aliquam ut porttitor. Amet luctus venenatis lectus magna fringilla urna porttitor rhoncus dolor. Tempus quam pellentesque nec nam aliquam sem et tortor consequat. Tempus egestas sed sed risus pretium quam vulputate dignissim suspendisse. Imperdiet proin fermentum leo vel. Nibh sed pulvinar proin gravida hendrerit lectus.
