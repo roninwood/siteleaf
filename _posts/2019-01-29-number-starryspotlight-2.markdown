@@ -1,9 +1,5 @@
 ---
-title: Number Starryspotlight 2
-date: 2019-01-29 00:00:00 -05:00
----
-
-title: 'Starry Social - #StarrySpotlight 2'
+title: Starry Social - #StarrySpotlight 2
 date: 2019-01-29 11:53:00 -05:00
 categories:
 - Starry
