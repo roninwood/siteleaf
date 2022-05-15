@@ -1,7 +1,6 @@
 ---
 title: Celtra - About and Careers refresh
 date: 2022-05-14 12:05:00 -04:00
-published: true
 categories:
 - Celtra
 tags:
