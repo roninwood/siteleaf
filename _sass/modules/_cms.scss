@@ -1,0 +1,154 @@
+// CMS text
+
+.text-cms {
+
+	h1 {
+		font-family: $font-body;
+		font-size: 28px;
+		font-weight: bold;
+		line-height: 1.2;
+
+		@include breakpoint(md-up) {
+			font-size: 36px;
+		}
+	}
+
+	h2, h3, h4, h5, h6 {
+		font-family: $font-body;
+		font-size: 16px;
+		line-height: 1.2;
+
+		@include breakpoint(md-up) {
+			font-size: 18px;
+		}
+	}
+
+	h1, h2, h3, h4, h5, h6 {
+		margin-bottom: $space * 1;
+	}
+
+	ol, ul, p {
+		margin-bottom: $space * 2;
+	}
+
+	ul, ol {
+		list-style-type: none;
+		  padding-left: 0;
+	}
+
+	a {
+		color: $black;
+		text-decoration: underline;
+
+		&:hover {
+				color: $blue;
+		}
+	}
+}
+
+
+// Case studies
+
+.text-case-study {
+
+	h1 {
+		font-family: $font-body;
+		font-size: 28px;
+		font-weight: bold;
+		line-height: 1.2;
+
+		@include breakpoint(md-up) {
+			font-size: 36px;
+		}
+	}
+
+	h2 {
+		font-family: $font-body;
+		font-size: 24px;
+		line-height: 1.2;
+
+		@include breakpoint(md-up) {
+			font-size: 28px;
+		}
+	}
+
+	h3 {
+		font-family: $font-body;
+		font-size: 20px;
+		line-height: 1.2;
+
+		@include breakpoint(md-up) {
+			font-size: 24px;
+		}
+	}
+
+	h4, h5, h6 {
+		font-family: $font-body;
+		font-size: 16px;
+		line-height: 1.2;
+
+		@include breakpoint(md-up) {
+			font-size: 18px;
+		}
+	}
+
+	h1, h2, h3, h4, h5, h6 {
+		margin-bottom: $space * 2;
+	}
+
+	ol, ul, p {
+		margin-bottom: $space * 3;
+	}
+
+	ul, ol {
+		list-style-type: none;
+		padding-left: 0;
+	}
+
+	a {
+		color: $black;
+		text-decoration: underline;
+
+		&:hover {
+				color: $blue;
+		}
+	}
+
+	// Scrollable image container
+    .cms-img-scrollable {
+        background-color: $white;
+        border: 1px solid $grey;
+        margin-top: $space * 2;
+        margin-bottom: $space * 3;
+
+        img {
+        	width: 100%;
+        	display: block;
+        }
+
+        @include breakpoint($media-sm) {
+            height: 600px;
+            overflow-y: scroll;
+        }
+
+        // Style the scrollbar
+        &::-webkit-scrollbar {
+            -webkit-appearance: none;
+            width: $space * 2;
+        }
+        &::-webkit-scrollbar-thumb {
+            background-color: $blue;
+        }
+        &::-webkit-scrollbar-track-piece {
+            background-color: $grey-light;
+        }
+    }
+
+    // Videos
+    video {
+	    width: 100%;
+	    margin-top: $space * 2;
+        margin-bottom: $space * 3;
+        border: 1px solid $grey;
+    }
+}
