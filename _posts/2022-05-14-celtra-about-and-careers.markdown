@@ -1,7 +1,6 @@
 ---
 title: Celtra - About and Careers refresh
 date: 2022-05-14 12:05:00 -04:00
-published: true
 categories:
 - Celtra
 tags:
@@ -95,7 +94,7 @@ Brand new page designed to provide a high level overview of the culture and valu
 
 ### Job Listings
 
-Brand new page built to bring our job listings to our website and support the aiblity to sort via department and location. 
+Brand new page built to bring our job listings to our website and support the ability to sort via department and location. 
 
 <img src="/uploads/Careers%20listings.jpg" class="width-100 b-t b-b b-l b-r">
 
