@@ -5,6 +5,8 @@ categories:
 - Celtra
 tags:
 - web
+- digital
+- case study
 type: casestudy
 color: FFFF54
 thumbnail: "/uploads/Celtra_about.png"
