@@ -86,7 +86,7 @@ The intial email a customer gets after scheduling an installlation. Designed to 
 
 ### Reminder email
 
-Since an install might not be the same day that you sign up, it's important that Starry sends out an email reminding people of when their install is and also offering them a chance to reschedule in case there is an earlier time or they are no longer available that day. Previously, people would sometimes cancel their install around this point because they were no longer available that day. With the update to this emailm we were able to let people know that if they can no longer do that time, they're welcome to give us a call and we would accommodate them.
+Since an install might not be the same day that you sign up, it's important that Starry sends out an email reminding people of when their install is and also offering them a chance to reschedule. Previously, people would sometimes cancel their install around this point because they were no longer available that day. With the update to this email we were able to let people know that if they can no longer do that time, they're welcome to give us a call and we would accommodate them.
 
 <div class="cms-img-scrollable cms-img-scrollable--email">
 	<img src="/uploads/email-ready.jpg">
