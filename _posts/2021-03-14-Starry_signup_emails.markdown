@@ -11,7 +11,7 @@ color: cbabd7
 thumbnail: "/uploads/email-thumbnail.png"
 ---
 
-<img src="/uploads/email-header.jpg" class="width-100">
+<img src="/uploads/Email-header.jpg" class="width-100">
 
 ## Role
 Lead designer
