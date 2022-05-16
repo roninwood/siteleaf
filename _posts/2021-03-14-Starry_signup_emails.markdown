@@ -1,5 +1,5 @@
 ---
-title: Starry - Customer Signup Email Series 
+title: Starry - Customer Signup Email Series
 date: 2021-03-14 12:05:00 -04:00
 categories:
 - Starry
