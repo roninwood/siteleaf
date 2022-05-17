@@ -13,7 +13,7 @@ Lead Designer, Marketing and Brand at [Celtra](http://celtra.com). Based in Broo
 
 ## Contact
 - [Email](mailto:hi@roninwood.com)
-- [Resume](/uploads/Ronin_Wood_Resume_2020.pdf)
+- [Resume](/uploads/ronin-wood-resume-2022.pdf)
 - [WorkingNotWorking](https://workingnotworking.com/34933-ronin)
 - [Linkedin](https://www.linkedin.com/in/roninwood/)
 
