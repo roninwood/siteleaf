@@ -46,7 +46,7 @@ The creative director and CEO gave me a loose ask: make it splashy and make it c
 <div class="text-center mb-xs-3"><iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/98216729&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/gesaffelstein" title="Gesaffelstein" target="_blank" style="color: #cccccc; text-decoration: none;">Gesaffelstein</a> · <a href="https://soundcloud.com/gesaffelstein/pursuit" title="PURSUIT" target="_blank" style="color: #cccccc; text-decoration: none;">PURSUIT</a></div></div>
 
 <p class="text-center">
-	<img src="https://i.giphy.com/MWHSctvIxbWHS.gif">
+	<img src="https://i.giphy.com/MWHSctvIxbWHS.gif" class="width-100">
 </p>
 
 When I brought the idea to my creative director, he loved the concept and felt that it really matched the aesthetic of the nightlife scene and the artists. To match the sinisterness of the music, we decided that one of the objects should be a skull and the other should be a disco ball, since it was NYE. We felt that there would be something eerie about a disco ball with something dripping down it, which could have the vibe of a party gone wrong.
@@ -60,7 +60,7 @@ In addition to having no budget, we also didn't have a permanent photo studio to
 
 Once we had all of the footage, I gave myself a day to play with effects and manipulate the footage in Final Cut Pro X. We knew that we were going to have to use all of the artists' logos, so we couldn't have too much of Jukely's branding in the videos, so I needed to find clever ways to help people associate this night with Jukely. I decided to make the paint a purple hue, loosely inspired by the evil purple ooze in the Power Rangers movie.
 
-<div class="text-center mb-xs-3"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VFIoLN1n3os?start=52" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="width-100 text-center mb-xs-3" style="aspect-ratio: 16 / 9;"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VFIoLN1n3os?start=52" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 We didn't have much marketing budget, so we were going to have to rely heavily on word of mouth. We wanted to spread rumors that Justice was playing without explicitly saying it, so we decided to release a video that heavily teased that Justice would be there. I had the idea of slowing down and distorting the end of one of their songs and using it as the music for the teaser trailer.
 
