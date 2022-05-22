@@ -1,5 +1,5 @@
 ---
-title: Celtra - Dynamic Product Ads 
+title: Celtra - Dynamic Product Ads
 date: 2022-05-14 12:05:00 -04:00
 published: false
 categories:
