@@ -1,6 +1,7 @@
 ---
 title: Bedstudy Poster
 date: 2017-07-31 13:44:00 -04:00
+published: false
 categories:
 - Freelance
 tags:
