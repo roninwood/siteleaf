@@ -1,6 +1,6 @@
 ---
 title: Jukely New Year's Eve with Justice
-date: 2015-12-01 11:05:00 -05:00
+date: 2016-01-28 23:45:00 -05:00
 categories:
 - Jukely
 tags:
