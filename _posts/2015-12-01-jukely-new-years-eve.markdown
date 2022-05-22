@@ -60,7 +60,7 @@ In addition to having no budget, we also didn't have a permanent photo studio to
 
 Once we had all of the footage, I gave myself a day to play with effects and manipulate the footage in Final Cut Pro X. We knew that we were going to have to use all of the artists' logos, so we couldn't have too much of Jukely's branding in the videos, so I needed to find clever ways to help people associate this night with Jukely. I decided to make the paint a purple hue, loosely inspired by the evil purple ooze in the Power Rangers movie.
 
-<div class="width-100 text-center mb-xs-3" style="aspect-ratio: 16 / 9;"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VFIoLN1n3os?start=52" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="width-100 text-center mb-xs-3" style="aspect-ratio: 16 / 9;"><iframe src="https://www.youtube-nocookie.com/embed/VFIoLN1n3os?start=52" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 We didn't have much marketing budget, so we were going to have to rely heavily on word of mouth. We wanted to spread rumors that Justice was playing without explicitly saying it, so we decided to release a video that heavily teased that Justice would be there. I had the idea of slowing down and distorting the end of one of their songs and using it as the music for the teaser trailer.
 
