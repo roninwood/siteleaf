@@ -23,6 +23,15 @@
 	}
 }
 
+.link-white {
+	color: $white;
+	text-decoration: underline;
+
+	&:hover {
+		color: $grey-light;
+	}
+}
+
 .link-selected {
 	background-color: $blue;
 	color: $white;

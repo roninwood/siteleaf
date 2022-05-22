@@ -7,15 +7,15 @@
 		<a href="{{post.url}}" class="display-block"><img src="{{post.thumbnail}}" loading="lazy" class="width-100 display-block" alt=""></a>
 		
 		<div class="p-xs-2">
-			<div class="text-body mb-xs-1">
+			<div class="{% if post.theme == 'dark' %} text-white {% endif%} text-body mb-xs-1">
 				{{post.title}}
 			</div>
 			<ul class="list-unstyled list-inline text-accent">
 				{% for category in post.categories %}
-					<li class="mr-xs-2 mb-xs-1"><a href="/categories/{{ category | slugify }}" class="link-black">{{ category }}</a></li>
+					<li class="mr-xs-2 mb-xs-1"><a href="/categories/{{ category | slugify }}" class="{% if post.theme == 'dark' %} link-white {% else %} link-black {% endif%}">{{ category }}</a></li>
 				{% endfor %}
 				{% for tag in post.tags %}
-					<li class="mr-xs-2 mb-xs-1"><a href="/tags/{{ tag | slugify }}" class="link-black">{{ tag }}</a></li>
+					<li class="mr-xs-2 mb-xs-1"><a href="/tags/{{ tag | slugify }}" class="{% if post.theme == 'dark' %} link-white {% else %} link-black {% endif%}">{{ tag }}</a></li>
 				{% endfor %}
 			</ul>
 		</div>

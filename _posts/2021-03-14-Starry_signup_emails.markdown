@@ -7,8 +7,9 @@ tags:
 - digital
 - case study
 type: casestudy
-color: cbabd7
-thumbnail: "/uploads/email-thumbnail.png"
+color: f16f63
+theme: dark
+thumbnail: "/uploads/starry-email-thumbnail.jpg"
 ---
 
 <img src="/uploads/Email-header.jpg" class="width-100">

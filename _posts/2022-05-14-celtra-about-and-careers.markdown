@@ -9,7 +9,8 @@ tags:
 - case study
 type: casestudy
 color: FFFF54
-thumbnail: "/uploads/Celtra_about.png"
+theme: light
+thumbnail: "/uploads/team-thumbnail.jpg"
 ---
 
 <img src="/uploads/about-hr-header.jpg" class="width-100">
