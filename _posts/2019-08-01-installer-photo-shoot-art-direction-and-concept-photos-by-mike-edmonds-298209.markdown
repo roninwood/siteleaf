@@ -1,5 +1,5 @@
 ---
-title: Installer Photo shoot - Art Direction & Concept - Photos by Mike Edmonds
+title: Installer Photo shoot 2 - Art Direction & Concept - Photos by Mike Edmonds
 date: 2019-08-01 11:12:00 -04:00
 categories:
 - Starry
