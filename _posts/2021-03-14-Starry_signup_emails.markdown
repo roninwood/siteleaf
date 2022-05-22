@@ -8,7 +8,7 @@ tags:
 - case study
 type: casestudy
 color: f16f63
-theme: dark
+theme: light
 thumbnail: "/uploads/starry-email-thumbnail.jpg"
 ---
 
