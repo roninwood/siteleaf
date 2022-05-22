@@ -10,7 +10,7 @@ tags:
 - case study
 type: casestudy
 color: fb66c6
-theme: dark
+theme: light
 thumbnail: "/uploads/sp-thumbnail.jpg"
 ---
 
