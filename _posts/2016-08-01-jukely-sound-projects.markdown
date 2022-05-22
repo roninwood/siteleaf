@@ -19,7 +19,7 @@ thumbnail: "/uploads/sp-thumbnail.png"
 Lead designer
 
 ## Collaborators
-Creative Director, Event Coordinator
+[Chris Muccioli](https://chrismuccioli.com) (Creative Director), Event Coordinator
 
 ## Stakeholders
 CEO, external artist managers, external tour managers, external event producers, external music venue site manager

@@ -12,10 +12,10 @@
 			</div>
 			<ul class="list-unstyled list-inline text-accent">
 				{% for category in post.categories %}
-					<li class="mr-xs-2 mb-xs-1"><a href="/categories/{{ category | slugify }}" class="link-grey">{{ category }}</a></li>
+					<li class="mr-xs-2 mb-xs-1"><a href="/categories/{{ category | slugify }}" class="link-black">{{ category }}</a></li>
 				{% endfor %}
 				{% for tag in post.tags %}
-					<li class="mr-xs-2 mb-xs-1"><a href="/tags/{{ tag | slugify }}" class="link-grey">{{ tag }}</a></li>
+					<li class="mr-xs-2 mb-xs-1"><a href="/tags/{{ tag | slugify }}" class="link-black">{{ tag }}</a></li>
 				{% endfor %}
 			</ul>
 		</div>
