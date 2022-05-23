@@ -3,14 +3,28 @@
     <head>
 	    <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>RONIN</title>
+
         <meta name="description" content="Welcome to the Rone Zone&trade; &copy;">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <meta property="og:url" content="http://www.roninwood.com" />
-        <meta property="og:title" content="RONIN" />
         <meta property="og:description" content="Welcome to the Rone Zone&trade; &copy;" />
-        <meta property="og:image" content="http://www.roninwood.com/assets/img/ronin_thumbnail.png" />
+
+        {% if page.url contains 'posts' %}
+            <title>{{ page.title }} | RONIN</title>
+            <meta property="og:title" content="{{ page.title }} | RONIN" />
+        {% else %}
+            <title>RONIN</title>
+            <meta property="og:title" content="RONIN" />
+        {% endif %}
+
+        {% if page.share_image %}
+            <meta property="og:image" content="http://www.roninwood.com{{ page.share_image }}" />
+            <meta property="twitter:image" content="http://www.roninwood.com{{ page.share_image }}" />
+        {% else %}
+            <meta property="og:image" content="http://www.roninwood.com/assets/img/ronin_thumbnail.png" />
+            <meta property="twitter:image" content="http://www.roninwood.com/assets/img/ronin_thumbnail.png" />
+        {% endif %}
 
         <link rel="stylesheet" type="text/css" href="/assets/base.css">
         <link rel="icon" type="image/png" href="http://roninwood.com/uploads/favicon_16_16.png" sizes="16x16">

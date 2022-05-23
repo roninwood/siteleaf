@@ -1,5 +1,5 @@
 ---
-title: Celtra - About and Careers refresh
+title: Celtra About and Careers refresh
 date: 2022-05-14 12:05:00 -04:00
 categories:
 - Celtra
@@ -11,6 +11,7 @@ type: casestudy
 color: FFFF54
 theme: light
 thumbnail: "/uploads/team-thumbnail.jpg"
+share_image: "/uploads/about-hr-header.jpg"
 ---
 
 <img src="/uploads/about-hr-header.jpg" class="width-100">
