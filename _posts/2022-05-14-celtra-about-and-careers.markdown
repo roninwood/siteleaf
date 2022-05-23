@@ -11,7 +11,7 @@ type: casestudy
 color: FFFF54
 theme: light
 thumbnail: "/uploads/team-thumbnail.jpg"
-share_image: "/uploads/about-hr-header.jpg"
+share_image: "/uploads/team-share.jpg"
 ---
 
 <img src="/uploads/about-hr-header.jpg" class="width-100">

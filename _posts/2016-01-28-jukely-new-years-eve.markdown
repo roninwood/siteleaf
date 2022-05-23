@@ -12,6 +12,7 @@ type: casestudy
 color: 9B02FF
 theme: dark
 thumbnail: "/uploads/nye-thumbnail.jpg"
+share_image: "/uploads/nye-share.jpg"
 ---
 
 <img src="/uploads/nye-header.jpg" class="width-100">

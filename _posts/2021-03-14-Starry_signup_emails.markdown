@@ -10,6 +10,7 @@ type: casestudy
 color: f16f63
 theme: dark
 thumbnail: "/uploads/starry-email-thumbnail.jpg"
+share_image: "/uploads/email-share.jpg"
 ---
 
 <img src="/uploads/Email-header.jpg" class="width-100">

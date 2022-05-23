@@ -12,6 +12,7 @@ type: casestudy
 color: fb66c6
 theme: dark
 thumbnail: "/uploads/sp-thumbnail.jpg"
+share_image: "/uploads/sp-share.jpg"
 ---
 
 <img src="/uploads/sp-header.jpg" class="width-100">
