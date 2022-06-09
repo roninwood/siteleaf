@@ -1,6 +1,7 @@
 ---
 title: NYC-DSA - Rave Against The Machine - Shirt Front
 date: 2022-04-27 15:59:00 -04:00
+published: false
 categories:
 - Politics
 tags:
