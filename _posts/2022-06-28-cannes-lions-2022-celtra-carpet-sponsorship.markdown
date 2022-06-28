@@ -1,6 +1,6 @@
 ---
-title: Cannes Lions 2022 - Celtra Carpet Sponsorship
-date: 2022-06-28 16:11:00 -04:00
+title: Cannes Lions 2022 - Celtra Carpet Sponsorship 1
+date: 2022-06-28 16:15:00 -04:00
 categories:
 - Celtra
 tags:
