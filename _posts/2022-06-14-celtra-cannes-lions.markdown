@@ -1,7 +1,6 @@
 ---
-title: Celtra Cannes Lions Carpet Takeover 
+title: Celtra Cannes Lions Carpet Takeover
 date: 2022-06-14 12:05:00 -04:00
-published: true
 categories:
 - Celtra
 tags:
