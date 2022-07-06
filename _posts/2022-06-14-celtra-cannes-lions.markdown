@@ -10,7 +10,7 @@ type: casestudy
 color: 3E8DF7
 theme: dark
 thumbnail: "/uploads/cannes-thumbnail.jpg"
-share_image: "/uploads/-share.jpg"
+share_image: "/uploads/cannes-share.jpg"
 ---
 
 <img src="/uploads/cannes-header.jpg" class="width-100">
