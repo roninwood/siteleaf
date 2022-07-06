@@ -32,7 +32,7 @@ June 2022
 
 In early 2020, Celtra launched a huge rebrand and major new product offerings geared toward brands and agencies but was never able to do much in person marketing. For the past two years, the majority of marketing sponsorship opportunities were online only through online conferences and webinars. With the Cannes Lions marketing and creativity conference back in person in 2022, Celtra's marketing team thought it would be the perfect place to have a big splashy in person presence again. Celtra had sponsored Cannes Lions in the past, but with the old branding, so we thought we could use this sponsorship to reintroduce ourselves.
 
-There were a lot of sponsorship opportunities at Cannes, and marketing decided to do a red carpet takeover. My job was work with Celtra's marketing team to choose the color of the carpet and figure out what should go on 80+ unique ad placements on the carpet. As the only designer on the marketing team, I was responsible for everything from concepting to delivering the print files for production.
+There were a lot of sponsorship opportunities at Cannes, and marketing decided to do a red carpet takeover. My job was to work with Celtra's marketing team to choose the color of the carpet and figure out what should go on 80+ unique ad placements on the carpet. As the only designer on the marketing team, I was responsible for everything from concepting to delivering the print files for production.
 
 ## Concepting
 
