@@ -25,7 +25,7 @@ Copywriter, Brand Director
 CEO, EVP Marketing, Cannes Lions Team 
 
 ## Project date
-June 2022
+March - June 2022
 
 
 ## The Ask
