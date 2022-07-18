@@ -9,9 +9,17 @@ layout: about
 
 # About
 
-## Currently available for freelance, contract work, and select full time.
+## Pretty Good at 
+- Posters
+- Paid & Organic Social
+- Web Design (marketing)
+- Poltical work
+- Print Design
+- Merch & Swag
+- Presentations
+- And more! 
 
-Got a fun project? [Send me an email](mailto:hi@roninwood.com) 📧
+Ive been designing for over 10 years profionsally so chances are at some point i've designed it! [Send me an email](mailto:hi@roninwood.com) and lets chat! 
 
 Most recently Lead Designer, Marketing and Brand at [Celtra](http://celtra.com). Based in Brooklyn, originally from southern Virginia. Big fan of pizza. Big fan of making pizza at home. [Big fan of these songs](https://open.spotify.com/playlist/4m1O4IBKp8SEb8S4qoMzcp?si=DDXByu0vTAq_Q6n-6ilIiw).
 
