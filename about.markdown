@@ -13,7 +13,9 @@ layout: about
 - Posters
 - Paid & Organic Social
 - Web Design (marketing)
-- Poltical work
+- Email 
+- Display Ads
+- Political work
 - Print Design
 - Merch & Swag
 - Presentations
