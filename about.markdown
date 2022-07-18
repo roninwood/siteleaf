@@ -9,23 +9,16 @@ layout: about
 
 # About
 
-## Pretty Good at 
-- Posters
-- Paid & Organic Social
-- Web Design (marketing)
-- Email 
-- Display Ads
-- Political work
-- Print Design
-- Merch & Swag
-- Presentations
-- And more! 
+I was most recently the Lead Designer on the Marketing and Brand team at [Celtra](http://celtra.com). I've worked at large, established tech companies, early stage startups, political campaigns, direct-to-consumer brands, and even as a designer at an off-Broadway show.
 
-Ive been designing for over 10 years profionsally so chances are at some point i've designed it! [Send me an email](mailto:hi@roninwood.com) and lets chat! 
+Based in Brooklyn, originally from southern Virginia. Big fan of pizza. Big fan of making pizza at home. [Big fan of these songs](https://open.spotify.com/playlist/4m1O4IBKp8SEb8S4qoMzcp?si=DDXByu0vTAq_Q6n-6ilIiw).
 
-Most recently Lead Designer, Marketing and Brand at [Celtra](http://celtra.com). Based in Brooklyn, originally from southern Virginia. Big fan of pizza. Big fan of making pizza at home. [Big fan of these songs](https://open.spotify.com/playlist/4m1O4IBKp8SEb8S4qoMzcp?si=DDXByu0vTAq_Q6n-6ilIiw).
+## Pretty good at 
+Posters, marketing materials, paid & organic social, web design (marketing and landing pages), email, display ads, political work, print design, merch & swag, presentations, album covers, playlist creation, and more! 
 
 ## Contact
+I'm open to freelance, contact work, and select full-time opportunities. Reach out if you have something you'd love some help on! Excited to help you with anything from your big and exciting brand campaigns to resizing JPGs for social.
+
 - [Email](mailto:hi@roninwood.com)
 - [Resume](/uploads/ronin-wood-resume-2022.pdf)
 - [WorkingNotWorking](https://workingnotworking.com/34933-ronin)
