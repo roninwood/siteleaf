@@ -9,9 +9,9 @@ layout: about
 
 # About
 
-**Currently available for freelance, contract work, and select full time.**
+## Currently available for freelance, contract work, and select full time.
 
-Got a fun project? Send me an email 📧
+Got a fun project? [Send me an email](mailto:hi@roninwood.com) 📧
 
 Most recently Lead Designer, Marketing and Brand at [Celtra](http://celtra.com). Based in Brooklyn, originally from southern Virginia. Big fan of pizza. Big fan of making pizza at home. [Big fan of these songs](https://open.spotify.com/playlist/4m1O4IBKp8SEb8S4qoMzcp?si=DDXByu0vTAq_Q6n-6ilIiw).
 
