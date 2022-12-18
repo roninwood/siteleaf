@@ -23,6 +23,7 @@ I'm open to freelance, contact work, and select full-time opportunities. Reach o
 - [Resume](/uploads/ronin-wood-resume-2022.pdf)
 - [WorkingNotWorking](https://workingnotworking.com/34933-ronin)
 - [Linkedin](https://www.linkedin.com/in/roninwood/)
+- <a rel="me" href="https://mastodon.social/@roninwood">Mastodon</a>
 
 ## Press & Mentions
 - [TYPE magazine](https://www.typemag.org/post/fonts-and-leading-on-the-campaign-trail)
