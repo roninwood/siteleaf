@@ -1,6 +1,6 @@
 ---
 title: NYC-DSA Membership Drive Poster & Branding
-date: 2022-12-15 1:40:00 -03:00
+date: 2022-12-14 23:40:00 -05:00
 categories:
 - Politics
 tags:
