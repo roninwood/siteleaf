@@ -1,7 +1,6 @@
 ---
 title: Celtra Dynamic Product Ads Launch
 date: 2022-04-14 12:05:00 -04:00
-published: true
 categories:
 - Celtra
 tags:
