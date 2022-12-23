@@ -28,6 +28,7 @@ I'm open to freelance, contact work, and select full-time opportunities. Reach o
 ## Press & Featured 
 - [New York Magazine 2022 Holiday Gift Guide](https://nymag.com/strategist/article/best-christmas-gifts-under-50-2022.html)
 - [New York Magazine Lookbook](https://www.curbed.com/2022/11/democratic-socialist-convention-nyc-photos.html)
+- [Hey Alma](https://www.heyalma.com/this-jewish-musical-duo-is-releasing-a-new-single-for-each-night-of-hanukkah/)
 - [TYPE magazine](https://www.typemag.org/post/fonts-and-leading-on-the-campaign-trail)
 - [Citylab](https://www.citylab.com/design/2018/10/can-great-campaign-poster-win-election/572107/)
 - [Washington Post](https://www.washingtonpost.com/graphics/2018/politics/political-logos/?utm_term=.4b5af2a132af)
