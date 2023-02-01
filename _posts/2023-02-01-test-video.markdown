@@ -24,8 +24,3 @@ date: 2023-02-01 13:29:00 -05:00
     });
   }
 </script>
-
-
-
-https://www.youtube.com/watch?v=
-</div>
