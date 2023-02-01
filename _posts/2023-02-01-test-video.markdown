@@ -3,12 +3,13 @@ title: test video
 date: 2023-02-01 13:29:00 -05:00
 ---
 
+<div class="video-widescreen">
 <div id="ytplayer"></div>
 
 <script>
   // Load the IFrame Player API code asynchronously.
   var tag = document.createElement('script');
-  tag.src = "https://www.youtube.com/player_api";
+  tag.src = "https://www.youtube.com/watch?v=MGs1-bfiYFQ";
   var firstScriptTag = document.getElementsByTagName('script')[0];
   firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
 
@@ -23,3 +24,4 @@ date: 2023-02-01 13:29:00 -05:00
     });
   }
 </script>
+</div>
