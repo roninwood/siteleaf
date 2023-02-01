@@ -18,8 +18,8 @@ date: 2023-02-01 13:29:00 -05:00
   var player;
   function onYouTubePlayerAPIReady() {
     player = new YT.Player('ytplayer', {
-      height: '360',
-      width: '640',
+      height: '560',
+      width: '315',
       videoId: 'cd4-UnU8lWY'
     });
   }
