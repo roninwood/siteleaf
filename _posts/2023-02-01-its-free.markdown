@@ -4,5 +4,5 @@ date: 2023-02-01 13:52:00 -05:00
 ---
 
 <div class="video-square">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cd4-UnU8lWY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen; modestbranding=1; allowsInlineMediaPlayback=1; ></iframe>
+<div style="position: relative; padding-top: 100%;"><iframe src="https://iframe.mediadelivery.net/embed/92905/f54e5db7-5b0c-4d18-87ab-8dc1489211ea?autoplay=true&loop=true&muted=true" loading="lazy" style="border: none; position: absolute; top: 0; height: 100%; width: 100%;" allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" allowfullscreen="true"></iframe></div>
 </div>
