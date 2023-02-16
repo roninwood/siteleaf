@@ -1,5 +1,5 @@
 ---
-title: Spoon Invite- Myspace Secret Show
+title: Spoon Invite - Myspace Secret Show
 date: 2014-08-04 08:04:00 -04:00
 categories:
 - Sleep No More
