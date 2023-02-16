@@ -8,3 +8,4 @@ tags:
 - music
 ---
 
+![carlos.jpg](/uploads/carlos.jpg)
