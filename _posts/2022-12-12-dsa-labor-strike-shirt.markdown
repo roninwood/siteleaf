@@ -1,6 +1,6 @@
 ---
 title: DSA Labor - Strike Shirt
-date: 2022-10-01 11:37:00 -04:00
+date: 2022-12-12 11:37:00 -05:00
 categories:
 - Freelance
 - Politics
