@@ -1,5 +1,5 @@
 ---
-title: Amazon Labor Union - Join The Union 2
+title: Amazon Labor Union - Join The Union Social Campaign 3
 date: 2022-12-01 15:26:00 -05:00
 categories:
 - Politics
