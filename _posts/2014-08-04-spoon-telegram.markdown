@@ -1,6 +1,6 @@
 ---
-title: Spoon Telegram
-date: 2012-01-31 13:37:00 -05:00
+title: Spoon Telegram - Myspace Secret Show
+date: 2014-08-04 13:37:00 -04:00
 categories:
 - Sleep No More
 tags:
