@@ -1,0 +1,157 @@
+---
+title: David Alexis for State Senate Campaian Design
+date: 2022-12-16 11:05:00 -05:00
+categories:
+- Politics
+tags:
+- swag
+- print
+- web
+- digital
+- case study
+type: casestudy
+color: 2E2E30
+theme: dark
+thumbnail: "/uploads/da-thumbnail.jpg"
+share_image: "/uploads/da-share.jpg"
+published: false
+
+---
+
+<img src="/uploads/da-header.jpg" class="width-100">
+
+## Role
+Design Lead 
+
+## Collaborators
+Canidate, Campain Manager, deputy campain manger, NYC-DSA, Canidates Family
+
+Might need a sub section to list out addional designers 
+
+## Project date
+2022
+
+
+## The Canidate
+
+David is a husband and father of two. He is at all times to to improve the lives of his community and family. A lot of David's ideinty as a activist comes from being a husband and a father. Kids = healthcare
+
+## The Ask
+
+
+I've often joined campain post launch when they have the basics of their campain branding started 
+
+3 Main goals to the branding. 
+
+1 Can a non designer voutlerr make something that looks good within he brand guidlines 
+2 Needs feel apart of a movement
+3 Needs to tell the canidates story: Haitian 
+
+In 2021 Heda and I started explority design. We wanted to land on a branding that would be bold yet still easy for non designer coulterrs to creat graphics with. In the past people running as democrats have avoiding red, over recent years people have started being more bold with color chooses. Red is a important color to DSA and we wanted David to feel conected to the larger socialist movement. The other major thing we wanted to do was include a nod to the socialist rose imagary. In addition red is prometnally feauteed in the hatian flag 
+
+<img src="/uploads/da-flag.jpg" class="width-100">
+
+There is the concept of bread and roses within the movement. The idea that people do not just derseve sustiance (bread) but they also desevere to live a dignified life (roses). Heda and I brought this idea to the branding. David Alexis is a man who is constantly fighting for his family and people in his community. We felt it was important for his branding to convey is his idenity and his core values. 
+
+While we were hestitant to bring in the color blue as we did not want to look to much like an overly patriotic republican. We found if we used blue as a smaller accent color it evoked the haitian flag more then the american flag. 
+
+
+
+
+A better world is possible. 
+
+<img src="/uploads/da-aoc.jpg" class="width-100">
+
+## Process
+ 
+Intial ideas with heda
+
+<img src="/uploads/da-brand1.jpg" class="width-100">
+
+Intial ideas with heda
+
+<img src="/uploads/da-brand2.jpg" class="width-100">
+
+Logos with heda, sister and Trevor
+
+<img src="/uploads/da-brand4.jpg" class="width-100">
+
+<img src="/uploads/da-brand3.jpg" class="width-100">
+
+Icon set by Kevin White
+
+<img src="/uploads/da-icons.jpg" class="width-100">
+
+Because this was shirt with a strong message, it needed to be a really quick and bold read. I started by laying out the text in as many typefaces as I could find. After sharing lots of sketches and options with Kay and Tiffany, we kept coming back to the idea of having the typography feel uniquely New York. The idea we all loved the most was a reference to the iconic Thanks For Shopping With Us plastic bag that's found all over NYC.
+
+To give the shirt some attitude I printed out my design, crumpled the paper, and scanned the text back in. This trick allows the text to feel less digital and more weathered.
+
+
+### Website
+
+Homepage
+
+<div class="cms-img-scrollable">
+  <img src="/uploads/da-web1.jpg">
+</div>
+
+Platform Page
+
+<div class="cms-img-scrollable">
+  <img src="/uploads/da-web2.jpg">
+</div>
+
+
+
+
+The shirt was featured in the November 7, 2022 issue of New York Magazine, ["The Look Book Goes to a Democratic-Socialist Convention"](https://www.curbed.com/2022/11/democratic-socialist-convention-nyc-photos.html), and the November 21, 2022 issue of New York Magazine ["113 Carefully Selected, Unusually Special Gifts Under $50"](https://nymag.com/strategist/article/best-christmas-gifts-under-50-2022.html).
+
+### Office
+
+<img src="/uploads/da-office.jpg" class="width-100">
+
+
+### Poster
+
+<img src="/uploads/da-poster.jpg" class="width-100">
+
+### Palm Card
+
+<img src="/uploads/da-palm.jpg" class="width-100">
+
+### Mailers
+
+<img src="/uploads/da-mailers.jpg" class="width-100">
+
+### Postcard
+
+<img src="/uploads/da-postcard.jpg" class="width-100">
+
+### IRL
+
+<img src="/uploads/da-print-irl.jpg" class="width-100">
+
+New York State Assembly Member Zohran Kwame Mamdani wore the shirt during the New York City Marathon to bring attention to rent inequality in New York City.
+
+### Social
+
+<img src="/uploads/da-social.jpg" class="width-100">
+
+### Endorsement Graphics
+
+<img src="/uploads/da-endorsements.jpg" class="width-100">
+
+### Impact
+
+<img src="/uploads/da-nymag.jpg" class="width-100">
+
+<img src="/uploads/da-crowd.jpg" class="width-100">
+
+
+
+
+
+
+
+
+
