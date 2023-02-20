@@ -1,6 +1,6 @@
 ---
 title: Amazon Labor Union - Join The Union 1
-date: 2023-02-19 15:26:00 -05:00
+date: 2022-12-01 15:26:00 -05:00
 categories:
 - Politics
 tags:
