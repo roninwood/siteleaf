@@ -9,4 +9,4 @@ tags:
 - print
 ---
 
-![islg-Short-templates.jpg](/uploads/islg-Short-templates.jpg)
+![islg-Short-templates-8a860b.jpg](/uploads/islg-Short-templates-8a860b.jpg)
