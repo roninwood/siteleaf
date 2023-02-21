@@ -1,6 +1,7 @@
 ---
 title: David Alexis for State Senate Campaian Design
 date: 2022-12-16 11:05:00 -05:00
+published: false
 categories:
 - Politics
 tags:
@@ -14,8 +15,6 @@ color: 2E2E30
 theme: dark
 thumbnail: "/uploads/da-thumbnail.jpg"
 share_image: "/uploads/da-share.jpg"
-published: false
-
 ---
 
 <img src="/uploads/da-header.jpg" class="width-100">
