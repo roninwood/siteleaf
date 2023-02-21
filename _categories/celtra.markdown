@@ -1,7 +1,7 @@
 ---
 title: Celtra
 alias: Celtra
-years: 2021 - present
+years: 2021 - 2022
 role: Lead Designer, Marketing and Brand
 description: Lead designer responsible for designing and updating the Celtra homepage
   and marketing pages. Concept and design brand campaigns, social graphics, event
