@@ -7,8 +7,8 @@ skills: Posters, marketing materials, social content, web design (marketing and 
   presentations, album covers, playlist creation, and more!
 clients_header: Clients include
 clients: DSA, Splice, Sleep No More,  State Senator Jabari Brisport, Design for Progress,
-  Vital City, Amazon Labor Union, Celtra, Jukely, City Council Member Alexa Avilés
-  & more
+  Vital City, Amazon Labor Union, Housing Justice for All, Celtra, Jukely, City Council
+  Member Alexa Avilés & more
 assets:
 - path: "/uploads/ronin-header.jpg"
   alt: Ronin wearing a bright green t-shirt, a bucket hat, and sunglasses with a big
