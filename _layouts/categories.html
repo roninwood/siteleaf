@@ -2,28 +2,27 @@
 layout: default
 ---
 
-<div class="mb-xs-4">
-	{% include nav.html %}
-</div>
 
 {% include tags.html %}
 
-<div class="mt-xs-4">
-	<h1 class="text-display mb-xs-2">{{ page.alias }}. {% if page.years %}{{ page.years }}.{% endif %} {% if page.role %}{{ page.role }}.{% endif %}</h1>
-	<p class="text-body text-line-height-loose text-cms">{{ page.description }}</p>
-</div>
+<div class="max-width-xl ml-xs-auto mr-xs-auto pl-xs-3 pr-xs-3 pl-md-6 pr-md-6 mt-xs-4 mt-md-6 mb-xs-4 mb-md-6">
+	<div class="mt-xs-4">
+		<h1 class="text-display mb-xs-2">{{ page.alias }}. {% if page.years %}{{ page.years }}.{% endif %} {% if page.role %}{{ page.role }}.{% endif %}</h1>
+		<p class="text-body text-line-height-loose text-cms">{{ page.description }}</p>
+	</div>
 
 
-<div class="mt-xs-4 mt-md-6 mb-xs-4 mb-md-6">
-	<div class="block-grid">
-		{% for post in site.posts %}
-		    {% for category in post.categories %}
-				{% if category == page.title %}
-			        <div class="block-grid__item">
-			            {% include post.html %}
-			        </div>
-			    {% endif %}
+	<div class="mt-xs-4 mt-md-6 mb-xs-4 mb-md-6">
+		<div class="block-grid">
+			{% for post in site.posts %}
+			    {% for category in post.categories %}
+					{% if category == page.title %}
+				        <div class="block-grid__item">
+				            {% include post.html %}
+				        </div>
+				    {% endif %}
+				{% endfor %}
 			{% endfor %}
-		{% endfor %}
+		</div>
 	</div>
 </div>

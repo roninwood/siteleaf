@@ -28,12 +28,21 @@
 	text-decoration: underline;
 
 	&:hover {
-		color: $grey-light;
+		opacity: 0.8;
+	}
+}
+
+.link-red {
+	color: $red;
+	text-decoration: underline;
+
+	&:hover {
+		color: $black;
 	}
 }
 
 .link-selected {
-	background-color: $blue;
+	background-color: $red;
 	color: $white;
 	padding: 2px;
 	text-decoration: none;

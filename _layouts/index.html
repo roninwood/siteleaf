@@ -2,17 +2,49 @@
 layout: default
 ---
 
-<div class="mb-xs-4">
-	<div class="text-display text-cms">{{ content }}</div>
+<div class="bg-red text-white">
+	<div class="max-width-xl ml-xs-auto mr-xs-auto pl-xs-3 pr-xs-3 pl-md-6 pr-md-6 pb-xs-6">
+
+		<div class="display-lg-flex flex-direction-lg-row b-t b-white">
+			<div class="mt-xs-4 mt-md-6 mb-xs-4 mr-md-6 pr-md-4">
+				<div class="text-display text-cms mb-xs-4 mb-md-6">
+					{{ content }}
+				</div>
+				<p class="text-display mb-xs-4 mb-md-6"><a href="mailto:hi@roninwood.com" class="link-white">Send me an email!</a></p>
+				<p>
+					<a href="#content" class="btn btn-big btn-white text-display">
+						<img src="/uploads/arrow-down.svg" width="20" alt="" style="margin-right: 2px; top: 2px; left: -5px; position: relative;">
+						View work
+					</a>
+				</p>
+			</div>
+			<div class="flex-align-self-flex-start mt-xs-4 mt-md-6">
+				{% for asset in page.assets limit:1 %}
+					<img src="{{ asset.path }}" class="display-block max-width-md-down-100" alt="{{ asset.alt }}" width="450">
+				{% endfor %}
+			</div>
+		</div>
+
+		<div class="b-t b-b b-white mt-xs-6 pt-xs-6 pb-xs-6 display-none display-md-flex flex-direction-row">
+
+			<div class="text-cms pr-md-6">
+				<h2>{{ page.skills_header }}</h2>
+				<p>{{ page.skills }}</p>
+			</div>
+
+			<div class="text-cms b-l b-white pl-md-6">
+				<h2>{{ page.clients_header }}</h2>
+				<p style="margin-bottom: 0;">{{ page.clients }}</p>
+			</div>
+		</div>
+	</div>
 </div>
 
-<div class="mb-xs-4">
-	{% include nav.html %}
+<div id="content">
+	{% include tags.html %}
 </div>
 
-{% include tags.html %}
-
-<div class="mt-xs-4 mt-md-6 mb-xs-4 mb-md-6">
+<div class="max-width-xl ml-xs-auto mr-xs-auto pl-xs-3 pr-xs-3 pl-md-6 pr-md-6 mt-xs-4 mt-md-6 mb-xs-4 mb-md-6">
 	<div class="block-grid">
 	    {% for post in site.posts %}
 	        <div class="block-grid__item">

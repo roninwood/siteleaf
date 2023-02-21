@@ -2,10 +2,11 @@
 <html>
   {% include head.html %}
 
-  <body>
-    <div class="max-width-xl ml-xs-auto mr-xs-auto mt-xs-4 mt-md-6 mb-xs-4 mb-md-6 pl-xs-3 pr-xs-3 pl-md-6 pr-md-6">
-      {{ content }}
-    </div>
+  <body class="bg-pink-light">
+
+    {% include nav.html %}
+
+    {{ content }}
 
     <footer class="display-flex flex-direction-column flex-direction-md-row flex-justify-content-md-space-between text-body text-grey max-width-xl ml-xs-auto mr-xs-auto mt-xs-6 mb-xs-4 pl-xs-3 pr-xs-3 pl-md-6 pr-md-6">
       <div>

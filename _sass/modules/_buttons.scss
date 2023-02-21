@@ -6,7 +6,7 @@
 
 .btn {
   border: 0;
-  border-radius: 6px;
+  border-radius: 12px;
   display: inline-block;
   font-family: $font-body;
   font-size: 16px;
@@ -20,6 +20,11 @@
   border-radius: 30px;
 }
 
+.btn-big {
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
 
 // Black button
 
@@ -30,6 +35,18 @@
   &:hover {
       background-color: lighten($black, 5%);
       color: $white;
+  }
+}
+
+
+// White button
+
+.btn-white {
+  background-color: $white;
+  color: $red;
+  
+  &:hover {
+      opacity: 0.8;
   }
 }
 

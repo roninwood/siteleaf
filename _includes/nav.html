@@ -1,21 +1,24 @@
-<nav>
-	<ul class="list-unstyled list-inline text-body">
-		{% unless page.layout == 'index' %}
+<nav class="bg-red">
+	<div class="display-flex flex-justify-content-space-between max-width-xl ml-xs-auto mr-xs-auto pt-xs-4 pt-md-6 pb-xs-4 pb-md-6 pl-xs-3 pr-xs-3 pl-md-6 pr-md-6">
+		<div>
+			<a href="/" class="link-white nav-logo display-block"><img src="/uploads/ronin-logo.svg" alt="Ronin" width="95" class="display-block"></a>
+		</div>
+		<ul class="list-unstyled list-inline flex-align-items-center text-body">
 		  <li class="mr-xs-2">
-		  	<a href="/" class="link-black">Ronin Wood</a> -
+		  	<a href="/about" class="link-white {% if page.url contains '/about/' %}link-selected{% endif%}">About</a>
 		  </li>
-		 {% endunless %}
-	  <li class="mr-xs-2">
-	  	<a href="mailto:hi@roninwood.com?subject=Ronin I think your work is very very good" class="link-black">Email</a>
-	  </li>
-	  <li class="mr-xs-2">
-	  	<a href="/about" class="link-black {% if page.url contains '/about/' %}link-selected{% endif%}">About</a>
-	  </li>
-	  <li class="mr-xs-2">
-	  	<a href="/uploads/ronin-wood-resume-2023.pdf" class="link-black" target="_blank">Resume</a>
-	  </li>
-	  <li>
-	  	<a href="/playlists" class="link-black {% if page.url contains '/playlists/' %}link-selected{% endif%}" target="_blank">Playlists</a>
-	  </li>
-	</ul>
+		  <li class="mr-xs-2">
+		  	<a href="mailto:hi@roninwood.com?subject=Ronin I think your work is very very good" class="link-white">Email</a>
+		  </li>
+		  <li class="mr-xs-2">
+		  	<a href="/uploads/ronin-wood-resume-2023.pdf" class="link-white" target="_blank">Resume</a>
+		  </li>
+		  <li class="mr-xs-2">
+		  	<a href="http://instagram.com/roninwood" class="link-white display-xs-none" target="_blank">Instagram</a>
+		  </li>
+		  <li>
+		  	<a href="https://www.linkedin.com/in/roninwood" class="link-white display-xs-none" target="_blank">LinkedIn</a>
+		  </li>
+		</ul>
+	</div>
 </nav>

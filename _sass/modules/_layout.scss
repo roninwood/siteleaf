@@ -19,6 +19,17 @@
   .display-sm-block { display: block;}
 }
 
+@include breakpoint(sm-down) {
+  .display-xs-none { display: none; }
+  .display-xs-block { display: block;}
+}
+
+@include breakpoint(md-up) {
+  .display-md-flex { display: flex; }
+  .display-md-block { display: block;}
+}
+
+
 @include breakpoint(lg-up) {
   .display-lg-flex { display: flex; }
 }
@@ -103,20 +114,20 @@
 
 .b-t {
     border-top-style: solid;
-    border-top-width: 1px;
+    border-top-width: 2px;
 }
 
 .b-l {
     border-left-style: solid;
-    border-left-width: 1px;
+    border-left-width: 2px;
 }
 
 .b-b {
     border-bottom-style: solid;
-    border-bottom-width: 1px;
+    border-bottom-width: 2px;
 }
 
 .b-r {
     border-right-style: solid;
-    border-right-width: 1px;
+    border-right-width: 2px;
 }

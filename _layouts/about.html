@@ -2,19 +2,17 @@
 layout: default
 ---
 
-<div class="mb-xs-4">
-	{% include nav.html %}
-</div>
-
 {% include tags.html %}
 
-<div class="display-lg-flex flex-direction-lg-row">
-	<div class="text-body text-line-height-loose text-cms mt-xs-4 mt-md-6 mb-xs-4 mr-md-6 pr-md-4">
-		{{ content }}
-	</div>
-	<div class="flex-align-self-flex-start mt-xs-4 mt-md-6">
-	{% for asset in page.assets limit:1 %}
-		<img src="{{ asset.path }}" class="display-block max-width-md-down-100" alt="{{ asset.alt }}" width="500">
-	{% endfor %}
+<div class="max-width-xl ml-xs-auto mr-xs-auto pl-xs-3 pr-xs-3 pl-md-6 pr-md-6 mt-xs-4 mt-md-6 mb-xs-4 mb-md-6">
+	<div class="display-lg-flex flex-direction-lg-row">
+		<div class="text-body text-line-height-loose text-cms mt-xs-4 mt-md-6 mb-xs-4 mr-md-6 pr-md-4">
+			{{ content }}
+		</div>
+		<div class="flex-align-self-flex-start mt-xs-4 mt-md-6">
+		{% for asset in page.assets limit:1 %}
+			<img src="{{ asset.path }}" class="display-block max-width-md-down-100" alt="{{ asset.alt }}" width="500">
+		{% endfor %}
+		</div>
 	</div>
 </div>

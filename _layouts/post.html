@@ -2,14 +2,10 @@
 layout: default
 ---
 
-<div class="mb-xs-4">
-	{% include nav.html %}
-</div>
-
 {% include tags.html %}
 
 
-<div class="mt-xs-4">
+<div class="max-width-xl ml-xs-auto mr-xs-auto pl-xs-3 pr-xs-3 pl-md-6 pr-md-6 mt-xs-4 mt-md-6 mb-xs-4 mb-md-6">
 	<ul class="list-unstyled list-inline text-accent mb-xs-2">
 		{% for category in page.categories %}
 			<li class="mr-xs-2 mb-xs-1"><a href="/categories/{{ category | slugify }}" class="link-grey">{{ category }}</a></li>
@@ -19,10 +15,10 @@ layout: default
 		{% endfor %}
 	</ul>
 	<h1 class="text-display mb-xs-2">{{ page.title }}</h1>
-</div>
 
-<div class="mt-xs-4 mt-md-6 mb-xs-4 mb-md-6">
-	<div class="text-body text-line-height-loose text-case-study mt-xs-4 mt-md-6 mb-xs-4 mr-md-6 pr-md-4">
-		{{ content }}
+	<div class="mt-xs-4 mt-md-6 mb-xs-4 mb-md-6">
+		<div class="text-body text-line-height-loose text-case-study mt-xs-4 mt-md-6 mb-xs-4 mr-md-6 pr-md-4">
+			{{ content }}
+		</div>
 	</div>
 </div>
