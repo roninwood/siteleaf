@@ -13,9 +13,6 @@ I was most recently the Lead Designer on the Marketing and Brand team at [Celtra
 
 Based in Brooklyn, originally from southern Virginia. Big fan of pizza. Big fan of making pizza at home. [Big fan of these songs](https://open.spotify.com/playlist/4m1O4IBKp8SEb8S4qoMzcp?si=DDXByu0vTAq_Q6n-6ilIiw).
 
-## Pretty good at 
-Posters, marketing materials, paid & organic social, web design (marketing and landing pages), email, display ads, political work, print design, merch & swag, presentations, album covers, playlist creation, and more! 
-
 ## Contact
 I'm open to freelance, contact work, and select full-time opportunities. Reach out if you have something you'd love some help on! Excited to help you with anything from your big and exciting brand campaigns to resizing JPGs for social.
 
