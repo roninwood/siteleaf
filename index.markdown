@@ -6,9 +6,9 @@ skills: Posters, marketing materials, social content, web design (marketing and 
   pages), email, display ads, political work, print design, merch & company swag,
   presentations, album covers, playlist creation, and more!
 clients_header: Select Clients
-clients: DSA, NYC-DSA, Splice, Refinery29, State Senator Jabari Brisport, Design for
-  Progress, Vital City, Amazon Labor Union, Housing Justice for All, City Council
-  Member Alexa Avilés & more
+clients: Flexport, DSA, Splice, Refinery29, State Senator Jabari Brisport, City Council
+  Member Alexa Avilés, Design for Progress, Vital City, Amazon Labor Union, Housing
+  Justice for All & more
 assets:
 - path: "/uploads/ronin-header.jpg"
   alt: Ronin wearing a bright green t-shirt, a bucket hat, and sunglasses with a big
