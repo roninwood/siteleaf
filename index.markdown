@@ -10,9 +10,8 @@ clients: Flexport, DSA, Splice, Refinery29, State Senator Jabari Brisport, City 
   Member Alexa Avilés, Design for Progress, Vital City, Amazon Labor Union, Housing
   Justice for All & more
 assets:
-- path: "/uploads/ronin-header.jpg"
-  alt: Ronin wearing a bright green t-shirt, a bucket hat, and sunglasses with a big
-    smile.
+- path: "/uploads/ronin-header2.jpg"
+  alt: Ronin making a peace sign posing in soho nyc
 layout: index
 ---
 
