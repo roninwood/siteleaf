@@ -11,7 +11,7 @@ clients: Flexport, DSA, Splice, Refinery29, State Senator Jabari Brisport, City 
   Justice for All & more
 assets:
 - path: "/uploads/R0000496-4.jpg"
-  alt: Ronin making a peace sign posing in soho nyc
+  alt: Ronin wearing red enjoying a martini
 layout: index
 ---
 
