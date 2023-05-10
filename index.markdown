@@ -10,7 +10,7 @@ clients: Flexport, DSA, Splice, Refinery29, State Senator Jabari Brisport, City 
   Member Alexa Avilés, Design for Progress, Vital City, Amazon Labor Union, Housing
   Justice for All & more
 assets:
-- path: "/uploads/ronin-header2-c134d3.jpg"
+- path: "/uploads/R0000496-3.jpg"
   alt: Ronin making a peace sign posing in soho nyc
 layout: index
 ---
