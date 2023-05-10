@@ -7,4 +7,4 @@ tags:
 - swag
 ---
 
-![R0000559.jpg](/uploads/R0000559.jpg)
+[![R0000559.jpg](/uploads/R0000559.jpg)](https://shop.socialists.nyc/products/new-york-city-democratic-socialists-of-america-t-shirt)
