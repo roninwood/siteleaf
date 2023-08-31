@@ -7,4 +7,4 @@ tags:
 - swag
 ---
 
-![DSA-Sports-1-3.jpg](/uploads/DSA-Sports-1-3.jpg)
+![DSA-Sports-4-1.jpg](/uploads/DSA-Sports-4-1.jpg)
