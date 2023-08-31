@@ -1,5 +1,5 @@
 ---
-title: NYC-DSA -  Sports Tank & Shorts - Photos by Alex Chan
+title: NYC-DSA -  Sports Tank & Shorts - Photos by @noelle.png
 date: 2023-08-30 22:56:00 -04:00
 categories:
 - Politics
