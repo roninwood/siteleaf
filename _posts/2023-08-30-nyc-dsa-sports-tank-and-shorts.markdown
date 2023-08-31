@@ -7,4 +7,4 @@ tags:
 - swag
 ---
 
-![DSA-Sports-1-3-6ddd53.jpg](/uploads/DSA-Sports-1-3-6ddd53.jpg)
+![0826_NYCDSA_AC-11-1.jpg](/uploads/0826_NYCDSA_AC-11-1.jpg)
