@@ -7,4 +7,4 @@ tags:
 - swag
 ---
 
-![0826_NYCDSA_AC-11-1.jpg](/uploads/0826_NYCDSA_AC-11-1.jpg)
+![new-2.jpg](/uploads/new-2.jpg)
