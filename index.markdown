@@ -18,4 +18,4 @@ layout: index
 
 Ronin Wood is a Brooklyn-based graphic designer currently on parental leave!
 
-Available for select freelance starting early 2024 👶
+Available for select freelance 👶
