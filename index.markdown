@@ -16,6 +16,6 @@ assets:
 layout: index
 ---
 
-Ronin Wood is a Brooklyn-based graphic designer currently on parental leave!
+Ronin Wood is a full time Brooklyn-based dad and part time graphic designer.
 
 Available for select freelance 👶
