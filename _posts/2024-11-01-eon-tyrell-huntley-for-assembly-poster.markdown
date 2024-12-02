@@ -8,4 +8,4 @@ tags:
 - print
 ---
 
-![eon-poster.jpg](/uploads/eon-poster.jpg)
+![eon-poster-68caab.jpg](/uploads/eon-poster-68caab.jpg)
