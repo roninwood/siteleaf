@@ -8,4 +8,4 @@ tags:
 - social
 ---
 
-![dsa-aoc10-1.jpg](/uploads/dsa-aoc10-1.jpg)
+![dsa-aoc10-2.jpg](/uploads/dsa-aoc10-2.jpg)
