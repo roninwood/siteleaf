@@ -8,4 +8,4 @@ tags:
 - album covers
 ---
 
-![GABA-full-text-100.jpg](/uploads/GABA-full-text-100.jpg)
+![GABA-full-text-100-b6bded.jpg](/uploads/GABA-full-text-100-b6bded.jpg)
