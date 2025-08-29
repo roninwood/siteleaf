@@ -11,7 +11,7 @@ clients: Assemblymember Zohran K. Mamdani, 404 Media, Brooklyn Brewery, Hell Gat
   State Senator Jabari Brisport, City Council Member Alexa Avilés, Design for Progress,
   Vital City, Amazon Labor Union, Housing Justice for All
 assets:
-- path: "/uploads/R0000496-4.jpg"
+- path: "/uploads/roninandmax.jpg"
   alt: Ronin wearing red enjoying a martini
 layout: index
 ---
