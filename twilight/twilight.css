@@ -1,0 +1,107 @@
+body {
+	background-color: #FC5A00;
+	text-align: center;
+	padding: 0;
+	margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6, p, li {
+	font-family: "Arial Black", "Arial", "Helvetica", sans-serif;
+	font-size: 150%;
+	font-weight: 900;
+	line-height: 1.5;
+}
+
+h1 {
+	margin-bottom: -20px;
+}
+
+h2 {
+	margin-bottom: 0px;
+}
+
+.container {
+	max-width: 800px;
+	margin: 80px auto 200px;
+	padding-left: 24px;
+	padding-right: 24px;
+}
+
+
+/* Bella Jacob image */
+.img-bella-jacob {
+	display: block;
+	margin-top: 60px;
+	width: 100%;
+}
+
+
+/* The Ronin Cut logo */
+.logo-the-ronin-cut {
+	width: 250px;
+	margin-top: -80px;
+	margin-bottom: 40px;
+}
+
+/* Download button */
+.button {
+	background-color: #1010FF;
+	color: #17FC10;
+	display: inline-block;
+	padding: 12px 32px;
+	border-radius: 10px;
+	font-family: "Arial Black", "Arial", "Helvetica", sans-serif;
+	font-size: 100%;
+	font-weight: 900;
+	line-height: 1.5;
+	text-decoration: none;
+	text-transform: uppercase;
+	transition: all ease-in-out 0.3s;
+	margin-bottom: 140px;
+	margin-top: 40px;
+}
+
+.button:hover {
+	background-color: #000;
+}
+
+
+/* Soundtrack download links */
+.download-links {
+	list-style-type: none;
+	display: flex;
+	justify-content: center;
+	gap: 12px;
+	row-gap: 12px;
+	flex-wrap: wrap;
+	margin: 0;
+	padding: 0;
+}
+
+.download-links li {
+	margin: 0;
+	padding: 0;
+}
+
+.download-links a {
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #000;
+}
+
+.download-links a:hover {
+	color: #1010FF;	
+	transition: all ease-in-out 0.3s;
+}
+
+
+
+/* Alice quote */
+.quote {
+	max-width: 600px;
+	margin: 40px auto;
+}
+
+
+
+
