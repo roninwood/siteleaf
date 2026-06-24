@@ -6,10 +6,9 @@ skills: Posters, marketing materials, social content, web design (marketing and 
   pages), email, display ads, political work, print design, merch & company swag,
   album covers, playlist creation, and more!
 clients_header: Select Clients
-clients: Zohran K. Mamdani, 404 Media, Brooklyn Brewery, Hell Gate, Flexport, Fast
-  Company, INC, Magic Spoon, Gilded Audio, DSA, Splice, Refinery29, State Senator
-  Jabari Brisport, City Council Member Alexa Avilés, Amazon Labor Union, Housing Justice
-  for All
+clients: Zohran K. Mamdani, Claire Valdez, 404 Media, Hell Gate, Brooklyn Brewery,
+  Flexport, Fast Company, Magic Spoon, Gilded Audio, DSA, Splice, Refinery29, Jabari
+  Brisport, Alexa Avilés, Amazon Labor Union, Housing Justice for All
 assets:
 - path: "/uploads/roninandmax.jpg"
   alt: Ronin wearing red enjoying a martini
