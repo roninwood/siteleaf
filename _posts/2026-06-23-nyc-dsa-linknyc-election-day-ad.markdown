@@ -1,6 +1,6 @@
 ---
 title: NYC-DSA LinkNYC Election Day Ad
-date: 2026-06-16 14:05:00 -04:00
+date: 2026-06-23 14:05:00 -04:00
 categories:
 - Politics
 - Freelance
