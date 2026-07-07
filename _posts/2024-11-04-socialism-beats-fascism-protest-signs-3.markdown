@@ -1,6 +1,6 @@
 ---
 title: Socialism beats fascism - Protest Signs 3
-date: 2024-11-01 21:31:00 -04:00
+date: 2024-11-04 21:31:00 -05:00
 categories:
 - Politics
 tags:
