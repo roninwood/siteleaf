@@ -1,6 +1,6 @@
 ---
 title: NYC-DSA - Soccer Jersey 1
-date: 2026-07-06 20:54:00 -04:00
+date: 2026-06-01 20:54:00 -04:00
 categories:
 - Politics
 tags:
