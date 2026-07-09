@@ -1,8 +1,8 @@
 ---
-title: New York City Democratic Socialists of America T-Shirt - Black
+title: New York City Democratic Socialists of America T-Shirt
 date: 2023-05-10 08:58:00 -04:00
 categories:
-- Politics
+- DSA
 tags:
 - swag
 ---
