@@ -1,8 +1,8 @@
 ---
-title: NYC-DSA - Rave Against The Machine
+title: Rave Against The Machine Poster
 date: 2022-04-27 15:57:00 -04:00
 categories:
-- Politics
+- DSA
 tags:
 - print
 - social
