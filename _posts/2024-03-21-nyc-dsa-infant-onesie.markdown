@@ -1,9 +1,9 @@
 ---
-title: NYC-DSA Infant Onesie
+title: Infant Onesie
 date: 2024-03-21 13:49:00 -04:00
 categories:
-- Politics
 - Freelance
+- DSA
 tags:
 - swag
 ---
