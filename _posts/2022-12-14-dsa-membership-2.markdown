@@ -2,7 +2,7 @@
 title: NYC-DSA Membership Drive - Fight the Right
 date: 2022-12-14 22:40:00 -05:00
 categories:
-- Politics
+- DSA
 tags:
 - posters
 ---
