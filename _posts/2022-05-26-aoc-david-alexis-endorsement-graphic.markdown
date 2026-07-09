@@ -3,6 +3,7 @@ title: AOC David Alexis Endorsement Graphic
 date: 2022-05-26 09:33:00 -04:00
 categories:
 - Politics
+- DSA
 tags:
 - social
 ---
