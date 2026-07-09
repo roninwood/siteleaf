@@ -1,8 +1,8 @@
 ---
-title: NYC-DSA Abortion Rally - Poster
+title: Reproductive Rights Poster
 date: 2022-05-04 16:46:00 -04:00
 categories:
-- Politics
+- DSA
 tags:
 - print
 ---
