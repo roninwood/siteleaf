@@ -1,9 +1,10 @@
 ---
-title: AOC & NYC-DSA Mass Call Graphic
+title: AOC Mass Call Graphic
 date: 2024-11-30 20:33:00 -05:00
 categories:
 - Politics
 - Freelance
+- DSA
 tags:
 - social
 ---
