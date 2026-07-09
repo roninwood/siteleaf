@@ -5,6 +5,7 @@ categories:
 - DSA
 tags:
 - posters
+- print
 ---
 
 ![dsa-membership-poster.jpg](/uploads/dsa-membership-poster.jpg)
