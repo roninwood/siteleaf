@@ -1,9 +1,8 @@
 ---
-title: Socialism Beats Fascism Protest Signs
+title: Socialism beats fascism - Protest Signs 2
 date: 2024-11-04 21:31:00 -05:00
 categories:
 - Politics
-- DSA
 tags:
 - print
 ---
