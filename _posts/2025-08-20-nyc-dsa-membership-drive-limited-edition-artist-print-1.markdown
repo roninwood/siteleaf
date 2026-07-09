@@ -1,9 +1,10 @@
 ---
-title: NYC-DSA - Membership Drive Limited Edition Artist Print 1
+title: Solidarity Forever Screenprint
 date: 2025-08-20 15:12:00 -04:00
 categories:
 - Politics
 - Freelance
+- DSA
 tags:
 - print
 ---
