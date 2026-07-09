@@ -1,8 +1,8 @@
 ---
-title: NYC-DSA Hat - back
+title: Black Hat
 date: 2021-01-21 18:28:00 -05:00
 categories:
-- Politics
+- DSA
 tags:
 - swag
 ---
