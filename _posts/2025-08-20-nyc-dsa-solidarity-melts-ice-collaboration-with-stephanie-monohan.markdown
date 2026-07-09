@@ -1,9 +1,10 @@
 ---
-title: NYC-DSA - Solidarity Melts ICE - Collaboration with Stephanie Monohan
+title: Solidarity Melts ICE Shirt - Collaboration with Stephanie Monohan
 date: 2025-08-20 15:41:00 -04:00
 categories:
 - Politics
 - Freelance
+- DSA
 tags:
 - swag
 ---
