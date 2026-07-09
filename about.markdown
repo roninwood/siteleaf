@@ -17,10 +17,8 @@ Based in Brooklyn, originally from southern Virginia. Big fan of pizza. Big fan 
 I’m open to select freelance. Reach out if you have something you’d love some help on! Excited to help you with anything from your big and exciting brand campaigns to resizing JPGs for social.
 
 - [Email](mailto:hi@roninwood.com)
-- [Resume](/uploads/ronin-wood-resume-2023.pdf)
-- [WorkingNotWorking](https://workingnotworking.com/34933-ronin)
 - [Linkedin](https://www.linkedin.com/in/roninwood/)
-- <a rel="me" href="https://mastodon.social/@roninwood">Mastodon</a>
+- <a rel="me" href="https://www.instagram.com/roninwood/">Instagram</a>
 
 ## Press & Featured 
 - [New York Magazine 2022 Holiday Gift Guide](https://nymag.com/strategist/article/best-christmas-gifts-under-50-2022.html)
