@@ -1,6 +1,6 @@
 ---
 title: Tax The Rich Rally with Bernie!
-date: 2026-07-08 21:59:00 -04:00
+date: 2026-07-08 22:00:00 -04:00
 categories:
 - DSA
 - Politics
@@ -8,4 +8,4 @@ tags:
 - print
 ---
 
-![bernietax5.jpg](/uploads/bernietax5.jpg)
+![bernietax4.jpg](/uploads/bernietax4.jpg)
