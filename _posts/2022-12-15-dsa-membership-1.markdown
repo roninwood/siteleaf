@@ -1,5 +1,5 @@
 ---
-title: NYC-DSA Membership Drive - Logo
+title: NYC-DSA Membership Drive Logo
 date: 2022-12-15 01:40:00 -05:00
 categories:
 - DSA
