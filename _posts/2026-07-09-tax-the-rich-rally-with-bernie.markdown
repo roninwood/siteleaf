@@ -1,5 +1,5 @@
 ---
-title: Tax The Rich Rally with Bernie! Hand Signs
+title: Tax The Rich Rally with Bernie! Photo Wall
 date: 2026-07-09 08:10:00 -04:00
 categories:
 - DSA
