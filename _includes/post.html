@@ -35,6 +35,9 @@
 		<div class="text-body mt-xs-2 mb-xs-1">
 			{{post.title}}
 		</div>
+		<div class="text-accent text-grey mb-xs-1">
+			{{post.subtext}}
+		</div>
 		<ul class="list-unstyled list-inline text-accent">
 			{% for category in post.categories %}
 				<li class="mr-xs-2 mb-xs-1"><a href="/categories/{{ category | slugify }}" class="link-grey">{{ category }}</a></li>
