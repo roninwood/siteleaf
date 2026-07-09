@@ -1,7 +1,8 @@
 ---
-title: 2DSA 2MANY - Fundraiser Event Graphic
+title: 2DSA 2MANY Fundraiser Event Graphic
 date: 2021-11-20 10:21:00 -05:00
 categories:
+- DSA
 - Politics
 tags:
 - posters
