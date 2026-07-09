@@ -1,8 +1,8 @@
 ---
-title: NYC-DSA Skull & Roses Labor Solidarity Tee
+title: Skull & Roses Labor Solidarity Tee
 date: 2023-07-23 21:26:00 -04:00
 categories:
-- Politics
+- DSA
 tags:
 - swag
 ---
