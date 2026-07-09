@@ -11,7 +11,7 @@ clients: Zohran K. Mamdani, Claire Valdez, 404 Media, Hell Gate, Brooklyn Brewer
   Brisport, Alexa Avilés, Amazon Labor Union, Housing Justice for All
 assets:
 - path: "/uploads/roninandmax.jpg"
-  alt: Ronin wearing red enjoying a martini
+  alt: Ronin and Max
 layout: index
 ---
 
