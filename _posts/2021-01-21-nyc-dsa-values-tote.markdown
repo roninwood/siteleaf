@@ -1,8 +1,8 @@
 ---
-title: NYC-DSA values tote
+title: Values Tote
 date: 2021-01-21 22:32:00 -05:00
 categories:
-- Politics
+- DSA
 tags:
 - swag
 ---
