@@ -1,8 +1,8 @@
 ---
-title: NYC-DSA Abortion Rally - Palm Card
+title: Reproductive Rights Palm Card
 date: 2022-05-04 16:15:00 -04:00
 categories:
-- Politics
+- DSA
 tags:
 - print
 ---
