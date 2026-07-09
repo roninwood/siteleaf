@@ -1,5 +1,5 @@
 ---
-title: Tax The Rich Rally with Bernie!
+title: Tax The Rich Rally with Bernie! Backstage Pass
 date: 2026-07-08 22:04:00 -04:00
 categories:
 - DSA
