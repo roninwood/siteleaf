@@ -1,5 +1,5 @@
 ---
-title: NYC-DSA - Soccer Jersey 2
+title: NYC-DSA - Soccer Jersey
 date: 2026-06-01 21:03:00 -04:00
 ---
 
