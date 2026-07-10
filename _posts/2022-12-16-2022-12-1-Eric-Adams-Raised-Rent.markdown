@@ -2,7 +2,6 @@
 title: Eric Adams Raised My Rent T-Shirts
 date: 2022-12-16 11:05:00 -05:00
 categories:
-- Politics
 - DSA
 tags:
 - swag
