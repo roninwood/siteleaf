@@ -4,7 +4,6 @@ date: 2026-06-25 14:05:00 -04:00
 categories:
 - DSA
 - Politics
-- Freelance
 tags:
 - posters
 - print
