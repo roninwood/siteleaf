@@ -6,6 +6,7 @@ categories:
 - Politics
 tags:
 - print
+subtext: Faraz Ansari
 ---
 
 ![bernietax7.jpg](/uploads/bernietax7.jpg)
