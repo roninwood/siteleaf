@@ -5,7 +5,7 @@ categories:
 - DSA
 tags:
 - swag
-subtext: Photos by [Alexandra Chan](https://www.alexandranoellechan.com/)
+subtext: Photos by Alexandra Chan
 ---
 
 ![shorts1-1.jpg](/uploads/shorts1-1.jpg)
