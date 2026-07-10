@@ -2,8 +2,6 @@
 title: Democratic Socialists Rose Screenprint
 date: 2025-08-20 15:15:00 -04:00
 categories:
-- Freelance
-- Politics
 - DSA
 tags:
 - print
