@@ -1,9 +1,8 @@
 ---
-title: NYC-DSA 4 Zohran
+title: NYC-DSA 4 Zohran Shirt
 date: 2025-08-20 15:48:00 -04:00
 categories:
 - Politics
-- Freelance
 tags:
 - swag
 subtext: Collaboration with Stephanie Monohan
