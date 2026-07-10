@@ -1,5 +1,5 @@
 ---
-title: 404 Media - Varsity Sweater
+title: 404 Media Varsity Sweater
 date: 2025-12-29 14:16:00 -05:00
 categories:
 - Freelance
