@@ -2,7 +2,6 @@
 title: Unionize Your Workplace Screenprint
 date: 2025-08-20 15:16:00 -04:00
 categories:
-- Freelance
 - Politics
 - DSA
 tags:
