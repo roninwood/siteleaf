@@ -10,7 +10,7 @@ clients: Zohran K. Mamdani, Claire Valdez, 404 Media, Hell Gate, Brooklyn Brewer
   Flexport, Fast Company, Magic Spoon, Gilded Audio, DSA, Splice, Refinery29, Jabari
   Brisport, Alexa Avilés, Amazon Labor Union, Housing Justice for All
 assets:
-- path: "/uploads/roninandmax.jpg"
+- path: "/uploads/roninandmax-a6c222.jpg"
   alt: Ronin and Max
 layout: index
 ---
