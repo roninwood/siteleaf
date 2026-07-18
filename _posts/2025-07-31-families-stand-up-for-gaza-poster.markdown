@@ -5,4 +5,4 @@ categories:
 - DSA
 ---
 
-![DMxf1ZXuYAy.jpg](/uploads/DMxf1ZXuYAy.jpg)
+![family-green-100.jpg](/uploads/family-green-100.jpg)
