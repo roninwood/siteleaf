@@ -20,6 +20,7 @@ I’m open to select freelance. Reach out if you have something you’d love som
 
 ## Press & Featured 
 - [New York Times - "How Democratic Socialists Are Wrestling With Their Next Moves"](https://www.nytimes.com/2026/08/03/us/politics/democratic-socialists-midterms-democrats-republicans.html)
+- [New York Times - "Chants of ‘Tax the Rich’ Fuel a Brooklyn Rave for Mayor Mamdani"](https://www.nytimes.com/2026/01/02/style/mamdani-paragon-brooklyn-democratic-socialist.html)
 - [New York Magazine 2022 Holiday Gift Guide](https://nymag.com/strategist/article/best-christmas-gifts-under-50-2022.html)
 - [New York Magazine Lookbook](https://www.curbed.com/2022/11/democratic-socialist-convention-nyc-photos.html)
 - [Hey Alma](https://www.heyalma.com/this-jewish-musical-duo-is-releasing-a-new-single-for-each-night-of-hanukkah/)
