@@ -9,9 +9,7 @@ layout: about
 
 # About
 
-I work with brands, nonprofits, and political candidates and organizations. I’ve worked at large, established tech companies, early stage startups, political campaigns, direct-to-consumer brands, and even as a designer at an off-Broadway show.
-
-Based in Brooklyn, originally from southern Virginia. Big fan of pizza. Big fan of making pizza at home.
+I work with brands, nonprofits, and political candidates. I’ve worked at large, established tech companies, early stage startups, political campaigns, direct-to-consumer brands, and even as a designer at an off-Broadway show.
 
 ## Get in touch
 I’m open to select freelance. Reach out if you have something you’d love some help on! Excited to help you with anything from your big and exciting brand campaigns to resizing JPGs for social.
@@ -21,6 +19,7 @@ I’m open to select freelance. Reach out if you have something you’d love som
 - <a rel="me" href="https://www.instagram.com/roninwood/">Instagram</a>
 
 ## Press & Featured 
+- [New York Times - "How Democratic Socialists Are Wrestling With Their Next Moves"](https://www.nytimes.com/2026/08/03/us/politics/democratic-socialists-midterms-democrats-republicans.html)
 - [New York Magazine 2022 Holiday Gift Guide](https://nymag.com/strategist/article/best-christmas-gifts-under-50-2022.html)
 - [New York Magazine Lookbook](https://www.curbed.com/2022/11/democratic-socialist-convention-nyc-photos.html)
 - [Hey Alma](https://www.heyalma.com/this-jewish-musical-duo-is-releasing-a-new-single-for-each-night-of-hanukkah/)
