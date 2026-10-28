@@ -15,6 +15,4 @@ assets:
 layout: index
 ---
 
-Ronin Wood is a full time Brooklyn-based dad and part time graphic designer.
-
-Available for select freelance 👶
+Ronin Wood is a graphic designer for the Democratic Socialists of America
