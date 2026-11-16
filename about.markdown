@@ -7,13 +7,9 @@ assets:
 layout: about
 ---
 
-# About
-
-I work with brands, nonprofits, and political candidates. I’ve worked at large, established tech companies, early stage startups, political campaigns, direct-to-consumer brands, and even as a designer at an off-Broadway show.
-
 ## Get in touch
 
-I’m open to select freelance. Reach out if you have something you’d love some help on! Excited to help you with anything from your big and exciting brand campaigns to resizing JPGs for social.
+I’m open to select freelance. Reach out if you have something you’d love some help on! 
 
 * [Email](mailto:hi@roninwood.com)
 
