@@ -15,20 +15,4 @@ assets:
 layout: index
 ---
 
-Ronin Wood is a graphic designer for the Democratic Socialists of America
-
-    _,--._.-,
-   /\_r-,\_ )
-.-.) _;='_/ (.;
- \ \'     \/\ )
-  L.'-. _.'|-'
- <_`-'\'_.'/
-   `'-._( \
-    ___   \\,      ___
-    \ .'-. \\   .-'_. /
-     '._' '.\\/.-'_.'
-        '--``\('--'
-        DSA   \\
-              `\\,
-                \|
-
+Ronin Wood is a graphic designer for the Democratic Socialists of America.
