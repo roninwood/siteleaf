@@ -16,3 +16,19 @@ layout: index
 ---
 
 Ronin Wood is a graphic designer for the [Democratic Socialists of America ](https://www.dsausa.org/)
+
+    _,--._.-,
+   /\_r-,\_ )
+.-.) _;='_/ (.;
+ \ \'     \/\ )
+  L.'-. _.'|-'
+ <_`-'\'_.'/
+   `'-._( \
+    ___   \\,      ___
+    \ .'-. \\   .-'_. /
+     '._' '.\\/.-'_.'
+        '--``\('--'
+        DSA   \\
+              `\\,
+                \|
+
